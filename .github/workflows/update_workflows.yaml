@@ -24,7 +24,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run script
-        run: python script.py
+        run: python scripts/runner.py
 
       - name: Commit changes
         run: |
