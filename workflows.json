@@ -1,0 +1,1397 @@
+[
+    {
+        "url": "https://alfred.app/workflows/biatidigital/calculate-anything/",
+        "icon_url": "https://alfred.app/workflows/biatidigital/calculate-anything/icon.png",
+        "icon_hash": "25305ca237d588f0d8c631db3673cf2d25a3383719b9f421318ecf15c86b5675",
+        "title": "Calculate Anything",
+        "description": "Convert measurements, currencies, time, and more using natural language",
+        "author": "biatidigital",
+        "installation_url": "alfred://gallery/workflow/biatidigital/calculate-anything/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "System Settings",
+        "description": "Open macOS System Settings Panes",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
+        "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
+        "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
+        "title": "MTG Card Search",
+        "description": "Search for Magic: The Gathering playing cards",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/mtg-card-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/hackerboard/",
+        "icon_url": "https://alfred.app/workflows/vitor/hackerboard/icon.png",
+        "icon_hash": "ab88b365e66117b814837693805d5d8ec521c60d2996559e0f72c4bc0469f97c",
+        "title": "Hackerboard",
+        "description": "Links from the front page of Hacker News",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
+        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
+        "title": "Shortcuts",
+        "description": "Run installed macOS shortcuts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/pin-plus/",
+        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
+        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
+        "title": "Pin Plus",
+        "description": "Interact with your Pinboard bookmarks",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/icon.png",
+        "icon_hash": "e8695d37beff558e81b69d79a5ef7b0eeaf80dddf6c7a33d6396363a062e51d6",
+        "title": "AppleScript Dictionaries",
+        "description": "Find and open Mac automation dictionaries",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/applescript-dictionaries/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/1password/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
+        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
+        "title": "1Password",
+        "description": "Search and open 1Password items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/google-drive/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
+        "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
+        "title": "Google Drive",
+        "description": "List File Stream contents from Google Drive",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/shrink-jpeg-png-files/",
+        "icon_url": "https://alfred.app/workflows/stephenc/shrink-jpeg-png-files/icon.png",
+        "icon_hash": "b7b8566302954cedd2b049697420449b859741bb40f6e0f4559bacc02204c515",
+        "title": "Shrink JPEG/PNG files",
+        "description": "Reduce the dimensions of JPEG and PNG files",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/shrink-jpeg-png-files/"
+    },
+    {
+        "url": "https://alfred.app/workflows/xilopaint/urban-dictionary/",
+        "icon_url": "https://alfred.app/workflows/xilopaint/urban-dictionary/icon.png",
+        "icon_hash": "fccc11c6f1a0f1be9ff5ba9237720a0f06aee8351c1e2691af819ea5d3db763a",
+        "title": "Urban Dictionary",
+        "description": "Search Urban Dictionary",
+        "author": "xilopaint",
+        "installation_url": "alfred://gallery/workflow/xilopaint/urban-dictionary/"
+    },
+    {
+        "url": "https://alfred.app/workflows/sepulchra/oblique-strategies/",
+        "icon_url": "https://alfred.app/workflows/sepulchra/oblique-strategies/icon.png",
+        "icon_hash": "8bb9b61a815234a29035eb53a04578c98265f57ab420fc3650f7cd5b9834a07d",
+        "title": "Oblique Strategies",
+        "description": "Over One Hundred Worthwhile Dilemmas",
+        "author": "sepulchra",
+        "installation_url": "alfred://gallery/workflow/sepulchra/oblique-strategies/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrislemke/chatfred/",
+        "icon_url": "https://alfred.app/workflows/chrislemke/chatfred/icon.png",
+        "icon_hash": "f6a2d5b4e0068197dfde9e4af029ef83f8c7362c0980d77ccf6bafe3180cbc20",
+        "title": "ChatFred",
+        "description": "Access ChatGPT, DALL\u00b7E 2, and other OpenAI models",
+        "author": "chrislemke",
+        "installation_url": "alfred://gallery/workflow/chrislemke/chatfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/yak-saver/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/yak-saver/icon.png",
+        "icon_hash": "d76ae7af53fe237fa1d05d1e9ab82030cb321bc9d7ae0e46e71296111d715da0",
+        "title": "Yak Saver",
+        "description": "Set a reminder to get focused for a set amount of time",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/yak-saver/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/dente-azul/",
+        "icon_url": "https://alfred.app/workflows/vitor/dente-azul/icon.png",
+        "icon_hash": "674372b04ec7534d9afb74ffcf036186fdc6b75e68dc91e8d5a6882b138b462b",
+        "title": "Dente Azul",
+        "description": "Toggle bluetooth and paired device connectivity",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/dente-azul/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexchantastic/lorem-ipsum/",
+        "icon_url": "https://alfred.app/workflows/alexchantastic/lorem-ipsum/icon.png",
+        "icon_hash": "f5d1e066d4e44918cb1a6e386f7cf90530727d40c750c0b0af99deae691d9aa2",
+        "title": "Lorem ipsum",
+        "description": "Generate dummy text",
+        "author": "alexchantastic",
+        "installation_url": "alfred://gallery/workflow/alexchantastic/lorem-ipsum/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/smart-webp/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/smart-webp/icon.png",
+        "icon_hash": "3cae7f035506fa1b631c0f7e170dbe08fdccbae16e70182a443410b53b1b179a",
+        "title": "Smart WebP",
+        "description": "Convert images to the WebP format",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/smart-webp/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/folderify/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/folderify/icon.png",
+        "icon_hash": "6809dc0949dccca5c9927db12c41dfae6433bd68adedb56559e8cfa4baf9e6bb",
+        "title": "Folderify",
+        "description": "Generate macOS folder icons",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/folderify/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "6cc8e58699d24ecca9db25011c7e5e359937e91e0d5a92fa506fea75458e600e",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/tophee/replace-semicolons-with-linebreaks/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Replace semicolons with linebreaks",
+        "description": "Replace semicolons and other separators with new lines",
+        "author": "tophee",
+        "installation_url": "alfred://gallery/workflow/tophee/replace-semicolons-with-linebreaks/"
+    },
+    {
+        "url": "https://alfred.app/workflows/xilopaint/things/",
+        "icon_url": "https://alfred.app/workflows/xilopaint/things/icon.png",
+        "icon_hash": "6ac107463e99f2e66d89af733040edf30d44bc6042630dd7fc6bd29f0164c74c",
+        "title": "Things",
+        "description": "Interact with Things",
+        "author": "xilopaint",
+        "installation_url": "alfred://gallery/workflow/xilopaint/things/"
+    },
+    {
+        "url": "https://alfred.app/workflows/kennonb/bing-wallpapers/",
+        "icon_url": "https://alfred.app/workflows/kennonb/bing-wallpapers/icon.png",
+        "icon_hash": "452062ba5d5897507362c0417a6ccb4372d9d836007374d9c5fe06a069f27ba9",
+        "title": "Bing Wallpapers",
+        "description": "Set Bing wallpapers as your desktop background",
+        "author": "kennonb",
+        "installation_url": "alfred://gallery/workflow/kennonb/bing-wallpapers/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/set-default-browser/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/set-default-browser/icon.png",
+        "icon_hash": "27721fd71d7c0b8b65b1cf01d10bcdd369201b7ac9b92b521616f96fcf7a138e",
+        "title": "Set Default Browser",
+        "description": "Change the default web browser",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/set-default-browser/"
+    },
+    {
+        "url": "https://alfred.app/workflows/tomy0000000/coinc/",
+        "icon_url": "https://alfred.app/workflows/tomy0000000/coinc/icon.png",
+        "icon_hash": "bbc488c66c4019526376412319af803c5b59fb6b15f6f81e2d75b239f1b26832",
+        "title": "Coinc",
+        "description": "Currency Conversion via Open Exchange Rates",
+        "author": "tomy0000000",
+        "installation_url": "alfred://gallery/workflow/tomy0000000/coinc/"
+    },
+    {
+        "url": "https://alfred.app/workflows/logicxd/vscodediff/",
+        "icon_url": "https://alfred.app/workflows/logicxd/vscodediff/icon.png",
+        "icon_hash": "fea8d68cf06c8d17814ac28f985475d8846ac8600d68dd789ef6539770016c84",
+        "title": "VSCodeDiff",
+        "description": "Show the diff of the last 2 items in clipboard history using VSCode",
+        "author": "logicxd",
+        "installation_url": "alfred://gallery/workflow/logicxd/vscodediff/"
+    },
+    {
+        "url": "https://alfred.app/workflows/sepulchra/mail-link/",
+        "icon_url": "https://alfred.app/workflows/sepulchra/mail-link/icon.png",
+        "icon_hash": "966ee70334a9e6351b4694661012bc6726ed56b921d27dd22f968ecb4d3d9e52",
+        "title": "Mail Link",
+        "description": "Create link to selected message in Apple Mail",
+        "author": "sepulchra",
+        "installation_url": "alfred://gallery/workflow/sepulchra/mail-link/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
+        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
+        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
+        "title": "Open Chrome Profile",
+        "description": "Switch to another Google Chrome profile",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
+    },
+    {
+        "url": "https://alfred.app/workflows/akrabat/date-tools/",
+        "icon_url": "https://alfred.app/workflows/akrabat/date-tools/icon.png",
+        "icon_hash": "fd59e4895ef3f23f3618f100d0b3c19d98bcca03e8786d335bb532b57f76d959",
+        "title": "Date Tools",
+        "description": "Check for day numbers and leap years",
+        "author": "akrabat",
+        "installation_url": "alfred://gallery/workflow/akrabat/date-tools/"
+    },
+    {
+        "url": "https://alfred.app/workflows/xilopaint/youtube-search/",
+        "icon_url": "https://alfred.app/workflows/xilopaint/youtube-search/icon.png",
+        "icon_hash": "0c3e74c06d55b2c7c3ca9b0b8ca85c0fba8c90b2e08803af7c1d67710f41a7df",
+        "title": "YouTube Search",
+        "description": "Search YouTube videos",
+        "author": "xilopaint",
+        "installation_url": "alfred://gallery/workflow/xilopaint/youtube-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
+        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
+        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
+        "title": "2FA Read Code",
+        "description": "Read two-factor authentication codes from Messages",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/about-mac/",
+        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
+        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
+        "title": "About Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
+    },
+    {
+        "url": "https://alfred.app/workflows/svenko99/sskj/",
+        "icon_url": "https://alfred.app/workflows/svenko99/sskj/icon.png",
+        "icon_hash": "cb2aa5b526da0c530f3440c1d5dbee408633b53eaddfd0ee24189e3341b04eeb",
+        "title": "SSKJ",
+        "description": "Slovenian Dictionary and Thesaurus",
+        "author": "svenko99",
+        "installation_url": "alfred://gallery/workflow/svenko99/sskj/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/calm-notifications/",
+        "icon_url": "https://alfred.app/workflows/vitor/calm-notifications/icon.png",
+        "icon_hash": "0da0bc45fe948d23717fcf66e00678c52dca1e28ca4b2e2a85f30b7e67371a2a",
+        "title": "Calm Notifications",
+        "description": "Toggle Do Not Disturb Focus Mode",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/calm-notifications/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/upload-file/",
+        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
+        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
+        "title": "Upload File",
+        "description": "Upload files and folders for easy sharing",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
+    },
+    {
+        "url": "https://alfred.app/workflows/jygh/recent-files/",
+        "icon_url": "https://alfred.app/workflows/jygh/recent-files/icon.png",
+        "icon_hash": "7f5ec17d5a8fde9022af4b6b61abfafa0adf8c6e559ac8ab4553884fedd6db9c",
+        "title": "Recent Files",
+        "description": "List the most recently created or modified files",
+        "author": "jygh",
+        "installation_url": "alfred://gallery/workflow/jygh/recent-files/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/phonetic-spelling/",
+        "icon_url": "https://alfred.app/workflows/giovanni/phonetic-spelling/icon.png",
+        "icon_hash": "a4ea11d2fbd6a0126d2afd725bf1c1b956400cd614e5465fe9297c36dad88fd1",
+        "title": "Phonetic Spelling",
+        "description": "Spell out words using phonetic alphabets",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/phonetic-spelling/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
+        "icon_url": "https://alfred.app/workflows/vitor/shrieking-chimes/icon.png",
+        "icon_hash": "974d0fe3b82f053849cea086ea81baabea9fd08e4d640b37c022a9bb6a8e0c4a",
+        "title": "Shrieking Chimes",
+        "description": "Set Timers and Alarms",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/shrieking-chimes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
+        "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
+        "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
+        "title": "Coffee Coffee",
+        "description": "Prevent your computer from going to sleep",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
+        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
+        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
+        "title": "YouVersion Suggest",
+        "description": "Search for and view Bible references on YouVersion",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
+        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
+        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
+        "title": "Movie and TV Show Search",
+        "description": "Search and get info on movies or TV shows",
+        "author": "tmcknight",
+        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/yohasebe/fzf/",
+        "icon_url": "https://alfred.app/workflows/yohasebe/fzf/icon.png",
+        "icon_hash": "221fda48e65f2de41375e4717e0165dd00bc414a6d86d713d205d7aa9ba55e94",
+        "title": "FZF",
+        "description": "Fuzzy find files and folders",
+        "author": "yohasebe",
+        "installation_url": "alfred://gallery/workflow/yohasebe/fzf/"
+    },
+    {
+        "url": "https://alfred.app/workflows/christianolsen/wireguard-control/",
+        "icon_url": "https://alfred.app/workflows/christianolsen/wireguard-control/icon.png",
+        "icon_hash": "dca783272b4c825804539191e157159ea30fb0158f76c3f9861f86bdd3723eeb",
+        "title": "WireGuard Control",
+        "description": "Toggle WireGuard VPN connections",
+        "author": "christianolsen",
+        "installation_url": "alfred://gallery/workflow/christianolsen/wireguard-control/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/deep-contacts-search/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Deep Contacts Search",
+        "description": "Search all fields in a Contacts card",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/deep-contacts-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/note-taker/",
+        "icon_url": "https://alfred.app/workflows/vitor/note-taker/icon.png",
+        "icon_hash": "35574b9e7dbf03bf019a49924a5888ecc95b86a4f6ca9048f6601686113a48a6",
+        "title": "Note Taker",
+        "description": "Keep small bits of text",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benziahamed/menu-bar-search/",
+        "icon_url": "https://alfred.app/workflows/benziahamed/menu-bar-search/icon.png",
+        "icon_hash": "3ca692978746d83a7f5d4ee796a0e8a0ed0648cc4f836cc43de4d42e82c87908",
+        "title": "Menu Bar Search",
+        "description": "Search through menu items of the frontmost application",
+        "author": "benziahamed",
+        "installation_url": "alfred://gallery/workflow/benziahamed/menu-bar-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/get-summary-system-info/",
+        "icon_url": "https://alfred.app/workflows/stephenc/get-summary-system-info/icon.png",
+        "icon_hash": "864081520f099e7ac0842b345201b8cb87a5d408b110b2f6201ac576ac5ee859",
+        "title": "Get Summary System Info",
+        "description": "See hardware and software system information",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/get-summary-system-info/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/watch-list/",
+        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
+        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
+        "title": "Watch List",
+        "description": "Play and manage local media and streams",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
+        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
+        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
+        "title": "Virtual Machines",
+        "description": "Run and Manage Virtual Machines",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/temporary-email/",
+        "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
+        "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
+        "title": "Temporary Email",
+        "description": "Generate disposable email inboxes",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/start-recording/",
+        "icon_url": "https://alfred.app/workflows/vitor/start-recording/icon.png",
+        "icon_hash": "d9600992094d2b62b2342d32821d0a309bdb7be73252a4a3c86a334870a99a01",
+        "title": "Start Recording",
+        "description": "Shortcuts to record your Mac\u2019s audio, screen, or webcam",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/start-recording/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
+        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
+        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
+        "title": "Shutdown Timer",
+        "description": "Turn off macOS on a timer",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
+        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
+        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
+        "title": "Remove Quarantine",
+        "description": "Delete the quarantine attribute from app bundles and files",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/ping-pong/",
+        "icon_url": "https://alfred.app/workflows/vitor/ping-pong/icon.png",
+        "icon_hash": "d1c8d7df075f38c2f5be5e90f1a27d3a6d15179569db2c43b19b1f0b68089d47",
+        "title": "Ping Pong",
+        "description": "Play a round of table tennis with Alfred",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/ping-pong/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/label-colour-tag/",
+        "icon_url": "https://alfred.app/workflows/vitor/label-colour-tag/icon.png",
+        "icon_hash": "7303303f42eb61627ada119ea96f0dc0c93d247dbe68d5f86ee665896d058c35",
+        "title": "Label Colour Tag",
+        "description": "Edit file labels and tags",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/download-media/",
+        "icon_url": "https://alfred.app/workflows/vitor/download-media/icon.png",
+        "icon_hash": "64443ab5cfad206efcb00eff11b31eea89e59930472e5c9c14ce20daf6eb42db",
+        "title": "Download Media",
+        "description": "Download video and audio from web pages",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/download-media/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
+        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
+        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
+        "title": "Critic Ratings",
+        "description": "See Metacritic ratings for movies, tv, games, and music",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/app-freeze/",
+        "icon_url": "https://alfred.app/workflows/vitor/app-freeze/icon.png",
+        "icon_hash": "829ba911c88735c89a353ed261b39863a5a2e6687caeb3c0d22230b620dba2a5",
+        "title": "App Freeze",
+        "description": "Pause and resume execution of the frontmost app",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/app-freeze/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
+        "icon_hash": "35245c2a4d744f79e3c8f4f654bb60c223266f12fa7c00834dabcd74b913a407",
+        "title": "Window Switcher",
+        "description": "Switch to a specific window of an app in the current Desktop Space",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/tinypng/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/tinypng/icon.png",
+        "icon_hash": "60d5a53b869f0060a49145620c17e3f18d076ae11f076c1ff37a24a191ad268d",
+        "title": "TinyPNG",
+        "description": "Compress images via TinyPNG",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/tinypng/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/switch-appearance/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Switch Appearance",
+        "description": "Change between Light and Dark Mode",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/switch-appearance/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/streaming-genres/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/streaming-genres/icon.png",
+        "icon_hash": "d95dee8117b3fd07081999931295759cd569566a9c4df9d711fdca8d7eff9ca9",
+        "title": "Streaming Genres",
+        "description": "Filter through thousands of Netflix genres",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/streaming-genres/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/pause-tabs/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/pause-tabs/icon.png",
+        "icon_hash": "ec8511f3f2ae83cf775ed749adad5565325b5a67828db479f4e9adecd8aa9bd8",
+        "title": "Pause Tabs",
+        "description": "Pause audio and video in web browser tabs",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/pause-tabs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
+        "icon_hash": "b4ed605612aae9e7bc849bdd33b736e7b0b304392ad5c54ab7a813afd44c1471",
+        "title": "Network Quality",
+        "description": "Test your internet connection",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
+        "icon_hash": "e0c0e8973c5cfad63cf8c3864e96e194bdc896fcc7bcbdbd171ecd406cc807c3",
+        "title": "Low Power Mode",
+        "description": "Toggle Low Power Mode for Battery or Power Adapter",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/icon.png",
+        "icon_hash": "9030430f122ff4617f9e2de649d1661b2d9e8affb6e29d7fd69a7d2fdb2107e6",
+        "title": "Ignore in Alfred",
+        "description": "Exclude files and folders from Alfred\u2019s search results",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/ignore-in-alfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/icon.png",
+        "icon_hash": "1a4f0a233eede43b7d1c78392e226b6305d4eb43525a27cebf371af4aee10acd",
+        "title": "Alias Homebrew Apps",
+        "description": "Create shortcuts to Homebrew formula app bundles",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/alias-homebrew-apps/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/google-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-suggest/icon.png",
+        "icon_hash": "139d45c5a43c09b401bd6a4d7429e331e76b6ce6c9529ad6e4f66312e71456f8",
+        "title": "Google Suggest",
+        "description": "Get in-line Google search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
+        "icon_hash": "84b938e59d0dd5491438553492a648a363872a0c2c563fcece846eb5a832a4ec",
+        "title": "Amazon Suggest",
+        "description": "Get in-line Amazon search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/dynamic-file-search/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Dynamic File Search",
+        "description": "Choose a folder, then search for files within it",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/dynamic-file-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/world-clock/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/world-clock/icon.png",
+        "icon_hash": "cb1546cf61aed28c4d680db892b1a24f265d474fc9b72ff3e244ed69594e2052",
+        "title": "World Clock",
+        "description": "Check current time in multiple timezones",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/world-clock/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/rename-action/",
+        "icon_url": "https://alfred.app/workflows/vitor/rename-action/icon.png",
+        "icon_hash": "95590aa33b1d3bde0f0f249cd2b6106c9012a6c8bf7b5c391099b9763f1eb467",
+        "title": "Rename Action",
+        "description": "Rename files and folders",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/rename-action/"
+    },
+    {
+        "url": "https://alfred.app/workflows/houdahsoftware/search-houdahspot/",
+        "icon_url": "https://alfred.app/workflows/houdahsoftware/search-houdahspot/icon.png",
+        "icon_hash": "3fee5031a741527adfa1f0124db91cff975e51f30d0c262b08d57b679ccc8354",
+        "title": "Search HoudahSpot",
+        "description": "Open and search in HoudahSpot",
+        "author": "houdahsoftware",
+        "installation_url": "alfred://gallery/workflow/houdahsoftware/search-houdahspot/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
+        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
+        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
+        "title": "Open Conference URL",
+        "description": "Open the conference URL for upcoming calendar events",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
+    },
+    {
+        "url": "https://alfred.app/workflows/pglombardo/passwordpusher/",
+        "icon_url": "https://alfred.app/workflows/pglombardo/passwordpusher/icon.png",
+        "icon_hash": "a0f91d7c18569c1b1828333d1ccf5cee1c05f5ef139de66ca0401484de99370e",
+        "title": "PasswordPusher",
+        "description": "Share passwords with pwpush.com",
+        "author": "pglombardo",
+        "installation_url": "alfred://gallery/workflow/pglombardo/passwordpusher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/list-all-app-store-apps/",
+        "icon_url": "https://alfred.app/workflows/stephenc/list-all-app-store-apps/icon.png",
+        "icon_hash": "6e8c8eed07b1848df46b3a0e7a4b07c470c4708e97a7c50895406f5bc4072160",
+        "title": "List All App Store Apps",
+        "description": "List apps downloaded from the Mac App Store",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/list-all-app-store-apps/"
+    },
+    {
+        "url": "https://alfred.app/workflows/lcmanzara/open-arc-tab/",
+        "icon_url": "https://alfred.app/workflows/lcmanzara/open-arc-tab/icon.png",
+        "icon_hash": "0c8021ab75469209148bd31bd12d906770e6c26570299e35fea963e5a96c4383",
+        "title": "Open Arc Tab",
+        "description": "Find and open tabs or spaces in the Arc browser",
+        "author": "lcmanzara",
+        "installation_url": "alfred://gallery/workflow/lcmanzara/open-arc-tab/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/appid/",
+        "icon_url": "https://alfred.app/workflows/alanhe/appid/icon.png",
+        "icon_hash": "57003c7ba77bd657e332132cb58ea7574f8cb0fe047f81be6aa1eea0023b488a",
+        "title": "AppID",
+        "description": "Show Bundle ID, Version, and Icon of installed apps",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/appid/"
+    },
+    {
+        "url": "https://alfred.app/workflows/lolbat/read-uti-data/",
+        "icon_url": "https://alfred.app/workflows/lolbat/read-uti-data/icon.png",
+        "icon_hash": "642229fd50ecd1c74575bb76fe15ceb445468be9b6191c26ee2eae8318c206c8",
+        "title": "Read UTI data",
+        "description": "Copy the UTI data for given file extensions",
+        "author": "lolbat",
+        "installation_url": "alfred://gallery/workflow/lolbat/read-uti-data/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/list-file-metadata/",
+        "icon_url": "https://alfred.app/workflows/stephenc/list-file-metadata/icon.png",
+        "icon_hash": "9053ae0bf5b3aa0ee5f2709b278666a18503b3c449fd9cdaea1f0f2299b64cee",
+        "title": "List File Metadata",
+        "description": "Lists metadata for selected file",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/list-file-metadata/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/window-manager/",
+        "icon_url": "https://alfred.app/workflows/acidham/window-manager/icon.png",
+        "icon_hash": "fbb9486d4124a1406292ecd992894f38733e06b8d3fdcf3a4fe9e0bcf26a77cd",
+        "title": "Window Manager",
+        "description": "Move/Resize/Arrange Windows",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/window-manager/"
+    },
+    {
+        "url": "https://alfred.app/workflows/dnnsmnstrr/btt/",
+        "icon_url": "https://alfred.app/workflows/dnnsmnstrr/btt/icon.png",
+        "icon_hash": "4bb5df6d35e84290b806699ac98f912d0c486b60dd05dfb5be772cb1ed726a84",
+        "title": "BTT",
+        "description": "Run named triggers and actions from BetterTouchTool",
+        "author": "dnnsmnstrr",
+        "installation_url": "alfred://gallery/workflow/dnnsmnstrr/btt/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/markdown-notes/",
+        "icon_url": "https://alfred.app/workflows/acidham/markdown-notes/icon.png",
+        "icon_hash": "15c1c5aee9cb2011c9f946a8c05389e70f639ce769e3aaee53515711fde25515",
+        "title": "Markdown Notes",
+        "description": "Manage Markdown Notes",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/markdown-notes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caicailiushui/arc-tabs-and-spaces/",
+        "icon_url": "https://alfred.app/workflows/caicailiushui/arc-tabs-and-spaces/icon.png",
+        "icon_hash": "8830a0918a4f350108134c601bcd20f732d4cd0c0418d992459bfe81f4a4d672",
+        "title": "Arc Tabs and Spaces",
+        "description": "Search browser tabs and spaces in Arc",
+        "author": "caicailiushui",
+        "installation_url": "alfred://gallery/workflow/caicailiushui/arc-tabs-and-spaces/"
+    },
+    {
+        "url": "https://alfred.app/workflows/samedwardes/toggle-stage-manager/",
+        "icon_url": "https://alfred.app/workflows/samedwardes/toggle-stage-manager/icon.png",
+        "icon_hash": "ac70446854b4eef41d816e5378980fd7df0c24f8e355988199d92a6e3d081e0c",
+        "title": "Toggle Stage Manager",
+        "description": "Turn macOS Stage Manager on and off",
+        "author": "samedwardes",
+        "installation_url": "alfred://gallery/workflow/samedwardes/toggle-stage-manager/"
+    },
+    {
+        "url": "https://alfred.app/workflows/julienlehuen/epoch-converter/",
+        "icon_url": "https://alfred.app/workflows/julienlehuen/epoch-converter/icon.png",
+        "icon_hash": "2df4e78ebc27cc8a5d939b1421d88018cfdebefe3d5a88a8748f9ce75933ceb4",
+        "title": "Epoch Converter",
+        "description": "Make timestamps human-readable",
+        "author": "julienlehuen",
+        "installation_url": "alfred://gallery/workflow/julienlehuen/epoch-converter/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zarifpour/you-suggest/",
+        "icon_url": "https://alfred.app/workflows/zarifpour/you-suggest/icon.png",
+        "icon_hash": "781454623ea20da0b996d8dd8503d14c9fd340793937dc81c770638cebdf63da",
+        "title": "You.com Suggest",
+        "description": "Get in-line You.com search suggestions",
+        "author": "zarifpour",
+        "installation_url": "alfred://gallery/workflow/zarifpour/you-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/paper-formats/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Paper Formats",
+        "description": "Reference International Paper Formats",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/paper-formats/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/image-shrinker/",
+        "icon_url": "https://alfred.app/workflows/acidham/image-shrinker/icon.png",
+        "icon_hash": "ca24ce10fe36803e61c2223fc03a3f383ca6215e8c7ebbf4b9acc90dc4155ae6",
+        "title": "Image Shrinker",
+        "description": "Reduce file size and dimensions of images for sharing",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/image-shrinker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/find-and-replace-text/",
+        "icon_url": "https://alfred.app/workflows/stephenc/find-and-replace-text/icon.png",
+        "icon_hash": "420eee137a096c75d1940f8acbf62094d70dce138446c2d1918be2c770907b76",
+        "title": "Find and replace text",
+        "description": "Single find & replace in selected text",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/find-and-replace-text/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/double-space-to-single-space/",
+        "icon_url": "https://alfred.app/workflows/stephenc/double-space-to-single-space/icon.png",
+        "icon_hash": "cd17b9af0eaabe5b67d581b290099f6bf2ed9b284302b450058531e6ab41628f",
+        "title": "Double space to single space",
+        "description": "Collapse two spaces to a single space in text",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/double-space-to-single-space/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/new-folder/",
+        "icon_url": "https://alfred.app/workflows/stephenc/new-folder/icon.png",
+        "icon_hash": "ac396fb5c6dfa212640302d17ae9e4a7c7056dfce4a302ffdcee9e4e8500a27b",
+        "title": "New folder",
+        "description": "Make a new folder in the frontmost Finder window and move files to it",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/new-folder/"
+    },
+    {
+        "url": "https://alfred.app/workflows/boneskull/flush-dns/",
+        "icon_url": "https://alfred.app/workflows/boneskull/flush-dns/icon.png",
+        "icon_hash": "e9510ee8df56cbea366f585f9d445d8cef46ad75ee1ca68470da4d94dd78368c",
+        "title": "Flush DNS",
+        "description": "Flush DNS Cache",
+        "author": "boneskull",
+        "installation_url": "alfred://gallery/workflow/boneskull/flush-dns/"
+    },
+    {
+        "url": "https://alfred.app/workflows/jdevalk/html-element-finder/",
+        "icon_url": "https://alfred.app/workflows/jdevalk/html-element-finder/icon.png",
+        "icon_hash": "3d7e93d6b759aae51f9b21a17bb90e8fbe92a1b8497575bbcbb0522cec649a94",
+        "title": "HTML Element finder",
+        "description": "Find HTML elements by typing similar characters",
+        "author": "jdevalk",
+        "installation_url": "alfred://gallery/workflow/jdevalk/html-element-finder/"
+    },
+    {
+        "url": "https://alfred.app/workflows/rknightuk/gif-search/",
+        "icon_url": "https://alfred.app/workflows/rknightuk/gif-search/icon.png",
+        "icon_hash": "2a52399fd0772658e4d7b3971ca484ca02a91cda45c24f062ea1c5736432074f",
+        "title": "Gif Search",
+        "description": "Search your personal GIF collection",
+        "author": "rknightuk",
+        "installation_url": "alfred://gallery/workflow/rknightuk/gif-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
+        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
+        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
+        "title": "Search Alfred Workflows",
+        "description": "Browse installed Alfred Workflows",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/gleitz/howdoi/",
+        "icon_url": "https://alfred.app/workflows/gleitz/howdoi/icon.png",
+        "icon_hash": "243c01f17374fdfa8e2591724e97498fdba7f1290b00674f0d7ebf19064b7a1b",
+        "title": "Howdoi",
+        "description": "Instant coding answers",
+        "author": "gleitz",
+        "installation_url": "alfred://gallery/workflow/gleitz/howdoi/"
+    },
+    {
+        "url": "https://alfred.app/workflows/gingerbeardman/fsnotes/",
+        "icon_url": "https://alfred.app/workflows/gingerbeardman/fsnotes/icon.png",
+        "icon_hash": "b26018b6d6a7b3dd14eda3ed6cf3ea8fe78093f67f2c5f5393798241a1436a4e",
+        "title": "FSNotes",
+        "description": "Search for and create notes with FSNotes",
+        "author": "gingerbeardman",
+        "installation_url": "alfred://gallery/workflow/gingerbeardman/fsnotes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/rsync-folders/",
+        "icon_url": "https://alfred.app/workflows/acidham/rsync-folders/icon.png",
+        "icon_hash": "b2fe3e03062401f4bb1385db157707f62b7b9b029744718895d8185cf8d7a67a",
+        "title": "RSync Folders",
+        "description": "Sync folder contents",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/rsync-folders/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/aadvarq/",
+        "icon_url": "https://alfred.app/workflows/giovanni/aadvarq/icon.png",
+        "icon_hash": "519eb4d5634020ed06029151e099a8181f6b254fe8a97382b5ec277a52c424c7",
+        "title": "Aadvarq",
+        "description": "Alfred ADVanced Query",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/aadvarq/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
+        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
+        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
+        "title": "Chromium Bookmarks and History Search",
+        "description": "Search in Chromium Histories and Bookmarks",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/word-count/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Word count",
+        "description": "Display word count of selected text",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/word-count/"
+    },
+    {
+        "url": "https://alfred.app/workflows/manewitz/rubygems/",
+        "icon_url": "https://alfred.app/workflows/manewitz/rubygems/icon.png",
+        "icon_hash": "6cba86ca69a65fb620e2a081282461658e7c5adc8eed63bcaa788055b2d1610b",
+        "title": "RubyGems",
+        "description": "Search and open ruby gems on rubygems.org",
+        "author": "manewitz",
+        "installation_url": "alfred://gallery/workflow/manewitz/rubygems/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/simple-to-do-list/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Simple To-Do List",
+        "description": "Add tasks to to-do lists and view them",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/simple-to-do-list/"
+    },
+    {
+        "url": "https://alfred.app/workflows/saiya/sourcetree/",
+        "icon_url": "https://alfred.app/workflows/saiya/sourcetree/icon.png",
+        "icon_hash": "8c1aee76628bdb31ceb168efbac5e4b8c7aee1475e51f520e7a87567bfca92c8",
+        "title": "SourceTree",
+        "description": "Simple SourceTree Bookmark Launcher",
+        "author": "saiya",
+        "installation_url": "alfred://gallery/workflow/saiya/sourcetree/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/default-app/",
+        "icon_url": "https://alfred.app/workflows/acidham/default-app/icon.png",
+        "icon_hash": "14d57b26e32c84c0e91edee2a9cbcf2a3e749d7673672f957a37d007b016c1ff",
+        "title": "Default App",
+        "description": "Change default application for a filetype",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/default-app/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zqzten/web-search-suggest/",
+        "icon_url": "https://alfred.app/workflows/zqzten/web-search-suggest/icon.png",
+        "icon_hash": "4186007f146865e87fb1b77908e21f978ce2c4535fabf55dcdcf115402c374a9",
+        "title": "Web Search Suggest",
+        "description": "Get in-line web search suggestions",
+        "author": "zqzten",
+        "installation_url": "alfred://gallery/workflow/zqzten/web-search-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/right-click/",
+        "icon_url": "https://alfred.app/workflows/vitor/right-click/icon.png",
+        "icon_hash": "3a83520a033c8827fb030ea8a1583e64db86ea8eb272c7339c4c8399d9988eb5",
+        "title": "Right Click",
+        "description": "Trigger a right-click on Finder files, with the keyboard",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/right-click/"
+    },
+    {
+        "url": "https://alfred.app/workflows/rknightuk/get-safari-tabs/",
+        "icon_url": "https://alfred.app/workflows/rknightuk/get-safari-tabs/icon.png",
+        "icon_hash": "ea3f161d5e95ca545e689cb9c39362b5b42ba53bbe81d7e680da3b4a40500056",
+        "title": "Get Safari Tabs",
+        "description": "Copy all current Safari tabs to Markdown",
+        "author": "rknightuk",
+        "installation_url": "alfred://gallery/workflow/rknightuk/get-safari-tabs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/rknightuk/findmoji/",
+        "icon_url": "https://alfred.app/workflows/rknightuk/findmoji/icon.png",
+        "icon_hash": "4f51b8c04d81c8758f4e61d6f6ed456bf7bef87ee4647789fe0af3a3617c76d0",
+        "title": "Findmoji",
+        "description": "Find and paste emoji",
+        "author": "rknightuk",
+        "installation_url": "alfred://gallery/workflow/rknightuk/findmoji/"
+    },
+    {
+        "url": "https://alfred.app/workflows/rknightuk/http-status-codes/",
+        "icon_url": "https://alfred.app/workflows/rknightuk/http-status-codes/icon.png",
+        "icon_hash": "6357cf2a6f5c817c9304e421d3726a8c25223122ff0dd00ac1bc34dbb52570c1",
+        "title": "HTTP Status Codes",
+        "description": "Search for HTTP status codes",
+        "author": "rknightuk",
+        "installation_url": "alfred://gallery/workflow/rknightuk/http-status-codes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/adamkiss/utf-search/",
+        "icon_url": "https://alfred.app/workflows/adamkiss/utf-search/icon.png",
+        "icon_hash": "3a033ae4c05db7a5ac7f06042e21242285a70662775b538ee3fec76785ab9c6d",
+        "title": "UTF Search",
+        "description": "Search through the Unicode database",
+        "author": "adamkiss",
+        "installation_url": "alfred://gallery/workflow/adamkiss/utf-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
+        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
+        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
+        "title": "DeepL Translate",
+        "description": "Translate sentences with DeepL",
+        "author": "alexanderwillner",
+        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
+    },
+    {
+        "url": "https://alfred.app/workflows/themadsens/basecalc/",
+        "icon_url": "https://alfred.app/workflows/themadsens/basecalc/icon.png",
+        "icon_hash": "afdadaa7ce4d83689c34d186a5147bda25d6c4aa91716b71ef2b1a57399ebf4e",
+        "title": "basecalc",
+        "description": "A programming calculator using Lua\u2019s math library",
+        "author": "themadsens",
+        "installation_url": "alfred://gallery/workflow/themadsens/basecalc/"
+    },
+    {
+        "url": "https://alfred.app/workflows/mrodalgaard/network/",
+        "icon_url": "https://alfred.app/workflows/mrodalgaard/network/icon.png",
+        "icon_hash": "2afbc6931fb26d4f245849197955ec158ed656e49fd5166bd6b6f7d5b0612046",
+        "title": "Network",
+        "description": "Show and change your network settings",
+        "author": "mrodalgaard",
+        "installation_url": "alfred://gallery/workflow/mrodalgaard/network/"
+    },
+    {
+        "url": "https://alfred.app/workflows/artemy/ns-train-schedule/",
+        "icon_url": "https://alfred.app/workflows/artemy/ns-train-schedule/icon.png",
+        "icon_hash": "7d372a20060b8a51702c4f48f642adb803094457277bd477a3c08788f7ffa8dc",
+        "title": "NS Train Schedule",
+        "description": "Display train schedule between two stations",
+        "author": "artemy",
+        "installation_url": "alfred://gallery/workflow/artemy/ns-train-schedule/"
+    },
+    {
+        "url": "https://alfred.app/workflows/renfei/snippetslab/",
+        "icon_url": "https://alfred.app/workflows/renfei/snippetslab/icon.png",
+        "icon_hash": "11743497eb668050087fbb7421ed300ece03f825fc1f74a710ab1bac04884580",
+        "title": "SnippetsLab",
+        "description": "Search snippets in SnippetsLab",
+        "author": "renfei",
+        "installation_url": "alfred://gallery/workflow/renfei/snippetslab/"
+    },
+    {
+        "url": "https://alfred.app/workflows/willfarrell/package-managers/",
+        "icon_url": "https://alfred.app/workflows/willfarrell/package-managers/icon.png",
+        "icon_hash": "076c7291b7b8808b20f51bf188a0f4d061bea407463894f350efe1a9aaeb6a87",
+        "title": "Package Managers",
+        "description": "Quick lookup for your favourite package managers",
+        "author": "willfarrell",
+        "installation_url": "alfred://gallery/workflow/willfarrell/package-managers/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/emoji-mate/icon.png",
+        "icon_hash": "824b46434fb4fd0ae34369ab3c57ff39b03c6b1ca7c93b98200f362a14b8b84d",
+        "title": "Emoji Mate",
+        "description": "Search for emoji",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/airpods-connector/",
+        "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
+        "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
+        "title": "AirPods Connector",
+        "description": "Connect and disconnect your AirPods",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
+    },
+    {
+        "url": "https://alfred.app/workflows/xilopaint/about-this-mac/",
+        "icon_url": "https://alfred.app/workflows/xilopaint/about-this-mac/icon.png",
+        "icon_hash": "901067f2ee4a380e14f72ddd6e90722795a025f7bd0f0c813265e0430a203b57",
+        "title": "About This Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "xilopaint",
+        "installation_url": "alfred://gallery/workflow/xilopaint/about-this-mac/"
+    },
+    {
+        "url": "https://alfred.app/workflows/corecode/macupdater/",
+        "icon_url": "https://alfred.app/workflows/corecode/macupdater/icon.png",
+        "icon_hash": "b82b0840d7fffb177e2274229cbd2ca61004a980a989ba643fc5f3c7a0bf8aae",
+        "title": "MacUpdater",
+        "description": "Keep all your software effortlessly up-to-date",
+        "author": "corecode",
+        "installation_url": "alfred://gallery/workflow/corecode/macupdater/"
+    },
+    {
+        "url": "https://alfred.app/workflows/kostyafarber/notable/",
+        "icon_url": "https://alfred.app/workflows/kostyafarber/notable/icon.png",
+        "icon_hash": "f7e66b0b4b940e3f7ff65837190aca009bf866af581c8f7e6e8c19b038c9ad49",
+        "title": "Notable",
+        "description": "Open, create and search notes in Notable from Alfred",
+        "author": "kostyafarber",
+        "installation_url": "alfred://gallery/workflow/kostyafarber/notable/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/media-coordinates/",
+        "icon_url": "https://alfred.app/workflows/vitor/media-coordinates/icon.png",
+        "icon_hash": "b143db38aa043088728cbdadc418c36f88d3fef5bc6748bd7c29c531bafb416f",
+        "title": "Media Coordinates",
+        "description": "Open photo, video, and audio GPS coordinates in a map",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/media-coordinates/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/simple-folder-search/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Simple Folder Search",
+        "description": "Search for folders within your home folder",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/simple-folder-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/should-i-watch-this-movie/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Should I watch this movie?",
+        "description": "Open a trailer in YouTube, details in IMDB & ratings in Rotten Tomatoes",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/should-i-watch-this-movie/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/paste-as-plain-text-from-hotkey/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Paste as Plain Text from Hotkey",
+        "description": "Paste your clipboard content as plain text from a hotkey",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/paste-as-plain-text-from-hotkey/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/launch-url-in-3-browsers/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Launch URL in 3 Browsers",
+        "description": "Launch a URL in 3 different browsers at once",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/launch-url-in-3-browsers/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/vscode-workspace-explorer/",
+        "icon_url": "https://alfred.app/workflows/acidham/vscode-workspace-explorer/icon.png",
+        "icon_hash": "51f0d7444a3613aa80c7e3c71b49061be5444d277e7cac695470a8e7d05b9385",
+        "title": "VSCode Workspace Explorer",
+        "description": "Open Visual Studio Code Workspaces",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/vscode-workspace-explorer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/microphone-control/",
+        "icon_url": "https://alfred.app/workflows/acidham/microphone-control/icon.png",
+        "icon_hash": "acd08f8e94ddcba64b040d78f11b36ba98a621de1046fa3f85a19c87a15c6fc7",
+        "title": "Microphone Control",
+        "description": "Mute and unmute the microphone",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/microphone-control/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zbrl/template-file/",
+        "icon_url": "https://alfred.app/workflows/zbrl/template-file/icon.png",
+        "icon_hash": "9a223fcc21b7b6feb60cca200a16334d5b5a1e6998718e9a90c3b38f98c7058f",
+        "title": "Template File",
+        "description": "Create new files from templates",
+        "author": "zbrl",
+        "installation_url": "alfred://gallery/workflow/zbrl/template-file/"
+    },
+    {
+        "url": "https://alfred.app/workflows/pglombardo/python-online-resources/",
+        "icon_url": "https://alfred.app/workflows/pglombardo/python-online-resources/icon.png",
+        "icon_hash": "fdb1042fdebe2818f40f794c20d44403bf284b013acc1edbff2ce0ae2b6581ad",
+        "title": "Python Online Resources",
+        "description": "Access Online Python Resources",
+        "author": "pglombardo",
+        "installation_url": "alfred://gallery/workflow/pglombardo/python-online-resources/"
+    },
+    {
+        "url": "https://alfred.app/workflows/adamsmith/moom/",
+        "icon_url": "https://alfred.app/workflows/adamsmith/moom/icon.png",
+        "icon_hash": "5b1815d21db3fbbb09cd36de5c1b97215ad3f56b43f74710aa77a4b5556f69bd",
+        "title": "Moom",
+        "description": "Switch between Moom layouts",
+        "author": "adamsmith",
+        "installation_url": "alfred://gallery/workflow/adamsmith/moom/"
+    },
+    {
+        "url": "https://alfred.app/workflows/kaleidoscope/kaleidoscope-integration/",
+        "icon_url": "https://alfred.app/workflows/kaleidoscope/kaleidoscope-integration/icon.png",
+        "icon_hash": "94895c90f1f52cb144e241ad1ddd86f82e63fc424ba5e20234bb145dfc31e2ad",
+        "title": "Kaleidoscope Integration",
+        "description": "Compare clipboard and file contents with Kaleidoscope",
+        "author": "kaleidoscope",
+        "installation_url": "alfred://gallery/workflow/kaleidoscope/kaleidoscope-integration/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/password-generator/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/password-generator/icon.png",
+        "icon_hash": "0bd37b5dd8db3ed0e881cfa9ebd904620f7ca915557786613f77b481d4b24a1b",
+        "title": "Password Generator",
+        "description": "Generate secure passwords",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/password-generator/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/randomer/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/randomer/icon.png",
+        "icon_hash": "2abf875da2ca885893edf1208059bfe83749b128ba7208301b05014be4117b45",
+        "title": "Randomer",
+        "description": "Generate random values for different data types",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/randomer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrillek/caniuse/",
+        "icon_url": "https://alfred.app/workflows/chrillek/caniuse/icon.png",
+        "icon_hash": "2c952b4cc727a2238c2f9240e3bcee7c325bcd045e9ce144d7e708676cbd0948",
+        "title": "Search Caniuse.com",
+        "description": "Find terms on caniuse.com",
+        "author": "chrillek",
+        "installation_url": "alfred://gallery/workflow/chrillek/caniuse/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/almanac/",
+        "icon_url": "https://alfred.app/workflows/giovanni/almanac/icon.png",
+        "icon_hash": "e52e9ed45f8f76a6bb55e09a5bff2b10d12ad9b0048144a1fe2efacff2a6c67b",
+        "title": "Almanac",
+        "description": "Weather and Almanac information",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/almanac/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexmartinfr/wordreference/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "WordReference",
+        "description": "Lookup words on wordreference.com",
+        "author": "alexmartinfr",
+        "installation_url": "alfred://gallery/workflow/alexmartinfr/wordreference/"
+    },
+    {
+        "url": "https://alfred.app/workflows/dfay/case-converter/",
+        "icon_url": "https://alfred.app/workflows/dfay/case-converter/icon.png",
+        "icon_hash": "fe815232c67605d633644d31a6d4f78a3938652269dbf01649fd420154d4a335",
+        "title": "Case Converter",
+        "description": "Convert text case to multiple formats",
+        "author": "dfay",
+        "installation_url": "alfred://gallery/workflow/dfay/case-converter/"
+    },
+    {
+        "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
+        "icon_url": "https://alfred.app/workflows/bjornelvar/nba-scores/icon.png",
+        "icon_hash": "6d69bb9b5add5f989d4be95f321c307f87ac9f2258753d87bc1f353e699c6aa2",
+        "title": "NBA Scores",
+        "description": "List NBA games with stat leaders",
+        "author": "bjornelvar",
+        "installation_url": "alfred://gallery/workflow/bjornelvar/nba-scores/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/get-weekday-of-date/",
+        "icon_url": "https://alfred.app/workflows/stephenc/get-weekday-of-date/icon.png",
+        "icon_hash": "962056627467170b842f071a39416172c60577cb5ca1e279dde31a427f07409e",
+        "title": "Get Weekday of Date",
+        "description": "Get the weekday of a given date",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/get-weekday-of-date/"
+    },
+    {
+        "url": "https://alfred.app/workflows/torreybetts/qr-code/",
+        "icon_url": "https://alfred.app/workflows/torreybetts/qr-code/icon.png",
+        "icon_hash": "f2f2ce69844c863830470ac4c8b4c98d515ae55564db2452681c41c9246ddb64",
+        "title": "QR Code",
+        "description": "Generates QR codes",
+        "author": "torreybetts",
+        "installation_url": "alfred://gallery/workflow/torreybetts/qr-code/"
+    },
+    {
+        "url": "https://alfred.app/workflows/kapeli/dash/",
+        "icon_url": "https://alfred.app/workflows/kapeli/dash/icon.png",
+        "icon_hash": "abfb31b8c98727110e87d4c179060325c8565e2c5943ba26e391428032cf5c0a",
+        "title": "Dash",
+        "description": "Search documentation in Dash",
+        "author": "kapeli",
+        "installation_url": "alfred://gallery/workflow/kapeli/dash/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/magic-8-ball/",
+        "icon_url": "https://alfred.app/media/learning.png",
+        "icon_hash": "09960dce521886ed554ac4b6d9bbb1a6477cfbf2c0c9bf9323dea4dd694753f6",
+        "title": "Magic 8 Ball",
+        "description": "Ask any question to the Magic 8 Ball",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/magic-8-ball/"
+    },
+    {
+        "url": "https://alfred.app/workflows/saiya/app-language-switcher/",
+        "icon_url": "https://alfred.app/workflows/saiya/app-language-switcher/icon.png",
+        "icon_hash": "a03f2a730c4846e2b50f44a01d3233952578390f879f8e609744f79a99aa5531",
+        "title": "App Language Switcher",
+        "description": "Open apps in non-default languages",
+        "author": "saiya",
+        "installation_url": "alfred://gallery/workflow/saiya/app-language-switcher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/larkov/toggle-desktop-icons/",
+        "icon_url": "https://alfred.app/workflows/larkov/toggle-desktop-icons/icon.png",
+        "icon_hash": "649a307d1ffa88ed5d1282f02b332f61c691c8dc88affa08c3756ebe6c3de3e6",
+        "title": "Toggle Desktop Icons",
+        "description": "Toggle visibility of Desktop icons",
+        "author": "larkov",
+        "installation_url": "alfred://gallery/workflow/larkov/toggle-desktop-icons/"
+    },
+    {
+        "url": "https://alfred.app/workflows/soulver/soulver/",
+        "icon_url": "https://alfred.app/workflows/soulver/soulver/icon.png",
+        "icon_hash": "2b823f36b69b8181939df2864c2edf7febf2eee32b68f11f8e126c582893732b",
+        "title": "Soulver",
+        "description": "Calculate using Soulver",
+        "author": "soulver",
+        "installation_url": "alfred://gallery/workflow/soulver/soulver/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/play-song/",
+        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
+        "icon_hash": "5b09a259119b38fdf40a67d58df31c62c2fbb9e13be50bd4a8be87430b4089f7",
+        "title": "Play Song",
+        "description": "Quickly play songs via the Music app",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexchantastic/ip-address/",
+        "icon_url": "https://alfred.app/workflows/alexchantastic/ip-address/icon.png",
+        "icon_hash": "cfacae7173be2a6c84557717d13cbfffdf92063b13bf4d4fa328516e06a2cd92",
+        "title": "IP Address",
+        "description": "Get your local and external IP addresses",
+        "author": "alexchantastic",
+        "installation_url": "alfred://gallery/workflow/alexchantastic/ip-address/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexanderwillner/optimize-images/",
+        "icon_url": "https://alfred.app/workflows/alexanderwillner/optimize-images/icon.png",
+        "icon_hash": "5f73a0e0075604fd24ea6a531d69a6ad500da17a7540dac6adf1c15cf06981fa",
+        "title": "Optimize Images",
+        "description": "Compress images without losing quality",
+        "author": "alexanderwillner",
+        "installation_url": "alfred://gallery/workflow/alexanderwillner/optimize-images/"
+    },
+    {
+        "url": "https://alfred.app/workflows/apptorium/sidenotes/",
+        "icon_url": "https://alfred.app/workflows/apptorium/sidenotes/icon.png",
+        "icon_hash": "15c3f429690de1e156b2583bda49fdef793dd57f5d1563b4355dca318dcde9b9",
+        "title": "SideNotes",
+        "description": "Interact with SideNotes",
+        "author": "apptorium",
+        "installation_url": "alfred://gallery/workflow/apptorium/sidenotes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/epilande/browser-tabs/",
+        "icon_url": "https://alfred.app/workflows/epilande/browser-tabs/icon.png",
+        "icon_hash": "fbd411e9c24f1df4a70343cc797dfa2f66ca54adecff98acb0ef12e792b242b6",
+        "title": "Browser Tabs",
+        "description": "Search browser tabs from Safari and Chromium Browsers",
+        "author": "epilande",
+        "installation_url": "alfred://gallery/workflow/epilande/browser-tabs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
+        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
+        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
+        "title": "Icon Generator",
+        "description": "Generate icons from SF Symbols",
+        "author": "floatingpoint",
+        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
+    }
+]
