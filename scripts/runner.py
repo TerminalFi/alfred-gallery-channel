@@ -7,7 +7,9 @@ url = "https://alfred.app/workflows/"
 
 def get_workflows(url):
     workflows = []
+    page = 0
     while True:
+        print(f"Fetching page {page+1}...")
         try:
             response = requests.get(url)
             response.raise_for_status()
@@ -16,7 +18,6 @@ def get_workflows(url):
             break
 
         soup = BeautifulSoup(response.text, "html.parser")
-
         workflowlist_section = soup.find("nav", {"id": "workflowlist"})
 
         if workflowlist_section is None:
@@ -27,9 +28,14 @@ def get_workflows(url):
             if div is None:
                 continue
 
-            icon = div.find("img")
+            icon = div.find_all("img")
             h2 = div.find("h2")
             p = div.find("p")
+
+            if len(icon) == 2:
+                icon = icon[1]
+            else:
+                icon = icon[0]
 
             icon_hash = compute_image_hash('https://alfred.app' + icon["src"])
 
@@ -63,6 +69,7 @@ def get_workflows(url):
             url = "https://alfred.app" + link["href"]
         else:
             break
+        page += 1
 
     return workflows
 
