@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/akrabat/compress/",
+        "icon_url": "https://alfred.app/workflows/akrabat/compress/icon.png",
+        "icon_hash": "828e27014eef74d3e003bf6d8ad22e65850aca81da8f07251bf632cece030929",
+        "title": "Compress",
+        "description": "Zip files and folders",
+        "author": "akrabat",
+        "installation_url": "alfred://gallery/workflow/akrabat/compress/"
+    },
+    {
+        "url": "https://alfred.app/workflows/tborychowski/text-actions/",
+        "icon_url": "https://alfred.app/workflows/tborychowski/text-actions/icon.png",
+        "icon_hash": "e96625115e59942156e39d76705bbc5071b876365b1e7142180ec32a58d35783",
+        "title": "Text Actions",
+        "description": "Transform text in various ways",
+        "author": "tborychowski",
+        "installation_url": "alfred://gallery/workflow/tborychowski/text-actions/"
+    },
+    {
         "url": "https://alfred.app/workflows/giovanni/quickcensus/",
         "icon_url": "https://alfred.app/workflows/giovanni/quickcensus/icon.png",
         "icon_hash": "ed97bd07673dce9a8bf43341b0e8f1310151ab0ea4abc18c668de1d9b717265a",
@@ -151,15 +169,6 @@
         "description": "Define words with Eudic",
         "author": "cdpath",
         "installation_url": "alfred://gallery/workflow/cdpath/eudic/"
-    },
-    {
-        "url": "https://alfred.app/workflows/akrabat/compress/",
-        "icon_url": "https://alfred.app/workflows/akrabat/compress/icon.png",
-        "icon_hash": "828e27014eef74d3e003bf6d8ad22e65850aca81da8f07251bf632cece030929",
-        "title": "Compress",
-        "description": "Zip files and folders",
-        "author": "akrabat",
-        "installation_url": "alfred://gallery/workflow/akrabat/compress/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/link-clean/",
