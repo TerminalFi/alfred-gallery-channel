@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/stephenc/date-arithemetic/",
+        "icon_url": "https://alfred.app/workflows/stephenc/date-arithemetic/icon.png",
+        "icon_hash": "f392d43ae4a76ff443faa4952df1370c62e6baf042c54d659af141a13f50680e",
+        "title": "Date Arithmetic",
+        "description": "Perform date calculations in days",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/date-arithemetic/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/leasechecker/",
+        "icon_url": "https://alfred.app/workflows/giovanni/leasechecker/icon.png",
+        "icon_hash": "6d90922b05ac39c92264600177eb8ef4a3bc5182ade037f2790185b2da572b5c",
+        "title": "LeaseChecker",
+        "description": "Check your lease mileage and possible overage",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/leasechecker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/yinanc/github-star/",
+        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
+        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
+        "title": "GitHub Star",
+        "description": "Search starred repositories on Github",
+        "author": "yinanc",
+        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
+        "icon_hash": "35245c2a4d744f79e3c8f4f654bb60c223266f12fa7c00834dabcd74b913a407",
+        "title": "Window Switcher",
+        "description": "Switch to a specific window of an app in the current Desktop Space",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
+    },
+    {
         "url": "https://alfred.app/workflows/akrabat/compress/",
         "icon_url": "https://alfred.app/workflows/akrabat/compress/icon.png",
         "icon_hash": "828e27014eef74d3e003bf6d8ad22e65850aca81da8f07251bf632cece030929",
@@ -691,15 +727,6 @@
         "description": "Pause and resume execution of the frontmost app",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/app-freeze/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
-        "icon_hash": "35245c2a4d744f79e3c8f4f654bb60c223266f12fa7c00834dabcd74b913a407",
-        "title": "Window Switcher",
-        "description": "Switch to a specific window of an app in the current Desktop Space",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/tinypng/",
