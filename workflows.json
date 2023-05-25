@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
+        "icon_hash": "35245c2a4d744f79e3c8f4f654bb60c223266f12fa7c00834dabcd74b913a407",
+        "title": "Window Switcher",
+        "description": "Switch to a specific window of an app in the current Desktop Space",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
+    },
+    {
         "url": "https://alfred.app/workflows/stephenc/date-arithemetic/",
         "icon_url": "https://alfred.app/workflows/stephenc/date-arithemetic/icon.png",
         "icon_hash": "f392d43ae4a76ff443faa4952df1370c62e6baf042c54d659af141a13f50680e",
@@ -25,15 +34,6 @@
         "description": "Search starred repositories on Github",
         "author": "yinanc",
         "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
-        "icon_hash": "35245c2a4d744f79e3c8f4f654bb60c223266f12fa7c00834dabcd74b913a407",
-        "title": "Window Switcher",
-        "description": "Switch to a specific window of an app in the current Desktop Space",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/akrabat/compress/",
@@ -111,7 +111,7 @@
         "url": "https://alfred.app/workflows/stephenc/new-folder/",
         "icon_url": "https://alfred.app/workflows/stephenc/new-folder/icon.png",
         "icon_hash": "ac396fb5c6dfa212640302d17ae9e4a7c7056dfce4a302ffdcee9e4e8500a27b",
-        "title": "New folder",
+        "title": "New Folder",
         "description": "Make a new folder in the frontmost Finder window and move files to it",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/new-folder/"
