@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/upload-file/",
+        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
+        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
+        "title": "Upload File",
+        "description": "Upload files and folders for easy sharing",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
         "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
         "icon_hash": "35245c2a4d744f79e3c8f4f654bb60c223266f12fa7c00834dabcd74b913a407",
@@ -538,15 +547,6 @@
         "description": "Toggle Do Not Disturb Focus Mode",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/calm-notifications/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/upload-file/",
-        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
-        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
-        "title": "Upload File",
-        "description": "Upload files and folders for easy sharing",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/phonetic-spelling/",
