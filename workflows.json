@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/stephancasas/mouseless-messenger/",
+        "icon_url": "https://alfred.app/workflows/stephancasas/mouseless-messenger/icon.png",
+        "icon_hash": "f6c77eb7d4a8ca87463b2cb39c8b18c6c914892cc70cb0c18b80878888540dbd",
+        "title": "Mouseless Messenger",
+        "description": "Preview and reply to messages",
+        "author": "stephancasas",
+        "installation_url": "alfred://gallery/workflow/stephancasas/mouseless-messenger/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/temporary-email/",
+        "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
+        "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
+        "title": "Temporary Email",
+        "description": "Generate disposable email inboxes",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/download-media/",
+        "icon_url": "https://alfred.app/workflows/vitor/download-media/icon.png",
+        "icon_hash": "64443ab5cfad206efcb00eff11b31eea89e59930472e5c9c14ce20daf6eb42db",
+        "title": "Download Media",
+        "description": "Download video and audio from web pages",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/download-media/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/pin-plus/",
+        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
+        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
+        "title": "Pin Plus",
+        "description": "Interact with your Pinboard bookmarks",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/pause-tabs/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/pause-tabs/icon.png",
+        "icon_hash": "ec8511f3f2ae83cf775ed749adad5565325b5a67828db479f4e9adecd8aa9bd8",
+        "title": "Pause Tabs",
+        "description": "Pause audio and video in web browser tabs",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/pause-tabs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
+        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
+        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
+        "title": "Shutdown Timer",
+        "description": "Turn off macOS on a timer",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/upload-file/",
         "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
         "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
@@ -324,15 +378,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/pin-plus/",
-        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
-        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
-        "title": "Pin Plus",
-        "description": "Interact with your Pinboard bookmarks",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/",
         "icon_url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/icon.png",
         "icon_hash": "e8695d37beff558e81b69d79a5ef7b0eeaf80dddf6c7a33d6396363a062e51d6",
@@ -648,15 +693,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/temporary-email/",
-        "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
-        "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
-        "title": "Temporary Email",
-        "description": "Generate disposable email inboxes",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/start-recording/",
         "icon_url": "https://alfred.app/workflows/vitor/start-recording/icon.png",
         "icon_hash": "d9600992094d2b62b2342d32821d0a309bdb7be73252a4a3c86a334870a99a01",
@@ -664,15 +700,6 @@
         "description": "Shortcuts to record your Mac\u2019s audio, screen, or webcam",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/start-recording/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
-        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
-        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
-        "title": "Shutdown Timer",
-        "description": "Turn off macOS on a timer",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
@@ -700,15 +727,6 @@
         "description": "Edit file labels and tags",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/download-media/",
-        "icon_url": "https://alfred.app/workflows/vitor/download-media/icon.png",
-        "icon_hash": "64443ab5cfad206efcb00eff11b31eea89e59930472e5c9c14ce20daf6eb42db",
-        "title": "Download Media",
-        "description": "Download video and audio from web pages",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/download-media/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
@@ -754,15 +772,6 @@
         "description": "Filter through thousands of Netflix genres",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/streaming-genres/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/pause-tabs/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/pause-tabs/icon.png",
-        "icon_hash": "ec8511f3f2ae83cf775ed749adad5565325b5a67828db479f4e9adecd8aa9bd8",
-        "title": "Pause Tabs",
-        "description": "Pause audio and video in web browser tabs",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/pause-tabs/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/network-quality/",
