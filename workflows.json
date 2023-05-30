@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
+        "icon_url": "https://alfred.app/workflows/skydiver/nextjs-docs/icon.png",
+        "icon_hash": "9850a65ae399fcda2a46773fd13d8bc5c6bcfa10409e26346d72f6379d28e754",
+        "title": "Next.js Docs",
+        "description": "Search Next.js documentation",
+        "author": "skydiver",
+        "installation_url": "alfred://gallery/workflow/skydiver/nextjs-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
+        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
+        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
+        "title": "QR Reader",
+        "description": "Read Text from QR Codes",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
+    },
+    {
+        "url": "https://alfred.app/workflows/magobaol/phil/",
+        "icon_url": "https://alfred.app/workflows/magobaol/phil/icon.png",
+        "icon_hash": "565532131a46fe3104e42efe1b2ba12924e542ab7554cd02350a50db2e33652d",
+        "title": "Phil",
+        "description": "Convert text case to multiple formats",
+        "author": "magobaol",
+        "installation_url": "alfred://gallery/workflow/magobaol/phil/"
+    },
+    {
+        "url": "https://alfred.app/workflows/adrianbartnik/google-maps-navigation/",
+        "icon_url": "https://alfred.app/workflows/adrianbartnik/google-maps-navigation/icon.png",
+        "icon_hash": "ca57c1c2b7d82fdbfcdcb7f2ce2df848d8c92d9a06e5ccbe68622dc9d6062d48",
+        "title": "Google Maps Navigation",
+        "description": "Open directions in Google Maps",
+        "author": "adrianbartnik",
+        "installation_url": "alfred://gallery/workflow/adrianbartnik/google-maps-navigation/"
+    },
+    {
         "url": "https://alfred.app/workflows/stephancasas/mouseless-messenger/",
         "icon_url": "https://alfred.app/workflows/stephancasas/mouseless-messenger/icon.png",
         "icon_hash": "f6c77eb7d4a8ca87463b2cb39c8b18c6c914892cc70cb0c18b80878888540dbd",
