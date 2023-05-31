@@ -22,7 +22,7 @@
         "icon_url": "https://alfred.app/workflows/magobaol/phil/icon.png",
         "icon_hash": "565532131a46fe3104e42efe1b2ba12924e542ab7554cd02350a50db2e33652d",
         "title": "Phil",
-        "description": "Convert text case to multiple formats",
+        "description": "Convert text to multiple case formats",
         "author": "magobaol",
         "installation_url": "alfred://gallery/workflow/magobaol/phil/"
     },
@@ -443,7 +443,7 @@
     {
         "url": "https://alfred.app/workflows/xilopaint/urban-dictionary/",
         "icon_url": "https://alfred.app/workflows/xilopaint/urban-dictionary/icon.png",
-        "icon_hash": "fccc11c6f1a0f1be9ff5ba9237720a0f06aee8351c1e2691af819ea5d3db763a",
+        "icon_hash": "fdc68350ce9bd7e5645558ae96e2c5125610ce5885bd62a604cb1f705a00990b",
         "title": "Urban Dictionary",
         "description": "Search Urban Dictionary",
         "author": "xilopaint",
