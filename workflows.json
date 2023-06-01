@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/xilopaint/urban-dictionary/",
+        "icon_url": "https://alfred.app/workflows/xilopaint/urban-dictionary/icon.png",
+        "icon_hash": "fdc68350ce9bd7e5645558ae96e2c5125610ce5885bd62a604cb1f705a00990b",
+        "title": "Urban Dictionary",
+        "description": "Search Urban Dictionary",
+        "author": "xilopaint",
+        "installation_url": "alfred://gallery/workflow/xilopaint/urban-dictionary/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisdotson/itunes-airplay-toggle/",
+        "icon_url": "https://alfred.app/workflows/chrisdotson/itunes-airplay-toggle/icon.png",
+        "icon_hash": "8608edd205cfdee17846406eac1f522616bd49f2b74fcb0a5e945df54c4320f3",
+        "title": "iTunes AirPlay Toggle",
+        "description": "Toggle the state of your AirPlay devices",
+        "author": "chrisdotson",
+        "installation_url": "alfred://gallery/workflow/chrisdotson/itunes-airplay-toggle/"
+    },
+    {
+        "url": "https://alfred.app/workflows/meshchaninov/translate/",
+        "icon_url": "https://alfred.app/workflows/meshchaninov/translate/icon.png",
+        "icon_hash": "80ee4aad4ee62a5573e4396e0c4079051c56abd9fc46249aae1dd532b8794afd",
+        "title": "Translate",
+        "description": "Translate Text between Two Languages",
+        "author": "meshchaninov",
+        "installation_url": "alfred://gallery/workflow/meshchaninov/translate/"
+    },
+    {
         "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
         "icon_url": "https://alfred.app/workflows/skydiver/nextjs-docs/icon.png",
         "icon_hash": "9850a65ae399fcda2a46773fd13d8bc5c6bcfa10409e26346d72f6379d28e754",
@@ -439,15 +466,6 @@
         "description": "List File Stream contents from Google Drive",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
-    },
-    {
-        "url": "https://alfred.app/workflows/xilopaint/urban-dictionary/",
-        "icon_url": "https://alfred.app/workflows/xilopaint/urban-dictionary/icon.png",
-        "icon_hash": "fdc68350ce9bd7e5645558ae96e2c5125610ce5885bd62a604cb1f705a00990b",
-        "title": "Urban Dictionary",
-        "description": "Search Urban Dictionary",
-        "author": "xilopaint",
-        "installation_url": "alfred://gallery/workflow/xilopaint/urban-dictionary/"
     },
     {
         "url": "https://alfred.app/workflows/sepulchra/oblique-strategies/",
