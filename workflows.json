@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
+        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
+        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
+        "title": "YouVersion Suggest",
+        "description": "Search for and view Bible references on YouVersion",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/1password/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
+        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
+        "title": "1Password",
+        "description": "Search and open 1Password items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
+    },
+    {
         "url": "https://alfred.app/workflows/xilopaint/urban-dictionary/",
         "icon_url": "https://alfred.app/workflows/xilopaint/urban-dictionary/icon.png",
         "icon_hash": "fdc68350ce9bd7e5645558ae96e2c5125610ce5885bd62a604cb1f705a00990b",
@@ -450,15 +468,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/applescript-dictionaries/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/1password/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
-        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
-        "title": "1Password",
-        "description": "Search and open 1Password items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/google-drive/",
         "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
         "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
@@ -673,15 +682,6 @@
         "description": "Prevent your computer from going to sleep",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
-        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
-        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
-        "title": "YouVersion Suggest",
-        "description": "Search for and view Bible references on YouVersion",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
