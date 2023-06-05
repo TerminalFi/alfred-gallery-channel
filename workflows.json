@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/xilopaint/urban-dictionary/",
+        "icon_url": "https://alfred.app/workflows/xilopaint/urban-dictionary/icon.png",
+        "icon_hash": "fdc68350ce9bd7e5645558ae96e2c5125610ce5885bd62a604cb1f705a00990b",
+        "title": "Urban Dictionary",
+        "description": "Search Urban Dictionary",
+        "author": "xilopaint",
+        "installation_url": "alfred://gallery/workflow/xilopaint/urban-dictionary/"
+    },
+    {
         "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
         "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
         "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
@@ -16,15 +25,6 @@
         "description": "Search and open 1Password items",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
-        "url": "https://alfred.app/workflows/xilopaint/urban-dictionary/",
-        "icon_url": "https://alfred.app/workflows/xilopaint/urban-dictionary/icon.png",
-        "icon_hash": "fdc68350ce9bd7e5645558ae96e2c5125610ce5885bd62a604cb1f705a00990b",
-        "title": "Urban Dictionary",
-        "description": "Search Urban Dictionary",
-        "author": "xilopaint",
-        "installation_url": "alfred://gallery/workflow/xilopaint/urban-dictionary/"
     },
     {
         "url": "https://alfred.app/workflows/chrisdotson/itunes-airplay-toggle/",
