@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/omnigroup/omnifocus-collection/",
+        "icon_url": "https://alfred.app/workflows/omnigroup/omnifocus-collection/icon.png",
+        "icon_hash": "40b81bef038b83496ccc706d4002b27517f4b23dc302ac8ca8c344b133502a7c",
+        "title": "OmniFocus Collection",
+        "description": "A collection of Alfred actions for OmniFocus",
+        "author": "omnigroup",
+        "installation_url": "alfred://gallery/workflow/omnigroup/omnifocus-collection/"
+    },
+    {
         "url": "https://alfred.app/workflows/colomolo/timer/",
         "icon_url": "https://alfred.app/workflows/colomolo/timer/icon.png",
         "icon_hash": "7c93f8bee2b2b64c17500e984cb35c5334757cbfd5f16c853048c6892bd974f3",
@@ -7,15 +16,6 @@
         "description": "Set short timers and pomodoros",
         "author": "colomolo",
         "installation_url": "alfred://gallery/workflow/colomolo/timer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/omnigroup/omnifocus-collection/",
-        "icon_url": "https://alfred.app/workflows/omnigroup/omnifocus-collection/icon.png",
-        "icon_hash": "ee41738479823374caa91cdd11926b7087b5d12a50c5d4789cbe11acf8ea663d",
-        "title": "OmniFocus Collection",
-        "description": "A collection of Alfred actions for OmniFocus",
-        "author": "omnigroup",
-        "installation_url": "alfred://gallery/workflow/omnigroup/omnifocus-collection/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/default-app/",
