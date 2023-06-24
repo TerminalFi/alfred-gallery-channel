@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
+        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
+        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
+        "title": "2FA Read Code",
+        "description": "Read two-factor authentication codes from Messages",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
+    },
+    {
         "url": "https://alfred.app/workflows/omnigroup/omnifocus-collection/",
         "icon_url": "https://alfred.app/workflows/omnigroup/omnifocus-collection/icon.png",
         "icon_hash": "40b81bef038b83496ccc706d4002b27517f4b23dc302ac8ca8c344b133502a7c",
@@ -340,15 +349,6 @@
         "description": "Get placeholder images for design and code",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/placeholder-images/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
-        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
-        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
-        "title": "2FA Read Code",
-        "description": "Read two-factor authentication codes from Messages",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
     },
     {
         "url": "https://alfred.app/workflows/jereze/hacker-news-search/",
