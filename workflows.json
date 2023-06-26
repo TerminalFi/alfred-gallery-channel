@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
+        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
+        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
+        "title": "QR Reader",
+        "description": "Read Text from QR Codes",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
+    },
+    {
         "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
         "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
         "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
@@ -88,15 +97,6 @@
         "description": "Search Next.js documentation",
         "author": "skydiver",
         "installation_url": "alfred://gallery/workflow/skydiver/nextjs-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
-        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
-        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
-        "title": "QR Reader",
-        "description": "Read Text from QR Codes",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
     },
     {
         "url": "https://alfred.app/workflows/magobaol/phil/",
