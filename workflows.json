@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/samuelraub/pretty-json/",
+        "icon_url": "https://alfred.app/workflows/samuelraub/pretty-json/icon.png",
+        "icon_hash": "9ec51b1cb5324edf6ab5e3e8b0cf7325c6ae8d7df920706c55666f770d86a3e7",
+        "title": "Pretty JSON",
+        "description": "Format JSON to be more readable",
+        "author": "samuelraub",
+        "installation_url": "alfred://gallery/workflow/samuelraub/pretty-json/"
+    },
+    {
+        "url": "https://alfred.app/workflows/svenko99/sskj/",
+        "icon_url": "https://alfred.app/workflows/svenko99/sskj/icon.png",
+        "icon_hash": "cb2aa5b526da0c530f3440c1d5dbee408633b53eaddfd0ee24189e3341b04eeb",
+        "title": "SSKJ",
+        "description": "Slovenian Dictionary and Thesaurus",
+        "author": "svenko99",
+        "installation_url": "alfred://gallery/workflow/svenko99/sskj/"
+    },
+    {
         "url": "https://alfred.app/workflows/alanhe/qr-reader/",
         "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
         "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
@@ -655,15 +673,6 @@
         "description": "Show \"About This Mac\" information",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
-    },
-    {
-        "url": "https://alfred.app/workflows/svenko99/sskj/",
-        "icon_url": "https://alfred.app/workflows/svenko99/sskj/icon.png",
-        "icon_hash": "cb2aa5b526da0c530f3440c1d5dbee408633b53eaddfd0ee24189e3341b04eeb",
-        "title": "SSKJ",
-        "description": "Slovenian Dictionary and Thesaurus",
-        "author": "svenko99",
-        "installation_url": "alfred://gallery/workflow/svenko99/sskj/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/calm-notifications/",
