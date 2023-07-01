@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/colomolo/timer/",
+        "icon_url": "https://alfred.app/workflows/colomolo/timer/icon.png",
+        "icon_hash": "7c93f8bee2b2b64c17500e984cb35c5334757cbfd5f16c853048c6892bd974f3",
+        "title": "Timer",
+        "description": "Set short timers and pomodoros",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/timer/"
+    },
+    {
         "url": "https://alfred.app/workflows/samuelraub/pretty-json/",
         "icon_url": "https://alfred.app/workflows/samuelraub/pretty-json/icon.png",
         "icon_hash": "9ec51b1cb5324edf6ab5e3e8b0cf7325c6ae8d7df920706c55666f770d86a3e7",
@@ -43,15 +52,6 @@
         "description": "A collection of Alfred actions for OmniFocus",
         "author": "omnigroup",
         "installation_url": "alfred://gallery/workflow/omnigroup/omnifocus-collection/"
-    },
-    {
-        "url": "https://alfred.app/workflows/colomolo/timer/",
-        "icon_url": "https://alfred.app/workflows/colomolo/timer/icon.png",
-        "icon_hash": "7c93f8bee2b2b64c17500e984cb35c5334757cbfd5f16c853048c6892bd974f3",
-        "title": "Timer",
-        "description": "Set short timers and pomodoros",
-        "author": "colomolo",
-        "installation_url": "alfred://gallery/workflow/colomolo/timer/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/default-app/",
