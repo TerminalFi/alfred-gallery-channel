@@ -9,6 +9,15 @@
         "installation_url": "alfred://gallery/workflow/colomolo/timer/"
     },
     {
+        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
+        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
+        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
+        "title": "Search Alfred Workflows",
+        "description": "Browse installed Alfred Workflows",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
+    },
+    {
         "url": "https://alfred.app/workflows/samuelraub/pretty-json/",
         "icon_url": "https://alfred.app/workflows/samuelraub/pretty-json/icon.png",
         "icon_hash": "9ec51b1cb5324edf6ab5e3e8b0cf7325c6ae8d7df920706c55666f770d86a3e7",
@@ -1105,15 +1114,6 @@
         "description": "Search your personal GIF collection",
         "author": "rknightuk",
         "installation_url": "alfred://gallery/workflow/rknightuk/gif-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
-        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
-        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
-        "title": "Search Alfred Workflows",
-        "description": "Browse installed Alfred Workflows",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
