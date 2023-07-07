@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/watch-list/",
+        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
+        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
+        "title": "Watch List",
+        "description": "Play and manage local media and streams",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
+    },
+    {
         "url": "https://alfred.app/workflows/colomolo/timer/",
         "icon_url": "https://alfred.app/workflows/colomolo/timer/icon.png",
         "icon_hash": "7c93f8bee2b2b64c17500e984cb35c5334757cbfd5f16c853048c6892bd974f3",
@@ -772,15 +781,6 @@
         "description": "See hardware and software system information",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/get-summary-system-info/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/watch-list/",
-        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
-        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
-        "title": "Watch List",
-        "description": "Play and manage local media and streams",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/start-recording/",
