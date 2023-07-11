@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/alfred-gallery/icon.png",
+        "icon_hash": "76dac5181de9b51b8baa8904655f517e978bce3395799648c2509a3d1d98354d",
+        "title": "Alfred Gallery",
+        "description": "Search Workflows on the Alfred Gallery",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/alfred-gallery/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "6cc8e58699d24ecca9db25011c7e5e359937e91e0d5a92fa506fea75458e600e",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/watch-list/",
         "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
         "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
@@ -592,15 +610,6 @@
         "description": "Generate macOS folder icons",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/folderify/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "6cc8e58699d24ecca9db25011c7e5e359937e91e0d5a92fa506fea75458e600e",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/tophee/replace-semicolons-with-linebreaks/",
