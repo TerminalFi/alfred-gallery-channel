@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
+        "icon_url": "https://alfred.app/workflows/skydiver/nextjs-docs/icon.png",
+        "icon_hash": "9850a65ae399fcda2a46773fd13d8bc5c6bcfa10409e26346d72f6379d28e754",
+        "title": "Next.js Docs",
+        "description": "Search Next.js documentation",
+        "author": "skydiver",
+        "installation_url": "alfred://gallery/workflow/skydiver/nextjs-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
         "icon_url": "https://alfred.app/workflows/alfredapp/alfred-gallery/icon.png",
         "icon_hash": "76dac5181de9b51b8baa8904655f517e978bce3395799648c2509a3d1d98354d",
@@ -142,15 +151,6 @@
         "description": "Translate Text between Two Languages",
         "author": "meshchaninov",
         "installation_url": "alfred://gallery/workflow/meshchaninov/translate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
-        "icon_url": "https://alfred.app/workflows/skydiver/nextjs-docs/icon.png",
-        "icon_hash": "9850a65ae399fcda2a46773fd13d8bc5c6bcfa10409e26346d72f6379d28e754",
-        "title": "Next.js Docs",
-        "description": "Search Next.js documentation",
-        "author": "skydiver",
-        "installation_url": "alfred://gallery/workflow/skydiver/nextjs-docs/"
     },
     {
         "url": "https://alfred.app/workflows/magobaol/phil/",
