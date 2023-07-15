@@ -1,12 +1,12 @@
 [
     {
-        "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
-        "icon_url": "https://alfred.app/workflows/skydiver/nextjs-docs/icon.png",
-        "icon_hash": "9850a65ae399fcda2a46773fd13d8bc5c6bcfa10409e26346d72f6379d28e754",
-        "title": "Next.js Docs",
-        "description": "Search Next.js documentation",
-        "author": "skydiver",
-        "installation_url": "alfred://gallery/workflow/skydiver/nextjs-docs/"
+        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
+        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
+        "title": "Shortcuts",
+        "description": "Run installed macOS shortcuts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
@@ -16,6 +16,33 @@
         "description": "Search Workflows on the Alfred Gallery",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/alfred-gallery/"
+    },
+    {
+        "url": "https://alfred.app/workflows/colomolo/timer/",
+        "icon_url": "https://alfred.app/workflows/colomolo/timer/icon.png",
+        "icon_hash": "7c93f8bee2b2b64c17500e984cb35c5334757cbfd5f16c853048c6892bd974f3",
+        "title": "Timer",
+        "description": "Set short timers and pomodoros",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/timer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/find-and-replace-text/",
+        "icon_url": "https://alfred.app/workflows/stephenc/find-and-replace-text/icon.png",
+        "icon_hash": "420eee137a096c75d1940f8acbf62094d70dce138446c2d1918be2c770907b76",
+        "title": "Find and replace text",
+        "description": "Single find & replace in selected text",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/find-and-replace-text/"
+    },
+    {
+        "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
+        "icon_url": "https://alfred.app/workflows/skydiver/nextjs-docs/icon.png",
+        "icon_hash": "9850a65ae399fcda2a46773fd13d8bc5c6bcfa10409e26346d72f6379d28e754",
+        "title": "Next.js Docs",
+        "description": "Search Next.js documentation",
+        "author": "skydiver",
+        "installation_url": "alfred://gallery/workflow/skydiver/nextjs-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
@@ -34,15 +61,6 @@
         "description": "Play and manage local media and streams",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
-    },
-    {
-        "url": "https://alfred.app/workflows/colomolo/timer/",
-        "icon_url": "https://alfred.app/workflows/colomolo/timer/icon.png",
-        "icon_hash": "7c93f8bee2b2b64c17500e984cb35c5334757cbfd5f16c853048c6892bd974f3",
-        "title": "Timer",
-        "description": "Set short timers and pomodoros",
-        "author": "colomolo",
-        "installation_url": "alfred://gallery/workflow/colomolo/timer/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
@@ -520,15 +538,6 @@
         "description": "Search for Magic: The Gathering playing cards",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/mtg-card-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
-        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
-        "title": "Shortcuts",
-        "description": "Run installed macOS shortcuts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/",
@@ -1078,15 +1087,6 @@
         "description": "Reduce file size and dimensions of images for sharing",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/image-shrinker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/find-and-replace-text/",
-        "icon_url": "https://alfred.app/workflows/stephenc/find-and-replace-text/icon.png",
-        "icon_hash": "420eee137a096c75d1940f8acbf62094d70dce138446c2d1918be2c770907b76",
-        "title": "Find and replace text",
-        "description": "Single find & replace in selected text",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/find-and-replace-text/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/double-space-to-single-space/",
