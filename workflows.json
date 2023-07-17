@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/upload-file/",
+        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
+        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
+        "title": "Upload File",
+        "description": "Upload files and folders for easy sharing",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/play-song/",
+        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
+        "icon_hash": "5b09a259119b38fdf40a67d58df31c62c2fbb9e13be50bd4a8be87430b4089f7",
+        "title": "Play Song",
+        "description": "Quickly play songs via the Music app",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
         "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
         "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
@@ -241,15 +259,6 @@
         "description": "Turn off macOS on a timer",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/upload-file/",
-        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
-        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
-        "title": "Upload File",
-        "description": "Upload files and folders for easy sharing",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
@@ -1573,15 +1582,6 @@
         "description": "Calculate using Soulver",
         "author": "soulver",
         "installation_url": "alfred://gallery/workflow/soulver/soulver/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/play-song/",
-        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
-        "icon_hash": "5b09a259119b38fdf40a67d58df31c62c2fbb9e13be50bd4a8be87430b4089f7",
-        "title": "Play Song",
-        "description": "Quickly play songs via the Music app",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
     },
     {
         "url": "https://alfred.app/workflows/alexchantastic/ip-address/",
