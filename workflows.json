@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/window-manager/",
+        "icon_url": "https://alfred.app/workflows/acidham/window-manager/icon.png",
+        "icon_hash": "fbb9486d4124a1406292ecd992894f38733e06b8d3fdcf3a4fe9e0bcf26a77cd",
+        "title": "Window Manager",
+        "description": "Move/Resize/Arrange Windows",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/window-manager/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
         "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
@@ -7,6 +34,42 @@
         "description": "System Monitoring and Process Management",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/world-clock/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/world-clock/icon.png",
+        "icon_hash": "cb1546cf61aed28c4d680db892b1a24f265d474fc9b72ff3e244ed69594e2052",
+        "title": "World Clock",
+        "description": "Check current time in multiple timezones",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/world-clock/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
+        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
+        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
+        "title": "YouVersion Suggest",
+        "description": "Search for and view Bible references on YouVersion",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
+        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
+        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
+        "title": "Open Chrome Profile",
+        "description": "Switch to another Google Chrome profile",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
+    },
+    {
+        "url": "https://alfred.app/workflows/colomolo/timer/",
+        "icon_url": "https://alfred.app/workflows/colomolo/timer/icon.png",
+        "icon_hash": "7c93f8bee2b2b64c17500e984cb35c5334757cbfd5f16c853048c6892bd974f3",
+        "title": "Timer",
+        "description": "Set short timers and pomodoros",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/timer/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/upload-file/",
@@ -45,15 +108,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/alfred-gallery/"
     },
     {
-        "url": "https://alfred.app/workflows/colomolo/timer/",
-        "icon_url": "https://alfred.app/workflows/colomolo/timer/icon.png",
-        "icon_hash": "7c93f8bee2b2b64c17500e984cb35c5334757cbfd5f16c853048c6892bd974f3",
-        "title": "Timer",
-        "description": "Set short timers and pomodoros",
-        "author": "colomolo",
-        "installation_url": "alfred://gallery/workflow/colomolo/timer/"
-    },
-    {
         "url": "https://alfred.app/workflows/stephenc/find-and-replace-text/",
         "icon_url": "https://alfred.app/workflows/stephenc/find-and-replace-text/icon.png",
         "icon_hash": "420eee137a096c75d1940f8acbf62094d70dce138446c2d1918be2c770907b76",
@@ -70,15 +124,6 @@
         "description": "Search Next.js documentation",
         "author": "skydiver",
         "installation_url": "alfred://gallery/workflow/skydiver/nextjs-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "6cc8e58699d24ecca9db25011c7e5e359937e91e0d5a92fa506fea75458e600e",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/watch-list/",
@@ -160,15 +205,6 @@
         "description": "Search Urban Dictionary",
         "author": "xilopaint",
         "installation_url": "alfred://gallery/workflow/xilopaint/urban-dictionary/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
-        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
-        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
-        "title": "YouVersion Suggest",
-        "description": "Search for and view Bible references on YouVersion",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/1password/",
@@ -702,15 +738,6 @@
         "installation_url": "alfred://gallery/workflow/sepulchra/mail-link/"
     },
     {
-        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
-        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
-        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
-        "title": "Open Chrome Profile",
-        "description": "Switch to another Google Chrome profile",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
-    },
-    {
         "url": "https://alfred.app/workflows/akrabat/date-tools/",
         "icon_url": "https://alfred.app/workflows/akrabat/date-tools/icon.png",
         "icon_hash": "fd59e4895ef3f23f3618f100d0b3c19d98bcca03e8786d335bb532b57f76d959",
@@ -954,15 +981,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/dynamic-file-search/"
     },
     {
-        "url": "https://alfred.app/workflows/fedecalendino/world-clock/",
-        "icon_url": "https://alfred.app/workflows/fedecalendino/world-clock/icon.png",
-        "icon_hash": "cb1546cf61aed28c4d680db892b1a24f265d474fc9b72ff3e244ed69594e2052",
-        "title": "World Clock",
-        "description": "Check current time in multiple timezones",
-        "author": "fedecalendino",
-        "installation_url": "alfred://gallery/workflow/fedecalendino/world-clock/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/rename-action/",
         "icon_url": "https://alfred.app/workflows/vitor/rename-action/icon.png",
         "icon_hash": "95590aa33b1d3bde0f0f249cd2b6106c9012a6c8bf7b5c391099b9763f1eb467",
@@ -1033,15 +1051,6 @@
         "description": "Lists metadata for selected file",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/list-file-metadata/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/window-manager/",
-        "icon_url": "https://alfred.app/workflows/acidham/window-manager/icon.png",
-        "icon_hash": "fbb9486d4124a1406292ecd992894f38733e06b8d3fdcf3a4fe9e0bcf26a77cd",
-        "title": "Window Manager",
-        "description": "Move/Resize/Arrange Windows",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/window-manager/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/markdown-notes/",
