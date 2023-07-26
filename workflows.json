@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
         "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
@@ -9,13 +18,13 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
+        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
+        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
+        "title": "YouVersion Suggest",
+        "description": "Search for and view Bible references on YouVersion",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/window-manager/",
@@ -52,15 +61,6 @@
         "description": "Check current time in multiple timezones",
         "author": "fedecalendino",
         "installation_url": "alfred://gallery/workflow/fedecalendino/world-clock/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
-        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
-        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
-        "title": "YouVersion Suggest",
-        "description": "Search for and view Bible references on YouVersion",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
