@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
+        "icon_hash": "84b938e59d0dd5491438553492a648a363872a0c2c563fcece846eb5a832a4ec",
+        "title": "Amazon Suggest",
+        "description": "Get in-line Amazon search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
+        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
+        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
+        "title": "Remove Quarantine",
+        "description": "Delete the quarantine attribute from app bundles and files",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
         "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
@@ -16,6 +43,15 @@
         "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
+        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
+        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
+        "title": "Open Conference URL",
+        "description": "Open the conference URL for upcoming calendar events",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
@@ -378,15 +414,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/quickcensus/"
     },
     {
-        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
-        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
-        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
-        "title": "Open Conference URL",
-        "description": "Open the conference URL for upcoming calendar events",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
-    },
-    {
         "url": "https://alfred.app/workflows/jygh/recent-files/",
         "icon_url": "https://alfred.app/workflows/jygh/recent-files/icon.png",
         "icon_hash": "7f5ec17d5a8fde9022af4b6b61abfafa0adf8c6e559ac8ab4553884fedd6db9c",
@@ -430,15 +457,6 @@
         "description": "Display number of words and characters in selected text",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/word-count/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
-        "icon_hash": "84b938e59d0dd5491438553492a648a363872a0c2c563fcece846eb5a832a4ec",
-        "title": "Amazon Suggest",
-        "description": "Get in-line Amazon search suggestions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/move-to-new-folder/",
@@ -864,15 +882,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/start-recording/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
-        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
-        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
-        "title": "Remove Quarantine",
-        "description": "Delete the quarantine attribute from app bundles and files",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/ping-pong/",
         "icon_url": "https://alfred.app/workflows/vitor/ping-pong/icon.png",
         "icon_hash": "d1c8d7df075f38c2f5be5e90f1a27d3a6d15179569db2c43b19b1f0b68089d47",
@@ -1159,15 +1168,6 @@
         "description": "Search your personal GIF collection",
         "author": "rknightuk",
         "installation_url": "alfred://gallery/workflow/rknightuk/gif-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/gleitz/howdoi/",
