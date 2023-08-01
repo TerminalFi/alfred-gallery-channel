@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
+        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
+        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
+        "title": "Chromium Bookmarks and History Search",
+        "description": "Search in Chromium Histories and Bookmarks",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/xilopaint/about-this-mac/",
+        "icon_url": "https://alfred.app/workflows/xilopaint/about-this-mac/icon.png",
+        "icon_hash": "901067f2ee4a380e14f72ddd6e90722795a025f7bd0f0c813265e0430a203b57",
+        "title": "About This Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "xilopaint",
+        "installation_url": "alfred://gallery/workflow/xilopaint/about-this-mac/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
         "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
         "icon_hash": "84b938e59d0dd5491438553492a648a363872a0c2c563fcece846eb5a832a4ec",
@@ -25,15 +52,6 @@
         "description": "Delete the quarantine attribute from app bundles and files",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
@@ -1206,15 +1224,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/aadvarq/"
     },
     {
-        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
-        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
-        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
-        "title": "Chromium Bookmarks and History Search",
-        "description": "Search in Chromium Histories and Bookmarks",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
-    },
-    {
         "url": "https://alfred.app/workflows/manewitz/rubygems/",
         "icon_url": "https://alfred.app/workflows/manewitz/rubygems/icon.png",
         "icon_hash": "6cba86ca69a65fb620e2a081282461658e7c5adc8eed63bcaa788055b2d1610b",
@@ -1366,15 +1375,6 @@
         "description": "Connect and disconnect your AirPods",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
-    },
-    {
-        "url": "https://alfred.app/workflows/xilopaint/about-this-mac/",
-        "icon_url": "https://alfred.app/workflows/xilopaint/about-this-mac/icon.png",
-        "icon_hash": "901067f2ee4a380e14f72ddd6e90722795a025f7bd0f0c813265e0430a203b57",
-        "title": "About This Mac",
-        "description": "Show \"About This Mac\" information",
-        "author": "xilopaint",
-        "installation_url": "alfred://gallery/workflow/xilopaint/about-this-mac/"
     },
     {
         "url": "https://alfred.app/workflows/corecode/macupdater/",
