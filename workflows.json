@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/icon.png",
+        "icon_hash": "5d410b019c64e9c39b5ad527b7918f856a927ca1806ff3ed826f8e4598a49bfe",
+        "title": "HEIC to JPEG",
+        "description": "Convert .heic images to .jpeg",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/heic-to-jpeg/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/upload-file/",
+        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
+        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
+        "title": "Upload File",
+        "description": "Upload files and folders for easy sharing",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
         "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
         "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
         "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
@@ -34,15 +70,6 @@
         "description": "Get in-line Amazon search suggestions",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
@@ -99,15 +126,6 @@
         "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
-    },
-    {
         "url": "https://alfred.app/workflows/fedecalendino/world-clock/",
         "icon_url": "https://alfred.app/workflows/fedecalendino/world-clock/icon.png",
         "icon_hash": "cb1546cf61aed28c4d680db892b1a24f265d474fc9b72ff3e244ed69594e2052",
@@ -133,15 +151,6 @@
         "description": "Set short timers and pomodoros",
         "author": "colomolo",
         "installation_url": "alfred://gallery/workflow/colomolo/timer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/upload-file/",
-        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
-        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
-        "title": "Upload File",
-        "description": "Upload files and folders for easy sharing",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/play-song/",
