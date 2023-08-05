@@ -9,6 +9,24 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/heic-to-jpeg/"
     },
     {
+        "url": "https://alfred.app/workflows/stephenc/date-arithemetic/",
+        "icon_url": "https://alfred.app/workflows/stephenc/date-arithemetic/icon.png",
+        "icon_hash": "f392d43ae4a76ff443faa4952df1370c62e6baf042c54d659af141a13f50680e",
+        "title": "Date Arithmetic",
+        "description": "Perform date calculations in days",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/date-arithemetic/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrislemke/chatfred/",
+        "icon_url": "https://alfred.app/workflows/chrislemke/chatfred/icon.png",
+        "icon_hash": "f6a2d5b4e0068197dfde9e4af029ef83f8c7362c0980d77ccf6bafe3180cbc20",
+        "title": "ChatFred",
+        "description": "Access ChatGPT, DALL\u00b7E 2, and other OpenAI models",
+        "author": "chrislemke",
+        "installation_url": "alfred://gallery/workflow/chrislemke/chatfred/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/upload-file/",
         "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
         "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
@@ -387,15 +405,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
     },
     {
-        "url": "https://alfred.app/workflows/stephenc/date-arithemetic/",
-        "icon_url": "https://alfred.app/workflows/stephenc/date-arithemetic/icon.png",
-        "icon_hash": "f392d43ae4a76ff443faa4952df1370c62e6baf042c54d659af141a13f50680e",
-        "title": "Date Arithmetic",
-        "description": "Perform date calculations in days",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/date-arithemetic/"
-    },
-    {
         "url": "https://alfred.app/workflows/giovanni/leasechecker/",
         "icon_url": "https://alfred.app/workflows/giovanni/leasechecker/icon.png",
         "icon_hash": "6d90922b05ac39c92264600177eb8ef4a3bc5182ade037f2790185b2da572b5c",
@@ -673,15 +682,6 @@
         "description": "Over One Hundred Worthwhile Dilemmas",
         "author": "sepulchra",
         "installation_url": "alfred://gallery/workflow/sepulchra/oblique-strategies/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrislemke/chatfred/",
-        "icon_url": "https://alfred.app/workflows/chrislemke/chatfred/icon.png",
-        "icon_hash": "f6a2d5b4e0068197dfde9e4af029ef83f8c7362c0980d77ccf6bafe3180cbc20",
-        "title": "ChatFred",
-        "description": "Access ChatGPT, DALL\u00b7E 2, and other OpenAI models",
-        "author": "chrislemke",
-        "installation_url": "alfred://gallery/workflow/chrislemke/chatfred/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/yak-saver/",
