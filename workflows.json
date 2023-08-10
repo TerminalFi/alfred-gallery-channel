@@ -1,12 +1,39 @@
 [
     {
-        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
-        "icon_hash": "84b938e59d0dd5491438553492a648a363872a0c2c563fcece846eb5a832a4ec",
-        "title": "Amazon Suggest",
-        "description": "Get in-line Amazon search suggestions",
+        "url": "https://alfred.app/workflows/cagechung/devtoys/",
+        "icon_url": "https://alfred.app/workflows/cagechung/devtoys/icon.png",
+        "icon_hash": "d3e63fd690e33764f90a9122d5799f965df9c68ef509ea41b938d089889f0222",
+        "title": "DevToys",
+        "description": "Encode, Decode, Generate, and Format Text",
+        "author": "cagechung",
+        "installation_url": "alfred://gallery/workflow/cagechung/devtoys/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/file-explorer/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/file-explorer/icon.png",
+        "icon_hash": "4012ff2c4b91108893b947120e2f2dd07aeff21f74510e96c568c7899bd798bb",
+        "title": "File Explorer",
+        "description": "Rename files through a spreadsheet",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/file-explorer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/tinypng/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/tinypng/icon.png",
+        "icon_hash": "60d5a53b869f0060a49145620c17e3f18d076ae11f076c1ff37a24a191ad268d",
+        "title": "TinyPNG",
+        "description": "Compress images via TinyPNG",
         "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
+        "installation_url": "alfred://gallery/workflow/alfredapp/tinypng/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
@@ -16,6 +43,51 @@
         "description": "Search neovim plugins and online :help",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
+        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
+        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
+        "title": "Open Chrome Profile",
+        "description": "Switch to another Google Chrome profile",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
+        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
+        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
+        "title": "2FA Read Code",
+        "description": "Read two-factor authentication codes from Messages",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
+    },
+    {
+        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
+        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
+        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
+        "title": "Icon Generator",
+        "description": "Generate icons from SF Symbols",
+        "author": "floatingpoint",
+        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
+        "icon_hash": "84b938e59d0dd5491438553492a648a363872a0c2c563fcece846eb5a832a4ec",
+        "title": "Amazon Suggest",
+        "description": "Get in-line Amazon search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/",
@@ -52,15 +124,6 @@
         "description": "Upload files and folders for easy sharing",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
@@ -151,15 +214,6 @@
         "description": "Check current time in multiple timezones",
         "author": "fedecalendino",
         "installation_url": "alfred://gallery/workflow/fedecalendino/world-clock/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
-        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
-        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
-        "title": "Open Chrome Profile",
-        "description": "Switch to another Google Chrome profile",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
     },
     {
         "url": "https://alfred.app/workflows/colomolo/timer/",
@@ -259,15 +313,6 @@
         "description": "Read Text from QR Codes",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
-        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
-        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
-        "title": "2FA Read Code",
-        "description": "Read two-factor authentication codes from Messages",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
     },
     {
         "url": "https://alfred.app/workflows/omnigroup/omnifocus-collection/",
@@ -943,15 +988,6 @@
         "description": "Pause and resume execution of the frontmost app",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/app-freeze/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/tinypng/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/tinypng/icon.png",
-        "icon_hash": "60d5a53b869f0060a49145620c17e3f18d076ae11f076c1ff37a24a191ad268d",
-        "title": "TinyPNG",
-        "description": "Compress images via TinyPNG",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/tinypng/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/switch-appearance/",
@@ -1654,14 +1690,5 @@
         "description": "Search browser tabs from Safari and Chromium Browsers",
         "author": "epilande",
         "installation_url": "alfred://gallery/workflow/epilande/browser-tabs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
-        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
-        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
-        "title": "Icon Generator",
-        "description": "Generate icons from SF Symbols",
-        "author": "floatingpoint",
-        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
     }
 ]
