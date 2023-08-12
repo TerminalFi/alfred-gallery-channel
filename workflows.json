@@ -1,5 +1,77 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
+        "icon_url": "https://alfred.app/workflows/vitor/shrieking-chimes/icon.png",
+        "icon_hash": "974d0fe3b82f053849cea086ea81baabea9fd08e4d640b37c022a9bb6a8e0c4a",
+        "title": "Shrieking Chimes",
+        "description": "Set Timers and Alarms",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/shrieking-chimes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/pin-plus/",
+        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
+        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
+        "title": "Pin Plus",
+        "description": "Interact with your Pinboard bookmarks",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
+        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
+        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
+        "title": "Virtual Machines",
+        "description": "Run and Manage Virtual Machines",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/icon.png",
+        "icon_hash": "9030430f122ff4617f9e2de649d1661b2d9e8affb6e29d7fd69a7d2fdb2107e6",
+        "title": "Ignore in Alfred",
+        "description": "Exclude files and folders from Alfred\u2019s search results",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/ignore-in-alfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
+        "icon_hash": "e0c0e8973c5cfad63cf8c3864e96e194bdc896fcc7bcbdbd171ecd406cc807c3",
+        "title": "Low Power Mode",
+        "description": "Toggle Low Power Mode for Battery or Power Adapter",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
+        "icon_hash": "b4ed605612aae9e7bc849bdd33b736e7b0b304392ad5c54ab7a813afd44c1471",
+        "title": "Network Quality",
+        "description": "Test your internet connection",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
+        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
+        "title": "Plex",
+        "description": "Browse and interact with Plex media servers",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/cagechung/devtoys/",
         "icon_url": "https://alfred.app/workflows/cagechung/devtoys/icon.png",
         "icon_hash": "d3e63fd690e33764f90a9122d5799f965df9c68ef509ea41b938d089889f0222",
@@ -133,15 +205,6 @@
         "description": "Search in Chromium Histories and Bookmarks",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/xilopaint/about-this-mac/",
@@ -414,15 +477,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/download-media/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/pin-plus/",
-        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
-        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
-        "title": "Pin Plus",
-        "description": "Interact with your Pinboard bookmarks",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/pause-tabs/",
         "icon_url": "https://alfred.app/workflows/alfredapp/pause-tabs/icon.png",
         "icon_hash": "ec8511f3f2ae83cf775ed749adad5565325b5a67828db479f4e9adecd8aa9bd8",
@@ -619,15 +673,6 @@
         "description": "Find two-factor authentication codes in Messages",
         "author": "thebitguru",
         "installation_url": "alfred://gallery/workflow/thebitguru/simple-2fa-paste/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
-        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
-        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
-        "title": "Virtual Machines",
-        "description": "Run and Manage Virtual Machines",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/hackerboard/",
@@ -873,15 +918,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/phonetic-spelling/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
-        "icon_url": "https://alfred.app/workflows/vitor/shrieking-chimes/icon.png",
-        "icon_hash": "974d0fe3b82f053849cea086ea81baabea9fd08e4d640b37c022a9bb6a8e0c4a",
-        "title": "Shrieking Chimes",
-        "description": "Set Timers and Alarms",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/shrieking-chimes/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
         "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
         "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
@@ -1006,33 +1042,6 @@
         "description": "Filter through thousands of Netflix genres",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/streaming-genres/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
-        "icon_hash": "b4ed605612aae9e7bc849bdd33b736e7b0b304392ad5c54ab7a813afd44c1471",
-        "title": "Network Quality",
-        "description": "Test your internet connection",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
-        "icon_hash": "e0c0e8973c5cfad63cf8c3864e96e194bdc896fcc7bcbdbd171ecd406cc807c3",
-        "title": "Low Power Mode",
-        "description": "Toggle Low Power Mode for Battery or Power Adapter",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/icon.png",
-        "icon_hash": "9030430f122ff4617f9e2de649d1661b2d9e8affb6e29d7fd69a7d2fdb2107e6",
-        "title": "Ignore in Alfred",
-        "description": "Exclude files and folders from Alfred\u2019s search results",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/ignore-in-alfred/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/",
