@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/andreatitolo/control-keeping-you-awake/",
+        "icon_url": "https://alfred.app/workflows/andreatitolo/control-keeping-you-awake/icon.png",
+        "icon_hash": "88e83023fed4ee6a076b6c3559f649d84f9aa051ed49f0beb8c55f274d6a9be7",
+        "title": "Control Keeping You Awake",
+        "description": "Activate and disable the KeepingYouAwake app",
+        "author": "andreatitolo",
+        "installation_url": "alfred://gallery/workflow/andreatitolo/control-keeping-you-awake/"
+    },
+    {
+        "url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/",
+        "icon_url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/icon.png",
+        "icon_hash": "5b33b22aea09d6e4f6df321f56bdcbdfedf412bc0f6a1e37ff836d62658e913b",
+        "title": "Wooshy: Window to the Foreground!",
+        "description": "Bring windows to the foreground",
+        "author": "godbout",
+        "installation_url": "alfred://gallery/workflow/godbout/wooshy-window-to-the-foreground/"
+    },
+    {
+        "url": "https://alfred.app/workflows/godbout/brook-vpn/",
+        "icon_url": "https://alfred.app/workflows/godbout/brook-vpn/icon.png",
+        "icon_hash": "ae67b7162bdf2a60b7d7781cd0802e53646bc5f9dcac76661618871365cf23bd",
+        "title": "Brook VPN",
+        "description": "Connect to your Brook VPN",
+        "author": "godbout",
+        "installation_url": "alfred://gallery/workflow/godbout/brook-vpn/"
+    },
+    {
+        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
+        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
+        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
+        "title": "String multitool",
+        "description": "Transform text to various formats",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
+        "icon_hash": "d25e803d613d6fd8f4620e81d452aa65cfa2b7f33fa50e2e7f2e6c27fe1a48cb",
+        "title": "Backup Preferences",
+        "description": "Create and restore Alfred Preferences backups",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/words-with/",
         "icon_url": "https://alfred.app/workflows/vitor/words-with/icon.png",
         "icon_hash": "53a73172e1f40191bdf8cbe73ee2912c93d3c8229e412cb2882ee4250e68e8d8",
@@ -178,15 +232,6 @@
         "description": "Search and open 1Password items",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
