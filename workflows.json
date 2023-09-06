@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/airpods-connector/",
+        "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
+        "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
+        "title": "AirPods Connector",
+        "description": "Connect and disconnect your AirPods",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
+        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
+        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
+        "title": "YouVersion Suggest",
+        "description": "Search for and view Bible references on YouVersion",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
         "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
         "icon_hash": "35245c2a4d744f79e3c8f4f654bb60c223266f12fa7c00834dabcd74b913a407",
@@ -306,15 +333,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
-        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
-        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
-        "title": "Emoji Wine",
-        "description": "Find and tag emoji to your liking",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
         "icon_url": "https://alfred.app/workflows/vitor/shrieking-chimes/icon.png",
         "icon_hash": "974d0fe3b82f053849cea086ea81baabea9fd08e4d640b37c022a9bb6a8e0c4a",
@@ -484,15 +502,6 @@
         "description": "Open the conference URL for upcoming calendar events",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
-        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
-        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
-        "title": "YouVersion Suggest",
-        "description": "Search for and view Bible references on YouVersion",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/window-manager/",
@@ -1483,15 +1492,6 @@
         "description": "Search for emoji",
         "author": "fedecalendino",
         "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/airpods-connector/",
-        "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
-        "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
-        "title": "AirPods Connector",
-        "description": "Connect and disconnect your AirPods",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
     },
     {
         "url": "https://alfred.app/workflows/corecode/macupdater/",
