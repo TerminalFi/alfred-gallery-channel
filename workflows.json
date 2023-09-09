@@ -1,14 +1,5 @@
 [
     {
-        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
-        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
-        "title": "Emoji Wine",
-        "description": "Find and tag emoji to your liking",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
-    },
-    {
         "url": "https://alfred.app/workflows/acidham/airpods-connector/",
         "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
         "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
@@ -16,6 +7,15 @@
         "description": "Connect and disconnect your AirPods",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
