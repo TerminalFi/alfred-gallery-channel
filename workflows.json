@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/1password/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
+        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
+        "title": "1Password",
+        "description": "Search and open 1Password items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
+        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
+        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
+        "title": "Virtual Machines",
+        "description": "Run and Manage Virtual Machines",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/upload-file/",
+        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
+        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
+        "title": "Upload File",
+        "description": "Upload files and folders for easy sharing",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/pin-plus/",
+        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
+        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
+        "title": "Pin Plus",
+        "description": "Interact with your Pinboard bookmarks",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
+        "icon_hash": "d25e803d613d6fd8f4620e81d452aa65cfa2b7f33fa50e2e7f2e6c27fe1a48cb",
+        "title": "Backup Preferences",
+        "description": "Create and restore Alfred Preferences backups",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
+    },
+    {
         "url": "https://alfred.app/workflows/acidham/airpods-connector/",
         "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
         "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
@@ -79,15 +124,6 @@
         "description": "Transform text to various formats",
         "author": "colomolo",
         "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
-        "icon_hash": "d25e803d613d6fd8f4620e81d452aa65cfa2b7f33fa50e2e7f2e6c27fe1a48cb",
-        "title": "Backup Preferences",
-        "description": "Create and restore Alfred Preferences backups",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/words-with/",
@@ -261,15 +297,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/alias-homebrew-apps/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/1password/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
-        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
-        "title": "1Password",
-        "description": "Search and open 1Password items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
         "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
@@ -340,24 +367,6 @@
         "description": "Set Timers and Alarms",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/shrieking-chimes/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/pin-plus/",
-        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
-        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
-        "title": "Pin Plus",
-        "description": "Interact with your Pinboard bookmarks",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
-        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
-        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
-        "title": "Virtual Machines",
-        "description": "Run and Manage Virtual Machines",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
@@ -457,15 +466,6 @@
         "description": "Access ChatGPT, DALL\u00b7E 2, and other OpenAI models",
         "author": "chrislemke",
         "installation_url": "alfred://gallery/workflow/chrislemke/chatfred/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/upload-file/",
-        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
-        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
-        "title": "Upload File",
-        "description": "Upload files and folders for easy sharing",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
