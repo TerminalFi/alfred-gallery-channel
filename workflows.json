@@ -9,6 +9,33 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
     },
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
+        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
+        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
+        "title": "Icon Generator",
+        "description": "Generate icons from emoji and SF Symbols",
+        "author": "floatingpoint",
+        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
+    },
+    {
+        "url": "https://alfred.app/workflows/cagechung/devtoys/",
+        "icon_url": "https://alfred.app/workflows/cagechung/devtoys/icon.png",
+        "icon_hash": "d3e63fd690e33764f90a9122d5799f965df9c68ef509ea41b938d089889f0222",
+        "title": "DevToys",
+        "description": "Encode, Decode, Generate, and Format Text",
+        "author": "cagechung",
+        "installation_url": "alfred://gallery/workflow/cagechung/devtoys/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/virtual-machines/",
         "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
         "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
@@ -333,24 +360,6 @@
         "installation_url": "alfred://gallery/workflow/skydiver/nextjs-docs/"
     },
     {
-        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
-        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
-        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
-        "title": "Icon Generator",
-        "description": "Generate icons from emoji and SF Symbols",
-        "author": "floatingpoint",
-        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
         "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
@@ -385,15 +394,6 @@
         "description": "Browse and interact with Plex media servers",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
-    },
-    {
-        "url": "https://alfred.app/workflows/cagechung/devtoys/",
-        "icon_url": "https://alfred.app/workflows/cagechung/devtoys/icon.png",
-        "icon_hash": "d3e63fd690e33764f90a9122d5799f965df9c68ef509ea41b938d089889f0222",
-        "title": "DevToys",
-        "description": "Encode, Decode, Generate, and Format Text",
-        "author": "cagechung",
-        "installation_url": "alfred://gallery/workflow/cagechung/devtoys/"
     },
     {
         "url": "https://alfred.app/workflows/benjaminoddou/file-explorer/",
