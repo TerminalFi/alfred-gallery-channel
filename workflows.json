@@ -1,12 +1,21 @@
 [
     {
-        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
-        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
-        "title": "Emoji Wine",
-        "description": "Find and tag emoji to your liking",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
+        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
+        "icon_hash": "a9b771f2d33001928e5738f0fd3bd55da656a00e5f1cf0e992eb6edbb3b7f5c1",
+        "title": "Window Switcher",
+        "description": "Switch to a specific window of an app in the current Desktop Space",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
+        "icon_hash": "80d37f9dfcf8b89a23feb8c2900c47ee21df7d7e683d06f73bd1deb5f8271057",
+        "title": "Backup Preferences",
+        "description": "Create and restore Alfred Preferences backups",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
@@ -16,6 +25,15 @@
         "description": "Search neovim plugins and online :help",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
@@ -108,15 +126,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
-        "icon_hash": "d25e803d613d6fd8f4620e81d452aa65cfa2b7f33fa50e2e7f2e6c27fe1a48cb",
-        "title": "Backup Preferences",
-        "description": "Create and restore Alfred Preferences backups",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
-    },
-    {
         "url": "https://alfred.app/workflows/acidham/airpods-connector/",
         "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
         "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
@@ -133,15 +142,6 @@
         "description": "Search for and view Bible references on YouVersion",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
-        "icon_hash": "35245c2a4d744f79e3c8f4f654bb60c223266f12fa7c00834dabcd74b913a407",
-        "title": "Window Switcher",
-        "description": "Switch to a specific window of an app in the current Desktop Space",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/andreatitolo/control-keeping-you-awake/",
