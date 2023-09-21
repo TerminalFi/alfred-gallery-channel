@@ -1,21 +1,21 @@
 [
     {
-        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
-        "icon_hash": "a9b771f2d33001928e5738f0fd3bd55da656a00e5f1cf0e992eb6edbb3b7f5c1",
-        "title": "Window Switcher",
-        "description": "Switch to a specific window of an app in the current Desktop Space",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
         "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
-        "icon_hash": "80d37f9dfcf8b89a23feb8c2900c47ee21df7d7e683d06f73bd1deb5f8271057",
+        "icon_hash": "d9136eb3d0fe08b7cce5ddf3319b9e9a9de2e3cc7e862617040343770a98f69c",
         "title": "Backup Preferences",
         "description": "Create and restore Alfred Preferences backups",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
+        "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
+        "title": "Window Switcher",
+        "description": "Switch to a specific window of an app in the current Desktop Space",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
