@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
+        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
+        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
+        "title": "Virtual Machines",
+        "description": "Run and Manage Virtual Machines",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
+        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
+        "title": "Plex",
+        "description": "Browse and interact with Plex media servers",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
         "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
         "icon_hash": "d9136eb3d0fe08b7cce5ddf3319b9e9a9de2e3cc7e862617040343770a98f69c",
@@ -72,15 +90,6 @@
         "installation_url": "alfred://gallery/workflow/jygh/recent-files/"
     },
     {
-        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
-        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
-        "title": "Plex",
-        "description": "Browse and interact with Plex media servers",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/1password/",
         "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
         "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
@@ -97,15 +106,6 @@
         "description": "Encode, Decode, Generate, and Format Text",
         "author": "cagechung",
         "installation_url": "alfred://gallery/workflow/cagechung/devtoys/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
-        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
-        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
-        "title": "Virtual Machines",
-        "description": "Run and Manage Virtual Machines",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/upload-file/",
