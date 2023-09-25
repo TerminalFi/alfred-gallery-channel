@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
+        "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
+        "title": "Window Switcher",
+        "description": "Switch to a specific window of an app in the current Desktop Space",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/virtual-machines/",
         "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
         "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
@@ -34,15 +43,6 @@
         "description": "Create and restore Alfred Preferences backups",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
-        "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
-        "title": "Window Switcher",
-        "description": "Switch to a specific window of an app in the current Desktop Space",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
