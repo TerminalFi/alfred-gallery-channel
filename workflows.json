@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
+        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
+        "title": "Snippet Transformer",
+        "description": "Import and Export Alfred Snippet Collections to and from CSV",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
+        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
+        "title": "Plex",
+        "description": "Browse and interact with Plex media servers",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
         "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
         "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
@@ -27,15 +54,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
-        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
-        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
-        "title": "Plex",
-        "description": "Browse and interact with Plex media servers",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
         "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
         "icon_hash": "d9136eb3d0fe08b7cce5ddf3319b9e9a9de2e3cc7e862617040343770a98f69c",
@@ -43,15 +61,6 @@
         "description": "Create and restore Alfred Preferences backups",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
-    },
-    {
-        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
-        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
-        "title": "Emoji Wine",
-        "description": "Find and tag emoji to your liking",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
