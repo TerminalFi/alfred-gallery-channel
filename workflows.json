@@ -1,12 +1,30 @@
 [
     {
-        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
-        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
-        "title": "Snippet Transformer",
-        "description": "Import and Export Alfred Snippet Collections to and from CSV",
+        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
+        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
+        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
+        "title": "Critic Ratings",
+        "description": "Search Metacritic ratings for movies, tv shows, and games",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/disk-usage/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/disk-usage/icon.png",
+        "icon_hash": "23dfc1468101e2f7b757124ed682d2eaa22c37cced3ec61f4ff16882b61e60b9",
+        "title": "Disk Usage",
+        "description": "See available disk space in all volumes",
         "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
+        "installation_url": "alfred://gallery/workflow/alfredapp/disk-usage/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/power-thesaurus/",
+        "icon_url": "https://alfred.app/workflows/giovanni/power-thesaurus/icon.png",
+        "icon_hash": "5afe9111a14c0069c24aec5d69bff0fbfec334fea219fa699a01fe95d85f912c",
+        "title": "Power Thesaurus",
+        "description": "Search for synonyms and antonyms on powerthesaurus.org",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/power-thesaurus/"
     },
     {
         "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
@@ -25,6 +43,42 @@
         "description": "Browse and interact with Plex media servers",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
+        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
+        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
+        "title": "Open Conference URL",
+        "description": "Open the conference URL for upcoming calendar events",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/yak-saver/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/yak-saver/icon.png",
+        "icon_hash": "d76ae7af53fe237fa1d05d1e9ab82030cb321bc9d7ae0e46e71296111d715da0",
+        "title": "Yak Saver",
+        "description": "Set a reminder to get focused for a set amount of time",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/yak-saver/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
+        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
+        "title": "Snippet Transformer",
+        "description": "Import and Export Alfred Snippet Collections to and from CSV",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
@@ -70,15 +124,6 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
@@ -504,15 +549,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
     },
     {
-        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
-        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
-        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
-        "title": "Open Conference URL",
-        "description": "Open the conference URL for upcoming calendar events",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
-    },
-    {
         "url": "https://alfred.app/workflows/acidham/window-manager/",
         "icon_url": "https://alfred.app/workflows/acidham/window-manager/icon.png",
         "icon_hash": "fbb9486d4124a1406292ecd992894f38733e06b8d3fdcf3a4fe9e0bcf26a77cd",
@@ -936,15 +972,6 @@
         "installation_url": "alfred://gallery/workflow/sepulchra/oblique-strategies/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/yak-saver/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/yak-saver/icon.png",
-        "icon_hash": "d76ae7af53fe237fa1d05d1e9ab82030cb321bc9d7ae0e46e71296111d715da0",
-        "title": "Yak Saver",
-        "description": "Set a reminder to get focused for a set amount of time",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/yak-saver/"
-    },
-    {
         "url": "https://alfred.app/workflows/alexchantastic/lorem-ipsum/",
         "icon_url": "https://alfred.app/workflows/alexchantastic/lorem-ipsum/icon.png",
         "icon_hash": "f5d1e066d4e44918cb1a6e386f7cf90530727d40c750c0b0af99deae691d9aa2",
@@ -1114,15 +1141,6 @@
         "description": "See hardware and software system information",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/get-summary-system-info/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
-        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
-        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
-        "title": "Critic Ratings",
-        "description": "See Metacritic ratings for movies, tv, games, and music",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/switch-appearance/",
