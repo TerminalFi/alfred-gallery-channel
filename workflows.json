@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
         "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
         "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
