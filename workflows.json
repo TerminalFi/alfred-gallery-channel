@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
+        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
+        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
+        "title": "QR Reader",
+        "description": "Read Text from QR Codes",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
+        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
+        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
+        "title": "Open Conference URL",
+        "description": "Open the conference URL for upcoming calendar events",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
+    },
+    {
+        "url": "https://alfred.app/workflows/mrodalgaard/network/",
+        "icon_url": "https://alfred.app/workflows/mrodalgaard/network/icon.png",
+        "icon_hash": "2afbc6931fb26d4f245849197955ec158ed656e49fd5166bd6b6f7d5b0612046",
+        "title": "Network",
+        "description": "Show and change your network settings",
+        "author": "mrodalgaard",
+        "installation_url": "alfred://gallery/workflow/mrodalgaard/network/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
         "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
@@ -52,15 +79,6 @@
         "description": "Browse and interact with Plex media servers",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
-        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
-        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
-        "title": "Open Conference URL",
-        "description": "Open the conference URL for upcoming calendar events",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
@@ -655,15 +673,6 @@
         "description": "Slovenian Dictionary and Thesaurus",
         "author": "svenko99",
         "installation_url": "alfred://gallery/workflow/svenko99/sskj/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
-        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
-        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
-        "title": "QR Reader",
-        "description": "Read Text from QR Codes",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
     },
     {
         "url": "https://alfred.app/workflows/omnigroup/omnifocus-collection/",
@@ -1483,15 +1492,6 @@
         "description": "A programming calculator using Lua\u2019s math library",
         "author": "themadsens",
         "installation_url": "alfred://gallery/workflow/themadsens/basecalc/"
-    },
-    {
-        "url": "https://alfred.app/workflows/mrodalgaard/network/",
-        "icon_url": "https://alfred.app/workflows/mrodalgaard/network/icon.png",
-        "icon_hash": "2afbc6931fb26d4f245849197955ec158ed656e49fd5166bd6b6f7d5b0612046",
-        "title": "Network",
-        "description": "Show and change your network settings",
-        "author": "mrodalgaard",
-        "installation_url": "alfred://gallery/workflow/mrodalgaard/network/"
     },
     {
         "url": "https://alfred.app/workflows/artemy/ns-train-schedule/",
