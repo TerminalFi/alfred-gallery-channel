@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/run-command/",
+        "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
+        "icon_hash": "533a478d0aaafef171323d97dc8c513ebad80ba120ec09c35a1c8dcd5524f41f",
+        "title": "Run Command",
+        "description": "Run commands using your shell configuration",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/run-command/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/convert/",
+        "icon_url": "https://alfred.app/workflows/giovanni/convert/icon.png",
+        "icon_hash": "dfb1af88638490c79c4243a5089f98b10477b834e9902799294ea07b1bf89828",
+        "title": "Convert",
+        "description": "Free-form conversions between different units",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/convert/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/fakeum/",
+        "icon_url": "https://alfred.app/workflows/giovanni/fakeum/icon.png",
+        "icon_hash": "a8ee70423bdfa58d76729309f516beccbcd904f128a4857e513c9c399e6eb4b3",
+        "title": "Fakeum",
+        "description": "Generate Fake Data",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/fakeum/"
+    },
+    {
+        "url": "https://alfred.app/workflows/biatidigital/calculate-anything/",
+        "icon_url": "https://alfred.app/workflows/biatidigital/calculate-anything/icon.png",
+        "icon_hash": "25305ca237d588f0d8c631db3673cf2d25a3383719b9f421318ecf15c86b5675",
+        "title": "Calculate Anything",
+        "description": "Convert measurements, currencies, time, and more using natural language",
+        "author": "biatidigital",
+        "installation_url": "alfred://gallery/workflow/biatidigital/calculate-anything/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/phonetic-spelling/",
+        "icon_url": "https://alfred.app/workflows/giovanni/phonetic-spelling/icon.png",
+        "icon_hash": "a4ea11d2fbd6a0126d2afd725bf1c1b956400cd614e5465fe9297c36dad88fd1",
+        "title": "Phonetic Spelling",
+        "description": "Spell out words using phonetic alphabets",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/phonetic-spelling/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/power-thesaurus/",
+        "icon_url": "https://alfred.app/workflows/giovanni/power-thesaurus/icon.png",
+        "icon_hash": "5afe9111a14c0069c24aec5d69bff0fbfec334fea219fa699a01fe95d85f912c",
+        "title": "Power Thesaurus",
+        "description": "Search for synonyms and antonyms on powerthesaurus.org",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/power-thesaurus/"
+    },
+    {
         "url": "https://alfred.app/workflows/alanhe/qr-reader/",
         "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
         "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
@@ -52,15 +106,6 @@
         "description": "See available disk space in all volumes",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/disk-usage/"
-    },
-    {
-        "url": "https://alfred.app/workflows/giovanni/power-thesaurus/",
-        "icon_url": "https://alfred.app/workflows/giovanni/power-thesaurus/icon.png",
-        "icon_hash": "5afe9111a14c0069c24aec5d69bff0fbfec334fea219fa699a01fe95d85f912c",
-        "title": "Power Thesaurus",
-        "description": "Search for synonyms and antonyms on powerthesaurus.org",
-        "author": "giovanni",
-        "installation_url": "alfred://gallery/workflow/giovanni/power-thesaurus/"
     },
     {
         "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
@@ -972,15 +1017,6 @@
         "installation_url": "alfred://gallery/workflow/dnnsmnstrr/btt/"
     },
     {
-        "url": "https://alfred.app/workflows/biatidigital/calculate-anything/",
-        "icon_url": "https://alfred.app/workflows/biatidigital/calculate-anything/icon.png",
-        "icon_hash": "25305ca237d588f0d8c631db3673cf2d25a3383719b9f421318ecf15c86b5675",
-        "title": "Calculate Anything",
-        "description": "Convert measurements, currencies, time, and more using natural language",
-        "author": "biatidigital",
-        "installation_url": "alfred://gallery/workflow/biatidigital/calculate-anything/"
-    },
-    {
         "url": "https://alfred.app/workflows/sepulchra/oblique-strategies/",
         "icon_url": "https://alfred.app/workflows/sepulchra/oblique-strategies/icon.png",
         "icon_hash": "8bb9b61a815234a29035eb53a04578c98265f57ab420fc3650f7cd5b9834a07d",
@@ -1096,15 +1132,6 @@
         "description": "Toggle Do Not Disturb Focus Mode",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/calm-notifications/"
-    },
-    {
-        "url": "https://alfred.app/workflows/giovanni/phonetic-spelling/",
-        "icon_url": "https://alfred.app/workflows/giovanni/phonetic-spelling/icon.png",
-        "icon_hash": "a4ea11d2fbd6a0126d2afd725bf1c1b956400cd614e5465fe9297c36dad88fd1",
-        "title": "Phonetic Spelling",
-        "description": "Spell out words using phonetic alphabets",
-        "author": "giovanni",
-        "installation_url": "alfred://gallery/workflow/giovanni/phonetic-spelling/"
     },
     {
         "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
