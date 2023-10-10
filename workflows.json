@@ -1,8 +1,44 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
+        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
+        "title": "Banner Be Gone",
+        "description": "Close notification alerts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
+        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
+        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
+        "title": "Open Conference URL",
+        "description": "Open the conference URL for upcoming calendar events",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/christianolsen/wireguard-control/",
+        "icon_url": "https://alfred.app/workflows/christianolsen/wireguard-control/icon.png",
+        "icon_hash": "dca783272b4c825804539191e157159ea30fb0158f76c3f9861f86bdd3723eeb",
+        "title": "WireGuard Control",
+        "description": "Toggle WireGuard VPN connections",
+        "author": "christianolsen",
+        "installation_url": "alfred://gallery/workflow/christianolsen/wireguard-control/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/run-command/",
         "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
-        "icon_hash": "533a478d0aaafef171323d97dc8c513ebad80ba120ec09c35a1c8dcd5524f41f",
+        "icon_hash": "101cceec1c1c4008d4de83fba5459a0674b8b485841e67ead11ef022614afdb9",
         "title": "Run Command",
         "description": "Run commands using your shell configuration",
         "author": "vitor",
@@ -61,15 +97,6 @@
         "description": "Read Text from QR Codes",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
-        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
-        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
-        "title": "Open Conference URL",
-        "description": "Open the conference URL for upcoming calendar events",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
     },
     {
         "url": "https://alfred.app/workflows/mrodalgaard/network/",
@@ -277,15 +304,6 @@
         "description": "Activate and disable the KeepingYouAwake app",
         "author": "andreatitolo",
         "installation_url": "alfred://gallery/workflow/andreatitolo/control-keeping-you-awake/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/",
@@ -1141,15 +1159,6 @@
         "description": "Search and get info on movies or TV shows",
         "author": "tmcknight",
         "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/christianolsen/wireguard-control/",
-        "icon_url": "https://alfred.app/workflows/christianolsen/wireguard-control/icon.png",
-        "icon_hash": "dca783272b4c825804539191e157159ea30fb0158f76c3f9861f86bdd3723eeb",
-        "title": "WireGuard Control",
-        "description": "Toggle WireGuard VPN connections",
-        "author": "christianolsen",
-        "installation_url": "alfred://gallery/workflow/christianolsen/wireguard-control/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/deep-contacts-search/",
