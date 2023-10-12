@@ -1,14 +1,5 @@
 [
     {
-        "url": "https://alfred.app/workflows/caicailiushui/arc-tabs-and-spaces/",
-        "icon_url": "https://alfred.app/workflows/caicailiushui/arc-tabs-and-spaces/icon.png",
-        "icon_hash": "8830a0918a4f350108134c601bcd20f732d4cd0c0418d992459bfe81f4a4d672",
-        "title": "Arc Tabs and Spaces",
-        "description": "Search browser tabs and spaces in Arc",
-        "author": "caicailiushui",
-        "installation_url": "alfred://gallery/workflow/caicailiushui/arc-tabs-and-spaces/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
         "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
         "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
@@ -16,6 +7,15 @@
         "description": "Close notification alerts",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caicailiushui/arc-tabs-and-spaces/",
+        "icon_url": "https://alfred.app/workflows/caicailiushui/arc-tabs-and-spaces/icon.png",
+        "icon_hash": "8830a0918a4f350108134c601bcd20f732d4cd0c0418d992459bfe81f4a4d672",
+        "title": "Arc Tabs and Spaces",
+        "description": "Search browser tabs and spaces in Arc",
+        "author": "caicailiushui",
+        "installation_url": "alfred://gallery/workflow/caicailiushui/arc-tabs-and-spaces/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
