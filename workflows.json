@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
+        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
+        "title": "System Settings",
+        "description": "Open macOS System Settings Panes",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
         "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
         "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
@@ -367,15 +376,6 @@
         "description": "Generate disposable email inboxes",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
-        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
-        "title": "System Settings",
-        "description": "Open macOS System Settings Panes",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/start-recording/",
