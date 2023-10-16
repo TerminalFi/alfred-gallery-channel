@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
+        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
+        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
+        "title": "Remove Quarantine",
+        "description": "Delete the quarantine attribute from app bundles and files",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/system-settings/",
         "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
         "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
@@ -637,15 +646,6 @@
         "description": "Show \"About This Mac\" information",
         "author": "xilopaint",
         "installation_url": "alfred://gallery/workflow/xilopaint/about-this-mac/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
-        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
-        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
-        "title": "Remove Quarantine",
-        "description": "Delete the quarantine attribute from app bundles and files",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/window-manager/",
