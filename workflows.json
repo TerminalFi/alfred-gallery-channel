@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
+        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
+        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
+        "title": "Movie and TV Show Search",
+        "description": "Search and get info on movies or TV shows",
+        "author": "tmcknight",
+        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
         "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
         "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
@@ -1159,15 +1168,6 @@
         "description": "Toggle Do Not Disturb Focus Mode",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/calm-notifications/"
-    },
-    {
-        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
-        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
-        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
-        "title": "Movie and TV Show Search",
-        "description": "Search and get info on movies or TV shows",
-        "author": "tmcknight",
-        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/deep-contacts-search/",
