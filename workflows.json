@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/acidham/airpods-connector/",
+        "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
+        "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
+        "title": "AirPods Connector",
+        "description": "Connect and disconnect your AirPods",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
+    },
+    {
         "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
         "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
         "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
@@ -313,15 +322,6 @@
         "description": "Interact with your Pinboard bookmarks",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/airpods-connector/",
-        "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
-        "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
-        "title": "AirPods Connector",
-        "description": "Connect and disconnect your AirPods",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
