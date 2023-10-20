@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
+        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
+        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
+        "title": "Open Conference URL",
+        "description": "Open the conference URL for upcoming calendar events",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
+    },
+    {
         "url": "https://alfred.app/workflows/acidham/airpods-connector/",
         "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
         "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
@@ -52,15 +61,6 @@
         "description": "Search browser tabs and spaces in Arc",
         "author": "caicailiushui",
         "installation_url": "alfred://gallery/workflow/caicailiushui/arc-tabs-and-spaces/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
-        "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
-        "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
-        "title": "Open Conference URL",
-        "description": "Open the conference URL for upcoming calendar events",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/open-conference-url/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
