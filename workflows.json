@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/tot/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/tot/icon.png",
+        "icon_hash": "3f97e62b5c07ae2343e7c0bed24ffa228ea5e40a124d2d1aa9734255c0bd316f",
+        "title": "Tot",
+        "description": "Interact with your Tot dots",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/tot/"
+    },
+    {
         "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
         "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
         "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
