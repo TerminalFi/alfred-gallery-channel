@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
+        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
+        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
+        "title": "Chromium Bookmarks and History Search",
+        "description": "Search in Chromium Histories and Bookmarks",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/tot/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/tot/icon.png",
         "icon_hash": "3f97e62b5c07ae2343e7c0bed24ffa228ea5e40a124d2d1aa9734255c0bd316f",
@@ -250,15 +277,6 @@
         "description": "Run and Manage Virtual Machines",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
@@ -646,15 +664,6 @@
         "description": "Access ChatGPT, DALL\u00b7E 2, and other OpenAI models",
         "author": "chrislemke",
         "installation_url": "alfred://gallery/workflow/chrislemke/chatfred/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
-        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
-        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
-        "title": "Chromium Bookmarks and History Search",
-        "description": "Search in Chromium Histories and Bookmarks",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
     },
     {
         "url": "https://alfred.app/workflows/xilopaint/about-this-mac/",
