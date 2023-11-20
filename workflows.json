@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
+        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
+        "title": "Snippet Transformer",
+        "description": "Import and Export Alfred Snippet Collections to and from CSV",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
         "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
@@ -313,15 +322,6 @@
         "description": "Set a reminder to get focused for a set amount of time",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/yak-saver/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
-        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
-        "title": "Snippet Transformer",
-        "description": "Import and Export Alfred Snippet Collections to and from CSV",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
