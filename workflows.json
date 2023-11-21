@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/dente-azul/",
+        "icon_url": "https://alfred.app/workflows/vitor/dente-azul/icon.png",
+        "icon_hash": "674372b04ec7534d9afb74ffcf036186fdc6b75e68dc91e8d5a6882b138b462b",
+        "title": "Dente Azul",
+        "description": "Toggle bluetooth and paired device connectivity",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/dente-azul/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
         "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
         "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
@@ -556,15 +565,6 @@
         "description": "Download video and audio from web pages",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/download-media/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/dente-azul/",
-        "icon_url": "https://alfred.app/workflows/vitor/dente-azul/icon.png",
-        "icon_hash": "674372b04ec7534d9afb74ffcf036186fdc6b75e68dc91e8d5a6882b138b462b",
-        "title": "Dente Azul",
-        "description": "Toggle bluetooth and paired device connectivity",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/dente-azul/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
