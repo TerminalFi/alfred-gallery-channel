@@ -1,5 +1,68 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/default-app/",
+        "icon_url": "https://alfred.app/workflows/acidham/default-app/icon.png",
+        "icon_hash": "14d57b26e32c84c0e91edee2a9cbcf2a3e749d7673672f957a37d007b016c1ff",
+        "title": "Default App",
+        "description": "Change default application for a filetype",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/default-app/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
+        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
+        "title": "Plex",
+        "description": "Browse and interact with Plex media servers",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
+    },
+    {
+        "url": "https://alfred.app/workflows/yinanc/github-star/",
+        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
+        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
+        "title": "GitHub Star",
+        "description": "Search starred repositories on Github",
+        "author": "yinanc",
+        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
+    },
+    {
+        "url": "https://alfred.app/workflows/manewitz/hexpm/",
+        "icon_url": "https://alfred.app/workflows/manewitz/hexpm/icon.png",
+        "icon_hash": "b9f75d9845971dcd0a29b816c14016124e2f8591ca4b4420cd07a1fa524ad6b4",
+        "title": "Hex Search",
+        "description": "Search BEAM ecosystem packages",
+        "author": "manewitz",
+        "installation_url": "alfred://gallery/workflow/manewitz/hexpm/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
+        "icon_hash": "f43cd44f6d65671849d5712ca186ebc2954328fbea3c13c8756d4d52644ce549",
+        "title": "Amazon Suggest",
+        "description": "Get in-line Amazon search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/google-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-suggest/icon.png",
+        "icon_hash": "baa1508859e5a817b3723c847ae0f108e9d06ee96821bec195cfe93d8ebdb8cf",
+        "title": "Google Suggest",
+        "description": "Get in-line Google search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-suggest/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/dente-azul/",
         "icon_url": "https://alfred.app/workflows/vitor/dente-azul/icon.png",
         "icon_hash": "674372b04ec7534d9afb74ffcf036186fdc6b75e68dc91e8d5a6882b138b462b",
@@ -34,15 +97,6 @@
         "description": "Search developer documentation sites",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
-        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
-        "title": "Plex",
-        "description": "Browse and interact with Plex media servers",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
     },
     {
         "url": "https://alfred.app/workflows/cagechung/devtoys/",
@@ -115,15 +169,6 @@
         "description": "Interact with your Tot dots",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/tot/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
-        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
-        "title": "Homebrew Search",
-        "description": "Search, install, or uninstall homebrew packages",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
@@ -675,15 +720,6 @@
         "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
-        "icon_hash": "84b938e59d0dd5491438553492a648a363872a0c2c563fcece846eb5a832a4ec",
-        "title": "Amazon Suggest",
-        "description": "Get in-line Amazon search suggestions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/",
         "icon_url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/icon.png",
         "icon_hash": "5d410b019c64e9c39b5ad527b7918f856a927ca1806ff3ed826f8e4598a49bfe",
@@ -819,15 +855,6 @@
         "installation_url": "alfred://gallery/workflow/omnigroup/omnifocus-collection/"
     },
     {
-        "url": "https://alfred.app/workflows/acidham/default-app/",
-        "icon_url": "https://alfred.app/workflows/acidham/default-app/icon.png",
-        "icon_hash": "14d57b26e32c84c0e91edee2a9cbcf2a3e749d7673672f957a37d007b016c1ff",
-        "title": "Default App",
-        "description": "Change default application for a filetype",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/default-app/"
-    },
-    {
         "url": "https://alfred.app/workflows/xilopaint/urban-dictionary/",
         "icon_url": "https://alfred.app/workflows/xilopaint/urban-dictionary/icon.png",
         "icon_hash": "fdc68350ce9bd7e5645558ae96e2c5125610ce5885bd62a604cb1f705a00990b",
@@ -909,15 +936,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/leasechecker/"
     },
     {
-        "url": "https://alfred.app/workflows/yinanc/github-star/",
-        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
-        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
-        "title": "GitHub Star",
-        "description": "Search starred repositories on Github",
-        "author": "yinanc",
-        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
-    },
-    {
         "url": "https://alfred.app/workflows/akrabat/compress/",
         "icon_url": "https://alfred.app/workflows/akrabat/compress/icon.png",
         "icon_hash": "828e27014eef74d3e003bf6d8ad22e65850aca81da8f07251bf632cece030929",
@@ -952,15 +970,6 @@
         "description": "Reduce the dimensions of JPEG and PNG files",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/shrink-jpeg-png-files/"
-    },
-    {
-        "url": "https://alfred.app/workflows/manewitz/hexpm/",
-        "icon_url": "https://alfred.app/workflows/manewitz/hexpm/icon.png",
-        "icon_hash": "b9f75d9845971dcd0a29b816c14016124e2f8591ca4b4420cd07a1fa524ad6b4",
-        "title": "hex.pm",
-        "description": "Search and open BEAM ecosystem packages on hex.pm",
-        "author": "manewitz",
-        "installation_url": "alfred://gallery/workflow/manewitz/hexpm/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/new-folder/",
@@ -1276,15 +1285,6 @@
         "description": "Filter through thousands of Netflix genres",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/streaming-genres/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/google-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/google-suggest/icon.png",
-        "icon_hash": "139d45c5a43c09b401bd6a4d7429e331e76b6ce6c9529ad6e4f66312e71456f8",
-        "title": "Google Suggest",
-        "description": "Get in-line Google search suggestions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/google-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/dynamic-file-search/",
