@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/world-clock/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/world-clock/icon.png",
+        "icon_hash": "cb1546cf61aed28c4d680db892b1a24f265d474fc9b72ff3e244ed69594e2052",
+        "title": "World Clock",
+        "description": "Check current time in multiple timezones",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/world-clock/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/password-generator/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/password-generator/icon.png",
+        "icon_hash": "0bd37b5dd8db3ed0e881cfa9ebd904620f7ca915557786613f77b481d4b24a1b",
+        "title": "Password Generator",
+        "description": "Generate secure passwords",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/password-generator/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/google-scholar-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-scholar-suggest/icon.png",
+        "icon_hash": "bf9fd8ba69827bf2920a9698c9aec95d68db8a542bf9cb0ff535504058d3d099",
+        "title": "Google Scholar Suggest",
+        "description": "Get in-line Google Scholar search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-scholar-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/1password/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
+        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
+        "title": "1Password",
+        "description": "Search and open 1Password items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
         "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
@@ -88,15 +142,6 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/cagechung/devtoys/",
@@ -324,15 +369,6 @@
         "installation_url": "alfred://gallery/workflow/mrodalgaard/network/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
         "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
         "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
@@ -421,15 +457,6 @@
         "description": "List the most recently created or modified files",
         "author": "jygh",
         "installation_url": "alfred://gallery/workflow/jygh/recent-files/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/1password/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
-        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
-        "title": "1Password",
-        "description": "Search and open 1Password items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/upload-file/",
@@ -763,15 +790,6 @@
         "description": "Move/Resize/Arrange Windows",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/window-manager/"
-    },
-    {
-        "url": "https://alfred.app/workflows/fedecalendino/world-clock/",
-        "icon_url": "https://alfred.app/workflows/fedecalendino/world-clock/icon.png",
-        "icon_hash": "cb1546cf61aed28c4d680db892b1a24f265d474fc9b72ff3e244ed69594e2052",
-        "title": "World Clock",
-        "description": "Check current time in multiple timezones",
-        "author": "fedecalendino",
-        "installation_url": "alfred://gallery/workflow/fedecalendino/world-clock/"
     },
     {
         "url": "https://alfred.app/workflows/colomolo/timer/",
@@ -1708,15 +1726,6 @@
         "description": "Compare clipboard and file contents with Kaleidoscope",
         "author": "kaleidoscope",
         "installation_url": "alfred://gallery/workflow/kaleidoscope/kaleidoscope-integration/"
-    },
-    {
-        "url": "https://alfred.app/workflows/fedecalendino/password-generator/",
-        "icon_url": "https://alfred.app/workflows/fedecalendino/password-generator/icon.png",
-        "icon_hash": "0bd37b5dd8db3ed0e881cfa9ebd904620f7ca915557786613f77b481d4b24a1b",
-        "title": "Password Generator",
-        "description": "Generate secure passwords",
-        "author": "fedecalendino",
-        "installation_url": "alfred://gallery/workflow/fedecalendino/password-generator/"
     },
     {
         "url": "https://alfred.app/workflows/fedecalendino/randomer/",
