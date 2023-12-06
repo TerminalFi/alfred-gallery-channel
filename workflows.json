@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
+        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
+        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
+        "title": "Movie and TV Show Search",
+        "description": "Search and get info on movies or TV shows",
+        "author": "tmcknight",
+        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/zothero/",
+        "icon_url": "https://alfred.app/workflows/giovanni/zothero/icon.png",
+        "icon_hash": "c2841585a84694a66dd5b2d8eb7d4c1f773be20d123735988ea33d10c11d223d",
+        "title": "ZotHero",
+        "description": "Search and copy citations from Zotero",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/zothero/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
         "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
@@ -241,15 +259,6 @@
         "description": "Connect and disconnect your AirPods",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
-    },
-    {
-        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
-        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
-        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
-        "title": "Movie and TV Show Search",
-        "description": "Search and get info on movies or TV shows",
-        "author": "tmcknight",
-        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
