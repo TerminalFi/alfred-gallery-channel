@@ -1,5 +1,77 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/icon.png",
+        "icon_hash": "25226c26caa64be872b840dac4c039f88d636f316422a3b5f936aae2726f4e60",
+        "title": "PDF Summarizer",
+        "description": "Get summaries of PDFs via ChatPDF",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
+        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
+        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
+        "title": "Open Chrome Profile",
+        "description": "Switch to another Google Chrome profile",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
+        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
+        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
+        "title": "Spotify Mini Player",
+        "description": "Interact with your Spotify library",
+        "author": "vdesabou",
+        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
+    },
+    {
         "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
         "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
         "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
@@ -25,15 +97,6 @@
         "description": "Browse your favorite subreddits",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/fedecalendino/world-clock/",
@@ -70,15 +133,6 @@
         "description": "Search and open 1Password items",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
-        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
-        "title": "Homebrew Search",
-        "description": "Search, install, or uninstall homebrew packages",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/default-app/",
@@ -153,15 +207,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
         "url": "https://alfred.app/workflows/cagechung/devtoys/",
         "icon_url": "https://alfred.app/workflows/cagechung/devtoys/icon.png",
         "icon_hash": "d3e63fd690e33764f90a9122d5799f965df9c68ef509ea41b938d089889f0222",
@@ -207,15 +252,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/icon.png",
-        "icon_hash": "25226c26caa64be872b840dac4c039f88d636f316422a3b5f936aae2726f4e60",
-        "title": "PDF Summarizer",
-        "description": "Get summaries of PDFs via ChatPDF",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
-    },
-    {
         "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
         "icon_url": "https://alfred.app/workflows/caleb531/open-conference-url/icon.png",
         "icon_hash": "fa94e3454215f5b20fb0d0f3c73a890c47eb4061c164e8bf69abc0670a57961a",
@@ -232,15 +268,6 @@
         "description": "Interact with your Tot dots",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/tot/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
@@ -403,15 +430,6 @@
         "description": "Find and tag emoji to your liking",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/yak-saver/",
@@ -736,15 +754,6 @@
         "description": "System Monitoring and Process Management",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
-        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
-        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
-        "title": "Open Chrome Profile",
-        "description": "Switch to another Google Chrome profile",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
@@ -1123,15 +1132,6 @@
         "description": "Switch between Moom layouts",
         "author": "adamsmith",
         "installation_url": "alfred://gallery/workflow/adamsmith/moom/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
-        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
-        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
-        "title": "Spotify Mini Player",
-        "description": "Interact with your Spotify library",
-        "author": "vdesabou",
-        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
     },
     {
         "url": "https://alfred.app/workflows/dnnsmnstrr/btt/",
