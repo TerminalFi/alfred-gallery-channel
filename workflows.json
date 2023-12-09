@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/pass/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
+        "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
+        "title": "Pass",
+        "description": "Client for the pass command-line tool",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/corecode/macupdater/",
+        "icon_url": "https://alfred.app/workflows/corecode/macupdater/icon.png",
+        "icon_hash": "b82b0840d7fffb177e2274229cbd2ca61004a980a989ba643fc5f3c7a0bf8aae",
+        "title": "MacUpdater",
+        "description": "Keep all your software effortlessly up-to-date",
+        "author": "corecode",
+        "installation_url": "alfred://gallery/workflow/corecode/macupdater/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
         "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
@@ -25,15 +61,6 @@
         "description": "Get summaries of PDFs via ChatPDF",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
@@ -241,15 +268,6 @@
         "description": "Add a tapback reaction to the current message",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/tapback-message/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/pass/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
-        "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
-        "title": "Pass",
-        "description": "Client for the pass command-line tool",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
@@ -745,15 +763,6 @@
         "description": "Rename files through a spreadsheet",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/file-explorer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
@@ -1636,15 +1645,6 @@
         "description": "Quick lookup for your favourite package managers",
         "author": "willfarrell",
         "installation_url": "alfred://gallery/workflow/willfarrell/package-managers/"
-    },
-    {
-        "url": "https://alfred.app/workflows/corecode/macupdater/",
-        "icon_url": "https://alfred.app/workflows/corecode/macupdater/icon.png",
-        "icon_hash": "b82b0840d7fffb177e2274229cbd2ca61004a980a989ba643fc5f3c7a0bf8aae",
-        "title": "MacUpdater",
-        "description": "Keep all your software effortlessly up-to-date",
-        "author": "corecode",
-        "installation_url": "alfred://gallery/workflow/corecode/macupdater/"
     },
     {
         "url": "https://alfred.app/workflows/kostyafarber/notable/",
