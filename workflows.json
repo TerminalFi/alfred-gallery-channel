@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/icon.png",
+        "icon_hash": "61127194258ef6d3c3a6c6ccbe128849f2f974104f9b998aa33804f0e5eb65e8",
+        "title": "Share with AirDrop",
+        "description": "Share files, text, and URLs via AirDrop",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/share-with-airdrop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/label-colour-tag/",
+        "icon_url": "https://alfred.app/workflows/vitor/label-colour-tag/icon.png",
+        "icon_hash": "7303303f42eb61627ada119ea96f0dc0c93d247dbe68d5f86ee665896d058c35",
+        "title": "Label Colour Tag",
+        "description": "Edit file labels and tags",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/phonetic-spelling/",
+        "icon_url": "https://alfred.app/workflows/giovanni/phonetic-spelling/icon.png",
+        "icon_hash": "a4ea11d2fbd6a0126d2afd725bf1c1b956400cd614e5465fe9297c36dad88fd1",
+        "title": "Phonetic Spelling",
+        "description": "Spell out words using phonetic alphabets",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/phonetic-spelling/"
+    },
+    {
         "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
         "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
         "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
@@ -25,15 +61,6 @@
         "description": "Browse and interact with Plex media servers",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
@@ -405,15 +432,6 @@
         "installation_url": "alfred://gallery/workflow/biatidigital/calculate-anything/"
     },
     {
-        "url": "https://alfred.app/workflows/giovanni/phonetic-spelling/",
-        "icon_url": "https://alfred.app/workflows/giovanni/phonetic-spelling/icon.png",
-        "icon_hash": "a4ea11d2fbd6a0126d2afd725bf1c1b956400cd614e5465fe9297c36dad88fd1",
-        "title": "Phonetic Spelling",
-        "description": "Spell out words using phonetic alphabets",
-        "author": "giovanni",
-        "installation_url": "alfred://gallery/workflow/giovanni/phonetic-spelling/"
-    },
-    {
         "url": "https://alfred.app/workflows/giovanni/power-thesaurus/",
         "icon_url": "https://alfred.app/workflows/giovanni/power-thesaurus/icon.png",
         "icon_hash": "5afe9111a14c0069c24aec5d69bff0fbfec334fea219fa699a01fe95d85f912c",
@@ -664,15 +682,6 @@
         "description": "Open photo, video, and audio GPS coordinates in a map",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/media-coordinates/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/label-colour-tag/",
-        "icon_url": "https://alfred.app/workflows/vitor/label-colour-tag/icon.png",
-        "icon_hash": "7303303f42eb61627ada119ea96f0dc0c93d247dbe68d5f86ee665896d058c35",
-        "title": "Label Colour Tag",
-        "description": "Edit file labels and tags",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/",
