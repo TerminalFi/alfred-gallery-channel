@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/delete-configuration/",
+        "icon_url": "https://alfred.app/workflows/vitor/delete-configuration/icon.png",
+        "icon_hash": "10b4ad6431778094555f9f0590be2062e7ea59617a6aefbf00908de65033391c",
+        "title": "Delete Configuration",
+        "description": "Find settings and preferences to delete",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/delete-configuration/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/",
         "icon_url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/icon.png",
         "icon_hash": "61127194258ef6d3c3a6c6ccbe128849f2f974104f9b998aa33804f0e5eb65e8",
