@@ -1,5 +1,77 @@
 [
     {
+        "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
+        "icon_url": "https://alfred.app/workflows/tobiasmende/audio-switcher/icon.png",
+        "icon_hash": "46a172833fe3fdc9514949966354f31af6e2cb3de77056ff80f3dc584366dca4",
+        "title": "Audio Switcher",
+        "description": "Swiftly switch audio output and input devices",
+        "author": "tobiasmende",
+        "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/alfredo/",
+        "icon_url": "https://alfred.app/workflows/giovanni/alfredo/icon.png",
+        "icon_hash": "325be90b37a1e04bacdf1526038aafedba233526c930ef03f108b9b412a8b8bf",
+        "title": "AlfreDo",
+        "description": "Manage Todoist tasks",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/outlook-suite/",
+        "icon_url": "https://alfred.app/workflows/giovanni/outlook-suite/icon.png",
+        "icon_hash": "f321e77b496d911610890ef385334533710c80091d1135af71c752df12336853",
+        "title": "Outlook Suite",
+        "description": "Suite of tools to interact with Microsoft Outlook",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/outlook-suite/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/airpods-connector/",
+        "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
+        "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
+        "title": "AirPods Connector",
+        "description": "Connect and disconnect your AirPods",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/delete-configuration/",
         "icon_url": "https://alfred.app/workflows/vitor/delete-configuration/icon.png",
         "icon_hash": "10b4ad6431778094555f9f0590be2062e7ea59617a6aefbf00908de65033391c",
@@ -25,15 +97,6 @@
         "description": "Edit file labels and tags",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/phonetic-spelling/",
@@ -99,15 +162,6 @@
         "installation_url": "alfred://gallery/workflow/corecode/macupdater/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
-        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
-        "title": "Homebrew Search",
-        "description": "Search, install, or uninstall homebrew packages",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
         "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
@@ -133,15 +187,6 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
@@ -178,15 +223,6 @@
         "description": "Search and copy citations from Zotero",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/zothero/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
         "url": "https://alfred.app/workflows/fedecalendino/world-clock/",
@@ -349,15 +385,6 @@
         "description": "Search in Chromium Histories and Bookmarks",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/airpods-connector/",
-        "icon_url": "https://alfred.app/workflows/acidham/airpods-connector/icon.png",
-        "icon_hash": "adb3fe5a12a27669eaf246e9440dd44e2f7f1ac5764481e3c41aedf91d0fee3c",
-        "title": "AirPods Connector",
-        "description": "Connect and disconnect your AirPods",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
