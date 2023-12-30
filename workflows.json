@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
+        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
+        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
+        "title": "Chromium Bookmarks and History Search",
+        "description": "Search in Chromium Histories and Bookmarks",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
+        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
+        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
+        "title": "DeepL Translate",
+        "description": "Translate sentences with DeepL",
+        "author": "alexanderwillner",
+        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
         "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
         "icon_url": "https://alfred.app/workflows/tobiasmende/audio-switcher/icon.png",
         "icon_hash": "46a172833fe3fdc9514949966354f31af6e2cb3de77056ff80f3dc584366dca4",
@@ -108,15 +135,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/phonetic-spelling/"
     },
     {
-        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
-        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
-        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
-        "title": "DeepL Translate",
-        "description": "Translate sentences with DeepL",
-        "author": "alexanderwillner",
-        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/url-accordion/",
         "icon_url": "https://alfred.app/workflows/alfredapp/url-accordion/icon.png",
         "icon_hash": "cec17e5261c6dacedb88c291a096d12113857a162eadd1795a56d4cad7b1503a",
@@ -160,15 +178,6 @@
         "description": "Keep all your software effortlessly up-to-date",
         "author": "corecode",
         "installation_url": "alfred://gallery/workflow/corecode/macupdater/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
@@ -376,15 +385,6 @@
         "description": "Interact with your Tot dots",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/tot/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
-        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
-        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
-        "title": "Chromium Bookmarks and History Search",
-        "description": "Search in Chromium Histories and Bookmarks",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
