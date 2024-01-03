@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/giovanni/readwise/",
+        "icon_url": "https://alfred.app/workflows/giovanni/readwise/icon.png",
+        "icon_hash": "4a54710d7ebe293e21d30a45380330d7193732203432f0a13322978303ec2cf3",
+        "title": "alfred-readwise",
+        "description": "List, search, and open your Readwise highlights",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/readwise/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
         "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
         "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
         "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
@@ -79,24 +106,6 @@
         "description": "Browse your favorite subreddits",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/delete-configuration/",
