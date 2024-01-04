@@ -1,9 +1,18 @@
 [
     {
+        "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
+        "icon_url": "https://alfred.app/workflows/bjornelvar/nba-scores/icon.png",
+        "icon_hash": "6d69bb9b5add5f989d4be95f321c307f87ac9f2258753d87bc1f353e699c6aa2",
+        "title": "NBA Scores",
+        "description": "List NBA games with stat leaders",
+        "author": "bjornelvar",
+        "installation_url": "alfred://gallery/workflow/bjornelvar/nba-scores/"
+    },
+    {
         "url": "https://alfred.app/workflows/giovanni/readwise/",
         "icon_url": "https://alfred.app/workflows/giovanni/readwise/icon.png",
         "icon_hash": "4a54710d7ebe293e21d30a45380330d7193732203432f0a13322978303ec2cf3",
-        "title": "alfred-readwise",
+        "title": "Readwise",
         "description": "List, search, and open your Readwise highlights",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/readwise/"
@@ -1843,15 +1852,6 @@
         "description": "Convert text case to multiple formats",
         "author": "dfay",
         "installation_url": "alfred://gallery/workflow/dfay/case-converter/"
-    },
-    {
-        "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
-        "icon_url": "https://alfred.app/workflows/bjornelvar/nba-scores/icon.png",
-        "icon_hash": "6d69bb9b5add5f989d4be95f321c307f87ac9f2258753d87bc1f353e699c6aa2",
-        "title": "NBA Scores",
-        "description": "List NBA games with stat leaders",
-        "author": "bjornelvar",
-        "installation_url": "alfred://gallery/workflow/bjornelvar/nba-scores/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/get-weekday-of-date/",
