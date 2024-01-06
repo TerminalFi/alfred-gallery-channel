@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
+        "icon_hash": "e0c0e8973c5cfad63cf8c3864e96e194bdc896fcc7bcbdbd171ecd406cc807c3",
+        "title": "Low Power Mode",
+        "description": "Toggle Low Power Mode for Battery or Power Adapter",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
+        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
+        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
+        "title": "DeepL Translate",
+        "description": "Translate sentences with DeepL",
+        "author": "alexanderwillner",
+        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
+    },
+    {
         "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
         "icon_url": "https://alfred.app/workflows/bjornelvar/nba-scores/icon.png",
         "icon_hash": "6d69bb9b5add5f989d4be95f321c307f87ac9f2258753d87bc1f353e699c6aa2",
@@ -43,24 +70,6 @@
         "description": "Search in Chromium Histories and Bookmarks",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
-        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
-        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
-        "title": "DeepL Translate",
-        "description": "Translate sentences with DeepL",
-        "author": "alexanderwillner",
-        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
@@ -826,15 +835,6 @@
         "description": "Set Timers and Alarms",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/shrieking-chimes/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
-        "icon_hash": "e0c0e8973c5cfad63cf8c3864e96e194bdc896fcc7bcbdbd171ecd406cc807c3",
-        "title": "Low Power Mode",
-        "description": "Toggle Low Power Mode for Battery or Power Adapter",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
     },
     {
         "url": "https://alfred.app/workflows/benjaminoddou/file-explorer/",
