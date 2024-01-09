@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
+        "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
+        "title": "Unit Converter",
+        "description": "Convert between different units of measurement",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/unit-converter/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
         "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
         "icon_hash": "e0c0e8973c5cfad63cf8c3864e96e194bdc896fcc7bcbdbd171ecd406cc807c3",
