@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/label-colour-tag/",
+        "icon_url": "https://alfred.app/workflows/vitor/label-colour-tag/icon.png",
+        "icon_hash": "7303303f42eb61627ada119ea96f0dc0c93d247dbe68d5f86ee665896d058c35",
+        "title": "Label Colour Tag",
+        "description": "Edit file labels and tags",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
         "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
         "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
@@ -151,15 +160,6 @@
         "description": "Share files, text, and URLs via AirDrop",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/share-with-airdrop/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/label-colour-tag/",
-        "icon_url": "https://alfred.app/workflows/vitor/label-colour-tag/icon.png",
-        "icon_hash": "7303303f42eb61627ada119ea96f0dc0c93d247dbe68d5f86ee665896d058c35",
-        "title": "Label Colour Tag",
-        "description": "Edit file labels and tags",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/phonetic-spelling/",
