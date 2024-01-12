@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/delete-configuration/",
+        "icon_url": "https://alfred.app/workflows/vitor/delete-configuration/icon.png",
+        "icon_hash": "2999d2d70f994668889ffac85502bbbb203595bfa7e5ee3b80bc01e7be6a3ead",
+        "title": "Delete Configuration",
+        "description": "Find settings and preferences to delete",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/delete-configuration/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/label-colour-tag/",
         "icon_url": "https://alfred.app/workflows/vitor/label-colour-tag/icon.png",
         "icon_hash": "7303303f42eb61627ada119ea96f0dc0c93d247dbe68d5f86ee665896d058c35",
@@ -142,15 +151,6 @@
         "description": "Browse your favorite subreddits",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/delete-configuration/",
-        "icon_url": "https://alfred.app/workflows/vitor/delete-configuration/icon.png",
-        "icon_hash": "10b4ad6431778094555f9f0590be2062e7ea59617a6aefbf00908de65033391c",
-        "title": "Delete Configuration",
-        "description": "Find settings and preferences to delete",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/delete-configuration/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/",
