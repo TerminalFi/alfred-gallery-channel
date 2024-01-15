@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/turn-shoot/",
+        "icon_url": "https://alfred.app/workflows/vitor/turn-shoot/icon.png",
+        "icon_hash": "4a2a1276f8a75e6e8f4d851763449c9e342109f1b45ca97a91fb4c83b8156921",
+        "title": "Turn Shoot",
+        "description": "A reflexes game for two players",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/turn-shoot/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/delete-configuration/",
         "icon_url": "https://alfred.app/workflows/vitor/delete-configuration/icon.png",
         "icon_hash": "2999d2d70f994668889ffac85502bbbb203595bfa7e5ee3b80bc01e7be6a3ead",
@@ -724,7 +733,7 @@
         "icon_url": "https://alfred.app/workflows/vitor/ping-pong/icon.png",
         "icon_hash": "d1c8d7df075f38c2f5be5e90f1a27d3a6d15179569db2c43b19b1f0b68089d47",
         "title": "Ping Pong",
-        "description": "Play a round of table tennis with Alfred",
+        "description": "Play a round of table tennis",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/ping-pong/"
     },
