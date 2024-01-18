@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/temporary-email/",
+        "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
+        "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
+        "title": "Temporary Email",
+        "description": "Generate disposable email inboxes",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
+    },
+    {
+        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
+        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
+        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
+        "title": "Movie and TV Show Search",
+        "description": "Search and get info on movies or TV shows",
+        "author": "tmcknight",
+        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/turn-shoot/",
         "icon_url": "https://alfred.app/workflows/vitor/turn-shoot/icon.png",
         "icon_hash": "4a2a1276f8a75e6e8f4d851763449c9e342109f1b45ca97a91fb4c83b8156921",
@@ -259,15 +277,6 @@
         "description": "Interact with your Spotify library",
         "author": "vdesabou",
         "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
-    },
-    {
-        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
-        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
-        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
-        "title": "Movie and TV Show Search",
-        "description": "Search and get info on movies or TV shows",
-        "author": "tmcknight",
-        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/zothero/",
@@ -700,15 +709,6 @@
         "description": "Compress images via TinyPNG",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/tinypng/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/temporary-email/",
-        "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
-        "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
-        "title": "Temporary Email",
-        "description": "Generate disposable email inboxes",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/start-recording/",
