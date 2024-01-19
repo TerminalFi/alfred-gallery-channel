@@ -1,5 +1,77 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/icon.png",
+        "icon_hash": "25226c26caa64be872b840dac4c039f88d636f316422a3b5f936aae2726f4e60",
+        "title": "PDF Summarizer",
+        "description": "Get summaries of PDFs via ChatPDF",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
+        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
+        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
+        "title": "YouVersion Suggest",
+        "description": "Search for and view Bible references on YouVersion",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
+        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
+        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
+        "title": "QR Reader",
+        "description": "Read and create URL QR Codes",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/about-mac/",
+        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
+        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
+        "title": "About Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
+        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
+        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
+        "title": "Search Alfred Workflows",
+        "description": "Browse installed Alfred Workflows",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/temporary-email/",
         "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
         "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
@@ -97,15 +169,6 @@
         "description": "List, search, and open your Readwise highlights",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/readwise/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
@@ -216,15 +279,6 @@
         "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/pass/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
         "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
@@ -241,24 +295,6 @@
         "description": "Keep all your software effortlessly up-to-date",
         "author": "corecode",
         "installation_url": "alfred://gallery/workflow/corecode/macupdater/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/icon.png",
-        "icon_hash": "25226c26caa64be872b840dac4c039f88d636f316422a3b5f936aae2726f4e60",
-        "title": "PDF Summarizer",
-        "description": "Get summaries of PDFs via ChatPDF",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
@@ -531,15 +567,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/power-thesaurus/"
     },
     {
-        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
-        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
-        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
-        "title": "QR Reader",
-        "description": "Read Text from QR Codes",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
-    },
-    {
         "url": "https://alfred.app/workflows/mrodalgaard/network/",
         "icon_url": "https://alfred.app/workflows/mrodalgaard/network/icon.png",
         "icon_hash": "2afbc6931fb26d4f245849197955ec158ed656e49fd5166bd6b6f7d5b0612046",
@@ -646,15 +673,6 @@
         "description": "Interact with your Pinboard bookmarks",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
-        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
-        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
-        "title": "YouVersion Suggest",
-        "description": "Search for and view Bible references on YouVersion",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/andreatitolo/control-keeping-you-awake/",
@@ -970,15 +988,6 @@
         "description": "Play and manage local media and streams",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
-        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
-        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
-        "title": "Search Alfred Workflows",
-        "description": "Browse installed Alfred Workflows",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
     },
     {
         "url": "https://alfred.app/workflows/samuelraub/pretty-json/",
@@ -1348,15 +1357,6 @@
         "description": "Check for day numbers and leap years",
         "author": "akrabat",
         "installation_url": "alfred://gallery/workflow/akrabat/date-tools/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/about-mac/",
-        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
-        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
-        "title": "About Mac",
-        "description": "Show \"About This Mac\" information",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/calm-notifications/",
