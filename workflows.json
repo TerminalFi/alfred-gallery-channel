@@ -1,12 +1,12 @@
 [
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
         "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
@@ -16,6 +16,33 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
+        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
+        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
+        "title": "Open Chrome Profile",
+        "description": "Switch to another Google Chrome profile",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
@@ -171,15 +198,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/readwise/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
         "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
         "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
         "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
@@ -234,15 +252,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/",
         "icon_url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/icon.png",
         "icon_hash": "61127194258ef6d3c3a6c6ccbe128849f2f974104f9b998aa33804f0e5eb65e8",
@@ -295,15 +304,6 @@
         "description": "Keep all your software effortlessly up-to-date",
         "author": "corecode",
         "installation_url": "alfred://gallery/workflow/corecode/macupdater/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
-        "icon_url": "https://alfred.app/workflows/alanhe/open-chrome-profile/icon.png",
-        "icon_hash": "e96ec32c1af9061e379931240513359e2feb481c3ad3db518c5c40daa5e84146",
-        "title": "Open Chrome Profile",
-        "description": "Switch to another Google Chrome profile",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
     },
     {
         "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
