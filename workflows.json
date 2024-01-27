@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
+        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
+        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
+        "title": "Movie and TV Show Search",
+        "description": "Search and get info on movies or TV shows",
+        "author": "tmcknight",
+        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
         "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
@@ -106,15 +115,6 @@
         "description": "Generate disposable email inboxes",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
-    },
-    {
-        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
-        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
-        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
-        "title": "Movie and TV Show Search",
-        "description": "Search and get info on movies or TV shows",
-        "author": "tmcknight",
-        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/turn-shoot/",
