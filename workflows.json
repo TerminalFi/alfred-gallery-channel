@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
+        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
+        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
+        "title": "Virtual Machines",
+        "description": "Run and Manage Virtual Machines",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
+    },
+    {
         "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
         "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
         "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
@@ -619,15 +628,6 @@
         "description": "Switch to a specific window of an app in the current Desktop Space",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
-        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
-        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
-        "title": "Virtual Machines",
-        "description": "Run and Manage Virtual Machines",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
