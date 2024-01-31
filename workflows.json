@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/pass/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
+        "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
+        "title": "Pass",
+        "description": "Client for the pass command-line tool",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
+    },
+    {
+        "url": "https://alfred.app/workflows/biatidigital/calculate-anything/",
+        "icon_url": "https://alfred.app/workflows/biatidigital/calculate-anything/icon.png",
+        "icon_hash": "25305ca237d588f0d8c631db3673cf2d25a3383719b9f421318ecf15c86b5675",
+        "title": "Calculate Anything",
+        "description": "Convert measurements, currencies, time, and more using natural language",
+        "author": "biatidigital",
+        "installation_url": "alfred://gallery/workflow/biatidigital/calculate-anything/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/virtual-machines/",
         "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
         "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
@@ -297,15 +315,6 @@
         "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/pass/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
-        "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
-        "title": "Pass",
-        "description": "Client for the pass command-line tool",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
-    },
-    {
         "url": "https://alfred.app/workflows/corecode/macupdater/",
         "icon_url": "https://alfred.app/workflows/corecode/macupdater/icon.png",
         "icon_hash": "b82b0840d7fffb177e2274229cbd2ca61004a980a989ba643fc5f3c7a0bf8aae",
@@ -556,15 +565,6 @@
         "description": "Generate Fake Data",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/fakeum/"
-    },
-    {
-        "url": "https://alfred.app/workflows/biatidigital/calculate-anything/",
-        "icon_url": "https://alfred.app/workflows/biatidigital/calculate-anything/icon.png",
-        "icon_hash": "25305ca237d588f0d8c631db3673cf2d25a3383719b9f421318ecf15c86b5675",
-        "title": "Calculate Anything",
-        "description": "Convert measurements, currencies, time, and more using natural language",
-        "author": "biatidigital",
-        "installation_url": "alfred://gallery/workflow/biatidigital/calculate-anything/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/power-thesaurus/",
