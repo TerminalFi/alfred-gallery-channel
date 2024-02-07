@@ -9,6 +9,24 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
     },
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/xilopaint/things/",
+        "icon_url": "https://alfred.app/workflows/xilopaint/things/icon.png",
+        "icon_hash": "6ac107463e99f2e66d89af733040edf30d44bc6042630dd7fc6bd29f0164c74c",
+        "title": "Things",
+        "description": "Interact with Things",
+        "author": "xilopaint",
+        "installation_url": "alfred://gallery/workflow/xilopaint/things/"
+    },
+    {
         "url": "https://alfred.app/workflows/biatidigital/calculate-anything/",
         "icon_url": "https://alfred.app/workflows/biatidigital/calculate-anything/icon.png",
         "icon_hash": "25305ca237d588f0d8c631db3673cf2d25a3383719b9f421318ecf15c86b5675",
@@ -70,15 +88,6 @@
         "description": "Switch to another Google Chrome profile",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
@@ -1303,15 +1312,6 @@
         "description": "Replace semicolons and other separators with new lines",
         "author": "tophee",
         "installation_url": "alfred://gallery/workflow/tophee/replace-semicolons-with-linebreaks/"
-    },
-    {
-        "url": "https://alfred.app/workflows/xilopaint/things/",
-        "icon_url": "https://alfred.app/workflows/xilopaint/things/icon.png",
-        "icon_hash": "6ac107463e99f2e66d89af733040edf30d44bc6042630dd7fc6bd29f0164c74c",
-        "title": "Things",
-        "description": "Interact with Things",
-        "author": "xilopaint",
-        "installation_url": "alfred://gallery/workflow/xilopaint/things/"
     },
     {
         "url": "https://alfred.app/workflows/kennonb/bing-wallpapers/",
