@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/pass/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
         "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
@@ -214,15 +232,6 @@
         "description": "Toggle Low Power Mode for Battery or Power Adapter",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
@@ -628,15 +637,6 @@
         "description": "See available disk space in all volumes",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/disk-usage/"
-    },
-    {
-        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
-        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
-        "title": "Emoji Wine",
-        "description": "Find and tag emoji to your liking",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/yak-saver/",
