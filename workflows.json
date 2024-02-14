@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/zqzten/web-search-suggest/",
+        "icon_url": "https://alfred.app/workflows/zqzten/web-search-suggest/icon.png",
+        "icon_hash": "4186007f146865e87fb1b77908e21f978ce2c4535fabf55dcdcf115402c374a9",
+        "title": "Web Search Suggest",
+        "description": "Get in-line web search suggestions",
+        "author": "zqzten",
+        "installation_url": "alfred://gallery/workflow/zqzten/web-search-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/yohasebe/fzf/",
+        "icon_url": "https://alfred.app/workflows/yohasebe/fzf/icon.png",
+        "icon_hash": "221fda48e65f2de41375e4717e0165dd00bc414a6d86d713d205d7aa9ba55e94",
+        "title": "FZF",
+        "description": "Fuzzy find files and folders",
+        "author": "yohasebe",
+        "installation_url": "alfred://gallery/workflow/yohasebe/fzf/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
         "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
@@ -1197,15 +1215,6 @@
         "installation_url": "alfred://gallery/workflow/saiya/sourcetree/"
     },
     {
-        "url": "https://alfred.app/workflows/yohasebe/fzf/",
-        "icon_url": "https://alfred.app/workflows/yohasebe/fzf/icon.png",
-        "icon_hash": "221fda48e65f2de41375e4717e0165dd00bc414a6d86d713d205d7aa9ba55e94",
-        "title": "FZF",
-        "description": "Fuzzy find files and folders",
-        "author": "yohasebe",
-        "installation_url": "alfred://gallery/workflow/yohasebe/fzf/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/placeholder-images/",
         "icon_url": "https://alfred.app/workflows/alfredapp/placeholder-images/icon.png",
         "icon_hash": "76b5c73aae291a56fdfbde2e42110def7665e31bd8b4a1d1d4ce6b216538454a",
@@ -1663,15 +1672,6 @@
         "description": "Filter for and open System Settings Panes",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
-    },
-    {
-        "url": "https://alfred.app/workflows/zqzten/web-search-suggest/",
-        "icon_url": "https://alfred.app/workflows/zqzten/web-search-suggest/icon.png",
-        "icon_hash": "4186007f146865e87fb1b77908e21f978ce2c4535fabf55dcdcf115402c374a9",
-        "title": "Web Search Suggest",
-        "description": "Get in-line web search suggestions",
-        "author": "zqzten",
-        "installation_url": "alfred://gallery/workflow/zqzten/web-search-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/right-click/",
