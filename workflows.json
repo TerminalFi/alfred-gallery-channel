@@ -1,12 +1,12 @@
 [
     {
-        "url": "https://alfred.app/workflows/zqzten/web-search-suggest/",
-        "icon_url": "https://alfred.app/workflows/zqzten/web-search-suggest/icon.png",
-        "icon_hash": "4186007f146865e87fb1b77908e21f978ce2c4535fabf55dcdcf115402c374a9",
-        "title": "Web Search Suggest",
-        "description": "Get in-line web search suggestions",
-        "author": "zqzten",
-        "installation_url": "alfred://gallery/workflow/zqzten/web-search-suggest/"
+        "url": "https://alfred.app/workflows/giovanni/alfredo/",
+        "icon_url": "https://alfred.app/workflows/giovanni/alfredo/icon.png",
+        "icon_hash": "325be90b37a1e04bacdf1526038aafedba233526c930ef03f108b9b412a8b8bf",
+        "title": "AlfreDo",
+        "description": "Manage Todoist tasks",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
     },
     {
         "url": "https://alfred.app/workflows/yohasebe/fzf/",
@@ -16,6 +16,24 @@
         "description": "Fuzzy find files and folders",
         "author": "yohasebe",
         "installation_url": "alfred://gallery/workflow/yohasebe/fzf/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/watch-list/",
+        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
+        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
+        "title": "Watch List",
+        "description": "Play and manage local media and streams",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zqzten/web-search-suggest/",
+        "icon_url": "https://alfred.app/workflows/zqzten/web-search-suggest/icon.png",
+        "icon_hash": "4186007f146865e87fb1b77908e21f978ce2c4535fabf55dcdcf115402c374a9",
+        "title": "Web Search Suggest",
+        "description": "Get in-line web search suggestions",
+        "author": "zqzten",
+        "installation_url": "alfred://gallery/workflow/zqzten/web-search-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
@@ -295,15 +313,6 @@
         "description": "Swiftly switch audio output and input devices",
         "author": "tobiasmende",
         "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/giovanni/alfredo/",
-        "icon_url": "https://alfred.app/workflows/giovanni/alfredo/icon.png",
-        "icon_hash": "325be90b37a1e04bacdf1526038aafedba233526c930ef03f108b9b412a8b8bf",
-        "title": "AlfreDo",
-        "description": "Manage Todoist tasks",
-        "author": "giovanni",
-        "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/outlook-suite/",
@@ -1024,15 +1033,6 @@
         "description": "Single find & replace in selected text",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/find-and-replace-text/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/watch-list/",
-        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
-        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
-        "title": "Watch List",
-        "description": "Play and manage local media and streams",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
     },
     {
         "url": "https://alfred.app/workflows/samuelraub/pretty-json/",
