@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/outlook-suite/",
+        "icon_url": "https://alfred.app/workflows/giovanni/outlook-suite/icon.png",
+        "icon_hash": "f321e77b496d911610890ef385334533710c80091d1135af71c752df12336853",
+        "title": "Outlook Suite",
+        "description": "Suite of tools to interact with Microsoft Outlook",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/outlook-suite/"
+    },
+    {
         "url": "https://alfred.app/workflows/giovanni/alfredo/",
         "icon_url": "https://alfred.app/workflows/giovanni/alfredo/icon.png",
         "icon_hash": "325be90b37a1e04bacdf1526038aafedba233526c930ef03f108b9b412a8b8bf",
@@ -142,15 +160,6 @@
         "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
@@ -313,15 +322,6 @@
         "description": "Swiftly switch audio output and input devices",
         "author": "tobiasmende",
         "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/giovanni/outlook-suite/",
-        "icon_url": "https://alfred.app/workflows/giovanni/outlook-suite/icon.png",
-        "icon_hash": "f321e77b496d911610890ef385334533710c80091d1135af71c752df12336853",
-        "title": "Outlook Suite",
-        "description": "Suite of tools to interact with Microsoft Outlook",
-        "author": "giovanni",
-        "installation_url": "alfred://gallery/workflow/giovanni/outlook-suite/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/airpods-connector/",
