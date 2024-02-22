@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
+        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
+        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
+        "title": "Critic Ratings",
+        "description": "Search Metacritic ratings for movies, TV shows, and games",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
+    },
+    {
         "url": "https://alfred.app/workflows/alanhe/ocr/",
         "icon_url": "https://alfred.app/workflows/alanhe/ocr/icon.png",
         "icon_hash": "8f439be966fcf2e965da3f57379b51b785c80eac438729c880925f7329db454a",
@@ -664,15 +673,6 @@
         "description": "Show and change your network settings",
         "author": "mrodalgaard",
         "installation_url": "alfred://gallery/workflow/mrodalgaard/network/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
-        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
-        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
-        "title": "Critic Ratings",
-        "description": "Search Metacritic ratings for movies, tv shows, and games",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/disk-usage/",
