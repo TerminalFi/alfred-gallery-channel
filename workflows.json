@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/play-address/",
+        "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
+        "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
+        "title": "Play Address",
+        "description": "Play the URL in the frontmost browser or clipboard",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/play-address/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/icon.png",
+        "icon_hash": "6913adbad3870a78f5793d8c7682a6acefabfbfc1e71185ccf4d02d632ea9040",
+        "title": "Alias Homebrew Apps",
+        "description": "Create shortcuts to Homebrew formula app bundles",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/alias-homebrew-apps/"
+    },
+    {
+        "url": "https://alfred.app/workflows/meshchaninov/translate/",
+        "icon_url": "https://alfred.app/workflows/meshchaninov/translate/icon.png",
+        "icon_hash": "80ee4aad4ee62a5573e4396e0c4079051c56abd9fc46249aae1dd532b8794afd",
+        "title": "Translate",
+        "description": "Translate Text between Two Languages",
+        "author": "meshchaninov",
+        "installation_url": "alfred://gallery/workflow/meshchaninov/translate/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
+        "icon_url": "https://alfred.app/workflows/tobiasmende/audio-switcher/icon.png",
+        "icon_hash": "46a172833fe3fdc9514949966354f31af6e2cb3de77056ff80f3dc584366dca4",
+        "title": "Audio Switcher",
+        "description": "Swiftly switch audio output and input devices",
+        "author": "tobiasmende",
+        "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
         "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
         "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
@@ -25,15 +70,6 @@
         "description": "Search for and view Bible references on YouVersion",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
@@ -340,15 +376,6 @@
         "description": "Search in Chromium Histories and Bookmarks",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
-        "icon_url": "https://alfred.app/workflows/tobiasmende/audio-switcher/icon.png",
-        "icon_hash": "46a172833fe3fdc9514949966354f31af6e2cb3de77056ff80f3dc584366dca4",
-        "title": "Audio Switcher",
-        "description": "Swiftly switch audio output and input devices",
-        "author": "tobiasmende",
-        "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/airpods-connector/",
@@ -909,15 +936,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/app-freeze/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/icon.png",
-        "icon_hash": "1a4f0a233eede43b7d1c78392e226b6305d4eb43525a27cebf371af4aee10acd",
-        "title": "Alias Homebrew Apps",
-        "description": "Create shortcuts to Homebrew formula app bundles",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/alias-homebrew-apps/"
-    },
-    {
         "url": "https://alfred.app/workflows/zeitlings/set-default-browser/",
         "icon_url": "https://alfred.app/workflows/zeitlings/set-default-browser/icon.png",
         "icon_hash": "27721fd71d7c0b8b65b1cf01d10bcdd369201b7ac9b92b521616f96fcf7a138e",
@@ -1078,15 +1096,6 @@
         "description": "Toggle the state of your AirPlay devices",
         "author": "chrisdotson",
         "installation_url": "alfred://gallery/workflow/chrisdotson/itunes-airplay-toggle/"
-    },
-    {
-        "url": "https://alfred.app/workflows/meshchaninov/translate/",
-        "icon_url": "https://alfred.app/workflows/meshchaninov/translate/icon.png",
-        "icon_hash": "80ee4aad4ee62a5573e4396e0c4079051c56abd9fc46249aae1dd532b8794afd",
-        "title": "Translate",
-        "description": "Translate Text between Two Languages",
-        "author": "meshchaninov",
-        "installation_url": "alfred://gallery/workflow/meshchaninov/translate/"
     },
     {
         "url": "https://alfred.app/workflows/magobaol/phil/",
