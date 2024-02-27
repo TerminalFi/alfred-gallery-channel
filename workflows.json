@@ -1,5 +1,95 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
+        "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
+        "title": "Thumbnail Navigation",
+        "description": "Navigate the file system with previews",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/thumbnail-navigation/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/memory-pairs/",
+        "icon_url": "https://alfred.app/workflows/vitor/memory-pairs/icon.png",
+        "icon_hash": "548868c1007affa3544338e7ff4020933aba5b81bccfc37b11acdc1261bfe912",
+        "title": "Memory Pairs",
+        "description": "Play the matching pairs card game",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/memory-pairs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/icon.png",
+        "icon_hash": "5c71843bc91ecbfbeb91a7bcfcc96f07a634880b6fc146b2a137c6c7fd6b300f",
+        "title": "Read the Friendly Manual",
+        "description": "Open Unix Manual Pages",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/short-films/",
+        "icon_url": "https://alfred.app/workflows/vitor/short-films/icon.png",
+        "icon_hash": "8147780c3900694e1c40590ebd47ee61ee95c3bd45794b87f1b34e695c8a42c4",
+        "title": "Short Films",
+        "description": "Stream from a selection of short films",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/short-films/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/screenshots/",
+        "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
+        "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
+        "title": "Screenshots",
+        "description": "Search and act on screenshots",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/simple-diff/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/simple-diff/icon.png",
+        "icon_hash": "f931325db621ddaeeb0acd0b92ecb618a2d5366b1a1fac6e3aa2fcadf4d41684",
+        "title": "Simple Diff",
+        "description": "View differences in text, files, and directories",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/sequential-paste/",
+        "icon_url": "https://alfred.app/workflows/vitor/sequential-paste/icon.png",
+        "icon_hash": "36548223bc6fd6b3939df86fadc116f55ae1285113b08206fe4992911f0b5dee",
+        "title": "Sequential Paste",
+        "description": "Paste previous clipboard entries in order",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/sequential-paste/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/note-taker/",
+        "icon_url": "https://alfred.app/workflows/vitor/note-taker/icon.png",
+        "icon_hash": "35574b9e7dbf03bf019a49924a5888ecc95b86a4f6ca9048f6601686113a48a6",
+        "title": "Note Taker",
+        "description": "Keep small bits of text",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/run-command/",
+        "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
+        "icon_hash": "13910ceff26e951a228db14e466341e359883f7037607dbfdf994152e227a632",
+        "title": "Run Command",
+        "description": "Run commands using your shell configuration",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/run-command/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/play-address/",
         "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
         "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
@@ -655,15 +745,6 @@
         "description": "Toggle WireGuard VPN connections",
         "author": "christianolsen",
         "installation_url": "alfred://gallery/workflow/christianolsen/wireguard-control/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/run-command/",
-        "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
-        "icon_hash": "101cceec1c1c4008d4de83fba5459a0674b8b485841e67ead11ef022614afdb9",
-        "title": "Run Command",
-        "description": "Run commands using your shell configuration",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/run-command/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/convert/",
@@ -1420,15 +1501,6 @@
         "description": "Search all fields in a Contacts card",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/deep-contacts-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/note-taker/",
-        "icon_url": "https://alfred.app/workflows/vitor/note-taker/icon.png",
-        "icon_hash": "35574b9e7dbf03bf019a49924a5888ecc95b86a4f6ca9048f6601686113a48a6",
-        "title": "Note Taker",
-        "description": "Keep small bits of text",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
     },
     {
         "url": "https://alfred.app/workflows/benziahamed/menu-bar-search/",
