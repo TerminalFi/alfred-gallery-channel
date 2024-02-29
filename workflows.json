@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
+        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
+        "title": "Shortcuts",
+        "description": "Run installed macOS shortcuts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/image-shrinker/",
+        "icon_url": "https://alfred.app/workflows/acidham/image-shrinker/icon.png",
+        "icon_hash": "ca24ce10fe36803e61c2223fc03a3f383ca6215e8c7ebbf4b9acc90dc4155ae6",
+        "title": "Image Shrinker",
+        "description": "Reduce file size and dimensions of images for sharing",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/image-shrinker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/openai/",
         "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
         "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
@@ -7,6 +52,15 @@
         "description": "OpenAI integrations",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
+        "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
+        "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
+        "title": "Coffee Coffee",
+        "description": "Prevent your computer from going to sleep",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
@@ -115,15 +169,6 @@
         "description": "Translate Text between Two Languages",
         "author": "meshchaninov",
         "installation_url": "alfred://gallery/workflow/meshchaninov/translate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
@@ -270,15 +315,6 @@
         "installation_url": "alfred://gallery/workflow/godbout/airpods-pro-battery/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
         "url": "https://alfred.app/workflows/xilopaint/things/",
         "icon_url": "https://alfred.app/workflows/xilopaint/things/icon.png",
         "icon_hash": "6ac107463e99f2e66d89af733040edf30d44bc6042630dd7fc6bd29f0164c74c",
@@ -322,15 +358,6 @@
         "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
@@ -990,15 +1017,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/download-media/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
-        "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
-        "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
-        "title": "Coffee Coffee",
-        "description": "Prevent your computer from going to sleep",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/",
         "icon_url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/icon.png",
         "icon_hash": "e8695d37beff558e81b69d79a5ef7b0eeaf80dddf6c7a33d6396363a062e51d6",
@@ -1114,15 +1132,6 @@
         "description": "Quickly play songs via the Music app",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
-        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
-        "title": "Shortcuts",
-        "description": "Run installed macOS shortcuts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
@@ -1656,15 +1665,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/paper-formats/"
     },
     {
-        "url": "https://alfred.app/workflows/acidham/image-shrinker/",
-        "icon_url": "https://alfred.app/workflows/acidham/image-shrinker/icon.png",
-        "icon_hash": "ca24ce10fe36803e61c2223fc03a3f383ca6215e8c7ebbf4b9acc90dc4155ae6",
-        "title": "Image Shrinker",
-        "description": "Reduce file size and dimensions of images for sharing",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/image-shrinker/"
-    },
-    {
         "url": "https://alfred.app/workflows/stephenc/double-space-to-single-space/",
         "icon_url": "https://alfred.app/workflows/stephenc/double-space-to-single-space/icon.png",
         "icon_hash": "cd17b9af0eaabe5b67d581b290099f6bf2ed9b284302b450058531e6ab41628f",
@@ -1791,15 +1791,6 @@
         "installation_url": "alfred://gallery/workflow/rknightuk/findmoji/"
     },
     {
-        "url": "https://alfred.app/workflows/rknightuk/http-status-codes/",
-        "icon_url": "https://alfred.app/workflows/rknightuk/http-status-codes/icon.png",
-        "icon_hash": "6357cf2a6f5c817c9304e421d3726a8c25223122ff0dd00ac1bc34dbb52570c1",
-        "title": "HTTP Status Codes",
-        "description": "Search for HTTP status codes",
-        "author": "rknightuk",
-        "installation_url": "alfred://gallery/workflow/rknightuk/http-status-codes/"
-    },
-    {
         "url": "https://alfred.app/workflows/adamkiss/utf-search/",
         "icon_url": "https://alfred.app/workflows/adamkiss/utf-search/icon.png",
         "icon_hash": "3a033ae4c05db7a5ac7f06042e21242285a70662775b538ee3fec76785ab9c6d",
@@ -1825,6 +1816,15 @@
         "description": "Display train schedule between two stations",
         "author": "artemy",
         "installation_url": "alfred://gallery/workflow/artemy/ns-train-schedule/"
+    },
+    {
+        "url": "https://alfred.app/workflows/rknightuk/http-status-codes/",
+        "icon_url": "https://alfred.app/workflows/rknightuk/http-status-codes/icon.png",
+        "icon_hash": "6357cf2a6f5c817c9304e421d3726a8c25223122ff0dd00ac1bc34dbb52570c1",
+        "title": "HTTP Status Codes",
+        "description": "Search for HTTP status codes",
+        "author": "rknightuk",
+        "installation_url": "alfred://gallery/workflow/rknightuk/http-status-codes/"
     },
     {
         "url": "https://alfred.app/workflows/renfei/snippetslab/",
