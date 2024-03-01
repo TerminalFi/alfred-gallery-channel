@@ -1,5 +1,86 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
+        "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
+        "title": "Window Switcher",
+        "description": "Switch to a specific window of an app in the current Desktop Space",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/dusong/one-thing/",
+        "icon_url": "https://alfred.app/workflows/dusong/one-thing/icon.png",
+        "icon_hash": "97e525ae059f02676907a3ae1d7f1d69f3bb7f4479aaf42a5bf4368d05be456a",
+        "title": "One Thing",
+        "description": "Change text on the One Thing menubar",
+        "author": "dusong",
+        "installation_url": "alfred://gallery/workflow/dusong/one-thing/"
+    },
+    {
+        "url": "https://alfred.app/workflows/godbout/music-volume/",
+        "icon_url": "https://alfred.app/workflows/godbout/music-volume/icon.png",
+        "icon_hash": "ac3d9f30d23c86497a4ccb59f2ffdc5370fbb3e2cde1bc1eca94b0630c4dd27e",
+        "title": "Music Volume",
+        "description": "Control the volume of the Music app",
+        "author": "godbout",
+        "installation_url": "alfred://gallery/workflow/godbout/music-volume/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/rknightuk/gif-search/",
+        "icon_url": "https://alfred.app/workflows/rknightuk/gif-search/icon.png",
+        "icon_hash": "2a52399fd0772658e4d7b3971ca484ca02a91cda45c24f062ea1c5736432074f",
+        "title": "Gif Search",
+        "description": "Search your personal GIF collection",
+        "author": "rknightuk",
+        "installation_url": "alfred://gallery/workflow/rknightuk/gif-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/rknightuk/findmoji/",
+        "icon_url": "https://alfred.app/workflows/rknightuk/findmoji/icon.png",
+        "icon_hash": "4f51b8c04d81c8758f4e61d6f6ed456bf7bef87ee4647789fe0af3a3617c76d0",
+        "title": "Findmoji",
+        "description": "Find and paste emoji",
+        "author": "rknightuk",
+        "installation_url": "alfred://gallery/workflow/rknightuk/findmoji/"
+    },
+    {
+        "url": "https://alfred.app/workflows/bosha/blueman/",
+        "icon_url": "https://alfred.app/workflows/bosha/blueman/icon.png",
+        "icon_hash": "925ffeeb6fc267c4a604e980696999a85f4a26836119675b21d5658dd22de541",
+        "title": "Blueman",
+        "description": "List paired bluetooth devices and toggle connections",
+        "author": "bosha",
+        "installation_url": "alfred://gallery/workflow/bosha/blueman/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
         "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
         "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
@@ -261,15 +342,6 @@
         "installation_url": "alfred://gallery/workflow/zqzten/web-search-suggest/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
-    },
-    {
         "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
         "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
         "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
@@ -349,15 +421,6 @@
         "description": "Search and get info on movies or TV shows",
         "author": "tmcknight",
         "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
@@ -502,15 +565,6 @@
         "description": "Connect and disconnect your AirPods",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
-        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
-        "title": "Homebrew Search",
-        "description": "Search, install, or uninstall homebrew packages",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/",
@@ -826,15 +880,6 @@
         "description": "Set a reminder to get focused for a set amount of time",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/yak-saver/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
-        "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
-        "title": "Window Switcher",
-        "description": "Switch to a specific window of an app in the current Desktop Space",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
@@ -1692,15 +1737,6 @@
         "installation_url": "alfred://gallery/workflow/jdevalk/html-element-finder/"
     },
     {
-        "url": "https://alfred.app/workflows/rknightuk/gif-search/",
-        "icon_url": "https://alfred.app/workflows/rknightuk/gif-search/icon.png",
-        "icon_hash": "2a52399fd0772658e4d7b3971ca484ca02a91cda45c24f062ea1c5736432074f",
-        "title": "Gif Search",
-        "description": "Search your personal GIF collection",
-        "author": "rknightuk",
-        "installation_url": "alfred://gallery/workflow/rknightuk/gif-search/"
-    },
-    {
         "url": "https://alfred.app/workflows/gleitz/howdoi/",
         "icon_url": "https://alfred.app/workflows/gleitz/howdoi/icon.png",
         "icon_hash": "243c01f17374fdfa8e2591724e97498fdba7f1290b00674f0d7ebf19064b7a1b",
@@ -1780,15 +1816,6 @@
         "description": "Copy all current Safari tabs to Markdown",
         "author": "rknightuk",
         "installation_url": "alfred://gallery/workflow/rknightuk/get-safari-tabs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/rknightuk/findmoji/",
-        "icon_url": "https://alfred.app/workflows/rknightuk/findmoji/icon.png",
-        "icon_hash": "4f51b8c04d81c8758f4e61d6f6ed456bf7bef87ee4647789fe0af3a3617c76d0",
-        "title": "Findmoji",
-        "description": "Find and paste emoji",
-        "author": "rknightuk",
-        "installation_url": "alfred://gallery/workflow/rknightuk/findmoji/"
     },
     {
         "url": "https://alfred.app/workflows/adamkiss/utf-search/",
