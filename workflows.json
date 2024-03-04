@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/hackerboard/",
+        "icon_url": "https://alfred.app/workflows/vitor/hackerboard/icon.png",
+        "icon_hash": "ab88b365e66117b814837693805d5d8ec521c60d2996559e0f72c4bc0469f97c",
+        "title": "Hackerboard",
+        "description": "Search and interact with Hacker News",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
+        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
+        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
+        "title": "YouVersion Suggest",
+        "description": "Search for and view Bible references on YouVersion",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
         "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
         "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
@@ -106,15 +133,6 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
@@ -277,15 +295,6 @@
         "description": "Take a screenshot and copy its text to the clipboard",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/ocr/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
-        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
-        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
-        "title": "YouVersion Suggest",
-        "description": "Search for and view Bible references on YouVersion",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
@@ -1411,15 +1420,6 @@
         "description": "Find two-factor authentication codes in Messages",
         "author": "thebitguru",
         "installation_url": "alfred://gallery/workflow/thebitguru/simple-2fa-paste/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/hackerboard/",
-        "icon_url": "https://alfred.app/workflows/vitor/hackerboard/icon.png",
-        "icon_hash": "ab88b365e66117b814837693805d5d8ec521c60d2996559e0f72c4bc0469f97c",
-        "title": "Hackerboard",
-        "description": "Links from the front page of Hacker News",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
     },
     {
         "url": "https://alfred.app/workflows/outlawandy/stitchclip/",
