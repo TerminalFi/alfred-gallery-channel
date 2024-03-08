@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
         "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
         "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
@@ -70,15 +88,6 @@
         "description": "Search for and view Bible references on YouVersion",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
@@ -178,15 +187,6 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
