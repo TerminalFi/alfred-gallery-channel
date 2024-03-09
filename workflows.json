@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
+        "icon_hash": "6e85fbf0ae378669432a821d942c3ae010efa006369974ddf8dce1e2e097d48b",
+        "title": "Low Power Mode",
+        "description": "Toggle Low Power Mode for Battery or Power Adapter",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/cleanshot-x/",
+        "icon_url": "https://alfred.app/workflows/stephenc/cleanshot-x/icon.png",
+        "icon_hash": "411ed2c1b4e7530fdb44aff493281da4405773a0fe4fa3931786147927950b97",
+        "title": "CleanShot X",
+        "description": "Trigger actions from CleanShot X",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/openai/",
         "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
         "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
@@ -520,15 +538,6 @@
         "description": "Convert between different units of measurement",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/unit-converter/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
-        "icon_hash": "e0c0e8973c5cfad63cf8c3864e96e194bdc896fcc7bcbdbd171ecd406cc807c3",
-        "title": "Low Power Mode",
-        "description": "Toggle Low Power Mode for Battery or Power Adapter",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
     },
     {
         "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
