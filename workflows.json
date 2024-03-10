@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
         "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
         "icon_hash": "6e85fbf0ae378669432a821d942c3ae010efa006369974ddf8dce1e2e097d48b",
@@ -196,15 +214,6 @@
         "description": "Reduce file size and dimensions of images for sharing",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/image-shrinker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
@@ -1798,15 +1807,6 @@
         "description": "Add tasks to to-do lists and view them",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/simple-to-do-list/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/right-click/",
