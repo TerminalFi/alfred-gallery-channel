@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/emoji-mate/icon.png",
+        "icon_hash": "824b46434fb4fd0ae34369ab3c57ff39b03c6b1ca7c93b98200f362a14b8b84d",
+        "title": "Emoji Mate",
+        "description": "Search for emoji",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
         "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
@@ -34,24 +79,6 @@
         "description": "Trigger actions from CleanShot X",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
@@ -160,15 +187,6 @@
         "description": "Search, install, or uninstall homebrew packages",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/rknightuk/gif-search/",
@@ -394,15 +412,6 @@
         "description": "Client for the pass command-line tool",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
     },
     {
         "url": "https://alfred.app/workflows/godbout/airpods-pro-connector/",
@@ -763,15 +772,6 @@
         "description": "Encode, Decode, Generate, and Format Text",
         "author": "cagechung",
         "installation_url": "alfred://gallery/workflow/cagechung/devtoys/"
-    },
-    {
-        "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
-        "icon_url": "https://alfred.app/workflows/fedecalendino/emoji-mate/icon.png",
-        "icon_hash": "824b46434fb4fd0ae34369ab3c57ff39b03c6b1ca7c93b98200f362a14b8b84d",
-        "title": "Emoji Mate",
-        "description": "Search for emoji",
-        "author": "fedecalendino",
-        "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
     },
     {
         "url": "https://alfred.app/workflows/svenko99/sskj/",
