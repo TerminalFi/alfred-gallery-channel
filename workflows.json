@@ -1,5 +1,77 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/hackerboard/",
+        "icon_url": "https://alfred.app/workflows/vitor/hackerboard/icon.png",
+        "icon_hash": "ab88b365e66117b814837693805d5d8ec521c60d2996559e0f72c4bc0469f97c",
+        "title": "Hackerboard",
+        "description": "Search and interact with Hacker News",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
+        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
+        "title": "Read Later",
+        "description": "Save links as markdown to read later",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
+    },
+    {
+        "url": "https://alfred.app/workflows/yinanc/github-star/",
+        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
+        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
+        "title": "GitHub Star",
+        "description": "Search starred repositories on Github",
+        "author": "yinanc",
+        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/icon.png",
+        "icon_hash": "385fb959f0b55a554c0f694b3cb55e461d99d61a2edab1c23fd39dac13889033",
+        "title": "Wikipedia Suggest",
+        "description": "Search Wikipedia articles",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/wikipedia-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/simple-diff/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/simple-diff/icon.png",
+        "icon_hash": "f931325db621ddaeeb0acd0b92ecb618a2d5366b1a1fac6e3aa2fcadf4d41684",
+        "title": "Simple Diff",
+        "description": "View differences in text, files, and directories",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
+        "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
+        "title": "Thumbnail Navigation",
+        "description": "Navigate the file system with previews",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/thumbnail-navigation/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/note-taker/",
+        "icon_url": "https://alfred.app/workflows/vitor/note-taker/icon.png",
+        "icon_hash": "35574b9e7dbf03bf019a49924a5888ecc95b86a4f6ca9048f6601686113a48a6",
+        "title": "Note Taker",
+        "description": "Keep small bits of text",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/openai/",
         "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
         "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
@@ -25,15 +97,6 @@
         "description": "Search neovim plugins and online :help",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
@@ -81,15 +144,6 @@
         "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
-        "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
-        "title": "Thumbnail Navigation",
-        "description": "Navigate the file system with previews",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/thumbnail-navigation/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/memory-pairs/",
         "icon_url": "https://alfred.app/workflows/vitor/memory-pairs/icon.png",
         "icon_hash": "548868c1007affa3544338e7ff4020933aba5b81bccfc37b11acdc1261bfe912",
@@ -133,15 +187,6 @@
         "description": "Browse your favorite subreddits",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/hackerboard/",
-        "icon_url": "https://alfred.app/workflows/vitor/hackerboard/icon.png",
-        "icon_hash": "ab88b365e66117b814837693805d5d8ec521c60d2996559e0f72c4bc0469f97c",
-        "title": "Hackerboard",
-        "description": "Search and interact with Hacker News",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
@@ -252,15 +297,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/simple-diff/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/simple-diff/icon.png",
-        "icon_hash": "f931325db621ddaeeb0acd0b92ecb618a2d5366b1a1fac6e3aa2fcadf4d41684",
-        "title": "Simple Diff",
-        "description": "View differences in text, files, and directories",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/sequential-paste/",
         "icon_url": "https://alfred.app/workflows/vitor/sequential-paste/icon.png",
         "icon_hash": "36548223bc6fd6b3939df86fadc116f55ae1285113b08206fe4992911f0b5dee",
@@ -268,15 +304,6 @@
         "description": "Paste previous clipboard entries in order",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/sequential-paste/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/note-taker/",
-        "icon_url": "https://alfred.app/workflows/vitor/note-taker/icon.png",
-        "icon_hash": "35574b9e7dbf03bf019a49924a5888ecc95b86a4f6ca9048f6601686113a48a6",
-        "title": "Note Taker",
-        "description": "Keep small bits of text",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/run-command/",
@@ -709,15 +736,6 @@
         "description": "Change default application for a filetype",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/default-app/"
-    },
-    {
-        "url": "https://alfred.app/workflows/yinanc/github-star/",
-        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
-        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
-        "title": "GitHub Star",
-        "description": "Search starred repositories on Github",
-        "author": "yinanc",
-        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
     },
     {
         "url": "https://alfred.app/workflows/manewitz/hexpm/",
