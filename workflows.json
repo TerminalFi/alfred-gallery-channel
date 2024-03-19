@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/icon.png",
+        "icon_hash": "5c71843bc91ecbfbeb91a7bcfcc96f07a634880b6fc146b2a137c6c7fd6b300f",
+        "title": "Read the Friendly Manual",
+        "description": "Open Unix Manual Pages",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
+        "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
+        "title": "Unit Converter",
+        "description": "Convert between different units of measurement",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/unit-converter/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
+        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
+        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
+        "title": "Shutdown Timer",
+        "description": "Turn off macOS on a timer",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
+        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
+        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
+        "title": "String multitool",
+        "description": "Transform text to various formats",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/hackerboard/",
         "icon_url": "https://alfred.app/workflows/vitor/hackerboard/icon.png",
         "icon_hash": "ab88b365e66117b814837693805d5d8ec521c60d2996559e0f72c4bc0469f97c",
@@ -288,15 +324,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/icon.png",
-        "icon_hash": "5c71843bc91ecbfbeb91a7bcfcc96f07a634880b6fc146b2a137c6c7fd6b300f",
-        "title": "Read the Friendly Manual",
-        "description": "Open Unix Manual Pages",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/sequential-paste/",
         "icon_url": "https://alfred.app/workflows/vitor/sequential-paste/icon.png",
         "icon_hash": "36548223bc6fd6b3939df86fadc116f55ae1285113b08206fe4992911f0b5dee",
@@ -574,15 +601,6 @@
         "description": "Edit file labels and tags",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
-        "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
-        "title": "Unit Converter",
-        "description": "Convert between different units of measurement",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/unit-converter/"
     },
     {
         "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
@@ -999,15 +1017,6 @@
         "installation_url": "alfred://gallery/workflow/godbout/brook-vpn/"
     },
     {
-        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
-        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
-        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
-        "title": "String multitool",
-        "description": "Transform text to various formats",
-        "author": "colomolo",
-        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/words-with/",
         "icon_url": "https://alfred.app/workflows/vitor/words-with/icon.png",
         "icon_hash": "53a73172e1f40191bdf8cbe73ee2912c93d3c8229e412cb2882ee4250e68e8d8",
@@ -1312,15 +1321,6 @@
         "description": "Pause audio and video in web browser tabs",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/pause-tabs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
-        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
-        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
-        "title": "Shutdown Timer",
-        "description": "Turn off macOS on a timer",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/leasechecker/",
