@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/play-address/",
+        "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
+        "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
+        "title": "Play Address",
+        "description": "Play the URL in the frontmost browser or clipboard",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/play-address/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/short-films/",
+        "icon_url": "https://alfred.app/workflows/vitor/short-films/icon.png",
+        "icon_hash": "8147780c3900694e1c40590ebd47ee61ee95c3bd45794b87f1b34e695c8a42c4",
+        "title": "Short Films",
+        "description": "Stream from a selection of short films",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/short-films/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
         "icon_url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/icon.png",
         "icon_hash": "5c71843bc91ecbfbeb91a7bcfcc96f07a634880b6fc146b2a137c6c7fd6b300f",
@@ -144,15 +180,6 @@
         "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
         "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
         "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
         "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
@@ -189,15 +216,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/memory-pairs/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/short-films/",
-        "icon_url": "https://alfred.app/workflows/vitor/short-films/icon.png",
-        "icon_hash": "8147780c3900694e1c40590ebd47ee61ee95c3bd45794b87f1b34e695c8a42c4",
-        "title": "Short Films",
-        "description": "Stream from a selection of short films",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/short-films/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/screenshots/",
         "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
         "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
@@ -214,15 +232,6 @@
         "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
@@ -340,15 +349,6 @@
         "description": "Run commands using your shell configuration",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/run-command/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/play-address/",
-        "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
-        "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
-        "title": "Play Address",
-        "description": "Play the URL in the frontmost browser or clipboard",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/play-address/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/",
