@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
+        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
+        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
+        "title": "Remove Quarantine",
+        "description": "Delete the quarantine attribute from app bundles and files",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/play-address/",
         "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
         "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
@@ -844,15 +853,6 @@
         "description": "Interact with your Tot dots",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/tot/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
-        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
-        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
-        "title": "Remove Quarantine",
-        "description": "Delete the quarantine attribute from app bundles and files",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/system-settings/",
