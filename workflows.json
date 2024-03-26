@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
         "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
         "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
@@ -457,15 +466,6 @@
         "description": "Get in-line web search suggestions",
         "author": "zqzten",
         "installation_url": "alfred://gallery/workflow/zqzten/web-search-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
-        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
-        "title": "Emoji Wine",
-        "description": "Find and tag emoji to your liking",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pass/",
