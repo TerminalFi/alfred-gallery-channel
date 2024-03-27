@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
+        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
+        "title": "Read Later",
+        "description": "Save links as markdown to read later",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
+        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
+        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
+        "title": "Spotify Mini Player",
+        "description": "Interact with your Spotify library",
+        "author": "vdesabou",
+        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/cleanshot-x/",
+        "icon_url": "https://alfred.app/workflows/stephenc/cleanshot-x/icon.png",
+        "icon_hash": "411ed2c1b4e7530fdb44aff493281da4405773a0fe4fa3931786147927950b97",
+        "title": "CleanShot X",
+        "description": "Trigger actions from CleanShot X",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
+    },
+    {
         "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
         "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
         "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
@@ -99,15 +135,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
-        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
-        "title": "Read Later",
-        "description": "Save links as markdown to read later",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
-    },
-    {
         "url": "https://alfred.app/workflows/yinanc/github-star/",
         "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
         "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
@@ -198,15 +225,6 @@
         "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
     },
     {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
         "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
         "icon_hash": "6e85fbf0ae378669432a821d942c3ae010efa006369974ddf8dce1e2e097d48b",
@@ -214,15 +232,6 @@
         "description": "Toggle Low Power Mode for Battery or Power Adapter",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/cleanshot-x/",
-        "icon_url": "https://alfred.app/workflows/stephenc/cleanshot-x/icon.png",
-        "icon_hash": "411ed2c1b4e7530fdb44aff493281da4405773a0fe4fa3931786147927950b97",
-        "title": "CleanShot X",
-        "description": "Trigger actions from CleanShot X",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/memory-pairs/",
@@ -700,15 +709,6 @@
         "description": "Keep all your software effortlessly up-to-date",
         "author": "corecode",
         "installation_url": "alfred://gallery/workflow/corecode/macupdater/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
-        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
-        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
-        "title": "Spotify Mini Player",
-        "description": "Interact with your Spotify library",
-        "author": "vdesabou",
-        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/zothero/",
