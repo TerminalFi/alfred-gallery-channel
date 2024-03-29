@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/stephenc/find-and-replace-text/",
+        "icon_url": "https://alfred.app/workflows/stephenc/find-and-replace-text/icon.png",
+        "icon_hash": "420eee137a096c75d1940f8acbf62094d70dce138446c2d1918be2c770907b76",
+        "title": "Find and replace text",
+        "description": "Single find & replace in selected text",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/find-and-replace-text/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/save-ur-url/",
+        "icon_url": "https://alfred.app/workflows/stephenc/save-ur-url/icon.png",
+        "icon_hash": "3424ba31b735ee347a99b3144b598844e636cc3fcc127719f5416b07f73adbd3",
+        "title": "Save 'ur URL",
+        "description": "Save, view, edit, and search URLs in a single file",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/save-ur-url/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/save-ur-note/",
+        "icon_url": "https://alfred.app/workflows/stephenc/save-ur-note/icon.png",
+        "icon_hash": "9cf354493997b4f15ec397c8a99d840b10f32d09a7139487868371690d254a0b",
+        "title": "Save 'ur note",
+        "description": "Save, view and edit quick notes in a single plain text file",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/save-ur-note/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
         "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
@@ -250,15 +286,6 @@
         "description": "Search and act on screenshots",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
@@ -1240,15 +1267,6 @@
         "description": "Search Workflows on the Alfred Gallery",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/alfred-gallery/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/find-and-replace-text/",
-        "icon_url": "https://alfred.app/workflows/stephenc/find-and-replace-text/icon.png",
-        "icon_hash": "420eee137a096c75d1940f8acbf62094d70dce138446c2d1918be2c770907b76",
-        "title": "Find and replace text",
-        "description": "Single find & replace in selected text",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/find-and-replace-text/"
     },
     {
         "url": "https://alfred.app/workflows/samuelraub/pretty-json/",
