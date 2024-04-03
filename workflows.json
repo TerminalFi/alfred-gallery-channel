@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
+        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
+        "title": "Read Later",
+        "description": "Save links as markdown to read later",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/convert/",
+        "icon_url": "https://alfred.app/workflows/giovanni/convert/icon.png",
+        "icon_hash": "dfb1af88638490c79c4243a5089f98b10477b834e9902799294ea07b1bf89828",
+        "title": "Convert",
+        "description": "Free-form conversions between different units",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/convert/"
+    },
+    {
         "url": "https://alfred.app/workflows/stephenc/find-and-replace-text/",
         "icon_url": "https://alfred.app/workflows/stephenc/find-and-replace-text/icon.png",
         "icon_hash": "420eee137a096c75d1940f8acbf62094d70dce138446c2d1918be2c770907b76",
@@ -18,15 +63,6 @@
         "installation_url": "alfred://gallery/workflow/stephenc/save-ur-url/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
         "url": "https://alfred.app/workflows/stephenc/save-ur-note/",
         "icon_url": "https://alfred.app/workflows/stephenc/save-ur-note/icon.png",
         "icon_hash": "9cf354493997b4f15ec397c8a99d840b10f32d09a7139487868371690d254a0b",
@@ -34,15 +70,6 @@
         "description": "Save, view and edit quick notes in a single plain text file",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/save-ur-note/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
-        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
-        "title": "Read Later",
-        "description": "Save links as markdown to read later",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
     },
     {
         "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
@@ -106,15 +133,6 @@
         "description": "Stream from a selection of short films",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/short-films/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
@@ -214,15 +232,6 @@
         "description": "Keep small bits of text",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/openai/",
@@ -916,15 +925,6 @@
         "description": "Toggle WireGuard VPN connections",
         "author": "christianolsen",
         "installation_url": "alfred://gallery/workflow/christianolsen/wireguard-control/"
-    },
-    {
-        "url": "https://alfred.app/workflows/giovanni/convert/",
-        "icon_url": "https://alfred.app/workflows/giovanni/convert/icon.png",
-        "icon_hash": "dfb1af88638490c79c4243a5089f98b10477b834e9902799294ea07b1bf89828",
-        "title": "Convert",
-        "description": "Free-form conversions between different units",
-        "author": "giovanni",
-        "installation_url": "alfred://gallery/workflow/giovanni/convert/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/fakeum/",
