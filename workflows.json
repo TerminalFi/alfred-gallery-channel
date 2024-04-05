@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
         "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
@@ -232,15 +241,6 @@
         "description": "Keep small bits of text",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
