@@ -9,6 +9,33 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
+        "url": "https://alfred.app/workflows/acidham/image-shrinker/",
+        "icon_url": "https://alfred.app/workflows/acidham/image-shrinker/icon.png",
+        "icon_hash": "ca24ce10fe36803e61c2223fc03a3f383ca6215e8c7ebbf4b9acc90dc4155ae6",
+        "title": "Image Shrinker",
+        "description": "Reduce file size and dimensions of images for sharing",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/image-shrinker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
+        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
+        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
+        "title": "Search Alfred Workflows",
+        "description": "Browse installed Alfred Workflows",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/play-song/",
+        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
+        "icon_hash": "dd13fc7340be2af4507ec8900eb6de5112884c51014a36b515e7afe545b30c8b",
+        "title": "Play Song",
+        "description": "Quickly play songs via the Music app",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
         "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
@@ -378,15 +405,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
     },
     {
-        "url": "https://alfred.app/workflows/acidham/image-shrinker/",
-        "icon_url": "https://alfred.app/workflows/acidham/image-shrinker/icon.png",
-        "icon_hash": "ca24ce10fe36803e61c2223fc03a3f383ca6215e8c7ebbf4b9acc90dc4155ae6",
-        "title": "Image Shrinker",
-        "description": "Reduce file size and dimensions of images for sharing",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/image-shrinker/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
         "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
         "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
@@ -610,15 +628,6 @@
         "description": "Show \"About This Mac\" information",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
-        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
-        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
-        "title": "Search Alfred Workflows",
-        "description": "Browse installed Alfred Workflows",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/temporary-email/",
@@ -1249,15 +1258,6 @@
         "description": "Set short timers and pomodoros",
         "author": "colomolo",
         "installation_url": "alfred://gallery/workflow/colomolo/timer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/play-song/",
-        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
-        "icon_hash": "5b09a259119b38fdf40a67d58df31c62c2fbb9e13be50bd4a8be87430b4089f7",
-        "title": "Play Song",
-        "description": "Quickly play songs via the Music app",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
