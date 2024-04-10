@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
+        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
+        "title": "Writing Assistant",
+        "description": "Autocorrect , synonym suggestions, and rephrasings",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/openai/",
         "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
         "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
