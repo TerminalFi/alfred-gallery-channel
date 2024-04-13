@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/icon.png",
+        "icon_hash": "61ec8c2adc348f3e278da77face02d3338ee2fd9c7ef436c4c584e94bc6962ec",
+        "title": "Where\u2019s the Binary",
+        "description": "Get the full path to executables in your PATH",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/wheres-the-binary/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
         "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
