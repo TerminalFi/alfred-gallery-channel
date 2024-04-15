@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
+        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
+        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
+        "title": "Search Alfred Workflows",
+        "description": "Browse installed Alfred Workflows",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/play-song/",
+        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
+        "icon_hash": "dd13fc7340be2af4507ec8900eb6de5112884c51014a36b515e7afe545b30c8b",
+        "title": "Play Song",
+        "description": "Quickly play songs via the Music app",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/",
         "icon_url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/icon.png",
         "icon_hash": "61ec8c2adc348f3e278da77face02d3338ee2fd9c7ef436c4c584e94bc6962ec",
@@ -34,24 +61,6 @@
         "description": "Reduce file size and dimensions of images for sharing",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/image-shrinker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
-        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
-        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
-        "title": "Search Alfred Workflows",
-        "description": "Browse installed Alfred Workflows",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/play-song/",
-        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
-        "icon_hash": "dd13fc7340be2af4507ec8900eb6de5112884c51014a36b515e7afe545b30c8b",
-        "title": "Play Song",
-        "description": "Quickly play songs via the Music app",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
@@ -187,15 +196,6 @@
         "description": "Stream from a selection of short films",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/short-films/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
