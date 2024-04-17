@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
+        "icon_url": "https://alfred.app/workflows/bjornelvar/nba-scores/icon.png",
+        "icon_hash": "6d69bb9b5add5f989d4be95f321c307f87ac9f2258753d87bc1f353e699c6aa2",
+        "title": "NBA Scores",
+        "description": "List NBA games with stat leaders",
+        "author": "bjornelvar",
+        "installation_url": "alfred://gallery/workflow/bjornelvar/nba-scores/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
+        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
+        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
+        "title": "String multitool",
+        "description": "Transform text to various formats",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
+    },
+    {
         "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
         "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
         "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
@@ -45,15 +81,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
-    },
-    {
         "url": "https://alfred.app/workflows/acidham/image-shrinker/",
         "icon_url": "https://alfred.app/workflows/acidham/image-shrinker/icon.png",
         "icon_hash": "ca24ce10fe36803e61c2223fc03a3f383ca6215e8c7ebbf4b9acc90dc4155ae6",
@@ -88,15 +115,6 @@
         "description": "Search developer documentation sites",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/convert/",
@@ -223,15 +241,6 @@
         "description": "Turn off macOS on a timer",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
-        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
-        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
-        "title": "String multitool",
-        "description": "Transform text to various formats",
-        "author": "colomolo",
-        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/hackerboard/",
@@ -691,15 +700,6 @@
         "description": "Translate sentences with DeepL",
         "author": "alexanderwillner",
         "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
-        "icon_url": "https://alfred.app/workflows/bjornelvar/nba-scores/icon.png",
-        "icon_hash": "6d69bb9b5add5f989d4be95f321c307f87ac9f2258753d87bc1f353e699c6aa2",
-        "title": "NBA Scores",
-        "description": "List NBA games with stat leaders",
-        "author": "bjornelvar",
-        "installation_url": "alfred://gallery/workflow/bjornelvar/nba-scores/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/readwise/",
