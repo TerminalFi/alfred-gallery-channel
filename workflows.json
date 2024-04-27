@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/rich-snippets/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/rich-snippets/icon.png",
+        "icon_hash": "1756ec7a15d5b378d1a38409fd0e6e0c0d3c4b21c51faf6d687a20569afad0ac",
+        "title": "Rich Snippets",
+        "description": "Save and search rich snippets",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/rich-snippets/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/purge-disk-images/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/purge-disk-images/icon.png",
+        "icon_hash": "9f129efc11a3f37606dbff734d50bc5acf3cfef6974a16297fac2a708a87d8c1",
+        "title": "Purge Disk Images",
+        "description": "Find, Unmount, and Trash DMGs",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/purge-disk-images/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/mount-disks/icon.png",
+        "icon_hash": "4fff2166ca681915ff3054d2098f90e7ab5f0a9236307d5def5baad5dc338e55",
+        "title": "Mount Disks",
+        "description": "Mount and unmount disk partitions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/mount-disks/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/godbout/airpods-pro-connector/",
         "icon_url": "https://alfred.app/workflows/godbout/airpods-pro-connector/icon.png",
         "icon_hash": "8c8dfb713d202a7301ad5cd1eb4dbfe47da2c28a3729aa94a4146c30964ec73f",
@@ -16,15 +52,6 @@
         "description": "GitHub Assistant",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
