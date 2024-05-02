@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/owledge/owledge/",
+        "icon_url": "https://alfred.app/workflows/owledge/owledge/icon.png",
+        "icon_hash": "61f6d232311cabccdad741bb0816e3eee89f1e7a2851d9752c166af3878cf7b4",
+        "title": "Owledge",
+        "description": "Search all your tools at once",
+        "author": "owledge",
+        "installation_url": "alfred://gallery/workflow/owledge/owledge/"
+    },
+    {
+        "url": "https://alfred.app/workflows/svenko99/sskj/",
+        "icon_url": "https://alfred.app/workflows/svenko99/sskj/icon.png",
+        "icon_hash": "cb2aa5b526da0c530f3440c1d5dbee408633b53eaddfd0ee24189e3341b04eeb",
+        "title": "SSKJ",
+        "description": "Slovenian Dictionary and Thesaurus",
+        "author": "svenko99",
+        "installation_url": "alfred://gallery/workflow/svenko99/sskj/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
         "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
@@ -916,15 +934,6 @@
         "description": "Encode, Decode, Generate, and Format Text",
         "author": "cagechung",
         "installation_url": "alfred://gallery/workflow/cagechung/devtoys/"
-    },
-    {
-        "url": "https://alfred.app/workflows/svenko99/sskj/",
-        "icon_url": "https://alfred.app/workflows/svenko99/sskj/icon.png",
-        "icon_hash": "cb2aa5b526da0c530f3440c1d5dbee408633b53eaddfd0ee24189e3341b04eeb",
-        "title": "SSKJ",
-        "description": "Slovenian Dictionary and Thesaurus",
-        "author": "svenko99",
-        "installation_url": "alfred://gallery/workflow/svenko99/sskj/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/tapback-message/",
