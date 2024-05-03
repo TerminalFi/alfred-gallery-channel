@@ -1,12 +1,84 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/screenshots/",
+        "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
+        "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
+        "title": "Screenshots",
+        "description": "Search and act on screenshots",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/1password/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
+        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
+        "title": "1Password",
+        "description": "Search and open 1Password items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
+        "icon_hash": "f43cd44f6d65671849d5712ca186ebc2954328fbea3c13c8756d4d52644ce549",
+        "title": "Amazon Suggest",
+        "description": "Get in-line Amazon search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/google-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-suggest/icon.png",
+        "icon_hash": "baa1508859e5a817b3723c847ae0f108e9d06ee96821bec195cfe93d8ebdb8cf",
+        "title": "Google Suggest",
+        "description": "Get in-line Google search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/owledge/owledge/",
         "icon_url": "https://alfred.app/workflows/owledge/owledge/icon.png",
-        "icon_hash": "61f6d232311cabccdad741bb0816e3eee89f1e7a2851d9752c166af3878cf7b4",
+        "icon_hash": "33535cf26d64f4b0946347c7e2969fa889c63bb8b1a024ae44b9d1ec79a699ed",
         "title": "Owledge",
         "description": "Search all your tools at once",
         "author": "owledge",
         "installation_url": "alfred://gallery/workflow/owledge/owledge/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/set-default-browser/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/set-default-browser/icon.png",
+        "icon_hash": "27721fd71d7c0b8b65b1cf01d10bcdd369201b7ac9b92b521616f96fcf7a138e",
+        "title": "Set Default Browser",
+        "description": "Change the default web browser",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/set-default-browser/"
     },
     {
         "url": "https://alfred.app/workflows/svenko99/sskj/",
@@ -63,15 +135,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/mount-disks/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
         "url": "https://alfred.app/workflows/godbout/airpods-pro-connector/",
         "icon_url": "https://alfred.app/workflows/godbout/airpods-pro-connector/icon.png",
         "icon_hash": "8c8dfb713d202a7301ad5cd1eb4dbfe47da2c28a3729aa94a4146c30964ec73f",
@@ -124,15 +187,6 @@
         "description": "Search for and view Bible references on YouVersion",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
         "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
@@ -423,15 +477,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/memory-pairs/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/screenshots/",
-        "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
-        "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
-        "title": "Screenshots",
-        "description": "Search and act on screenshots",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
         "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
         "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
@@ -457,15 +502,6 @@
         "description": "Control the volume of the Music app",
         "author": "godbout",
         "installation_url": "alfred://gallery/workflow/godbout/music-volume/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
-        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
-        "title": "Homebrew Search",
-        "description": "Search, install, or uninstall homebrew packages",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
         "url": "https://alfred.app/workflows/rknightuk/gif-search/",
@@ -864,15 +900,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/google-scholar-suggest/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/1password/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
-        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
-        "title": "1Password",
-        "description": "Search and open 1Password items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
         "url": "https://alfred.app/workflows/acidham/default-app/",
         "icon_url": "https://alfred.app/workflows/acidham/default-app/icon.png",
         "icon_hash": "14d57b26e32c84c0e91edee2a9cbcf2a3e749d7673672f957a37d007b016c1ff",
@@ -889,24 +916,6 @@
         "description": "Search BEAM ecosystem packages",
         "author": "manewitz",
         "installation_url": "alfred://gallery/workflow/manewitz/hexpm/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
-        "icon_hash": "f43cd44f6d65671849d5712ca186ebc2954328fbea3c13c8756d4d52644ce549",
-        "title": "Amazon Suggest",
-        "description": "Get in-line Amazon search suggestions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/google-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/google-suggest/icon.png",
-        "icon_hash": "baa1508859e5a817b3723c847ae0f108e9d06ee96821bec195cfe93d8ebdb8cf",
-        "title": "Google Suggest",
-        "description": "Get in-line Google search suggestions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/google-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/dente-azul/",
@@ -1231,15 +1240,6 @@
         "description": "Pause and resume execution of the frontmost app",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/app-freeze/"
-    },
-    {
-        "url": "https://alfred.app/workflows/zeitlings/set-default-browser/",
-        "icon_url": "https://alfred.app/workflows/zeitlings/set-default-browser/icon.png",
-        "icon_hash": "27721fd71d7c0b8b65b1cf01d10bcdd369201b7ac9b92b521616f96fcf7a138e",
-        "title": "Set Default Browser",
-        "description": "Change the default web browser",
-        "author": "zeitlings",
-        "installation_url": "alfred://gallery/workflow/zeitlings/set-default-browser/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
