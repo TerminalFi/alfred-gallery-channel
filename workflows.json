@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/tapback-message/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/tapback-message/icon.png",
+        "icon_hash": "10d34ecb374842e7bede1c33d92ad4932f747a2b54b31d295533638e3822a65b",
+        "title": "Tapback Message",
+        "description": "Add a tapback reaction to the current message",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/tapback-message/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
+        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
+        "title": "Writing Assistant",
+        "description": "Autocorrect , synonym suggestions, and rephrasings",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/about-mac/",
+        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
+        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
+        "title": "About Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/screenshots/",
         "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
         "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
@@ -54,15 +108,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
         "url": "https://alfred.app/workflows/owledge/owledge/",
         "icon_url": "https://alfred.app/workflows/owledge/owledge/icon.png",
         "icon_hash": "33535cf26d64f4b0946347c7e2969fa889c63bb8b1a024ae44b9d1ec79a699ed",
@@ -88,24 +133,6 @@
         "description": "Slovenian Dictionary and Thesaurus",
         "author": "svenko99",
         "installation_url": "alfred://gallery/workflow/svenko99/sskj/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/about-mac/",
-        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
-        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
-        "title": "About Mac",
-        "description": "Show \"About This Mac\" information",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/rich-snippets/",
@@ -142,15 +169,6 @@
         "description": "Connect and disconnet your AirPods Pro",
         "author": "godbout",
         "installation_url": "alfred://gallery/workflow/godbout/airpods-pro-connector/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
@@ -232,15 +250,6 @@
         "description": "Get the full path to executables in your PATH",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/wheres-the-binary/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
-        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
-        "title": "Writing Assistant",
-        "description": "Autocorrect , synonym suggestions, and rephrasings",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/image-shrinker/",
@@ -943,15 +952,6 @@
         "description": "Encode, Decode, Generate, and Format Text",
         "author": "cagechung",
         "installation_url": "alfred://gallery/workflow/cagechung/devtoys/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/tapback-message/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/tapback-message/icon.png",
-        "icon_hash": "10d34ecb374842e7bede1c33d92ad4932f747a2b54b31d295533638e3822a65b",
-        "title": "Tapback Message",
-        "description": "Add a tapback reaction to the current message",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/tapback-message/"
     },
     {
         "url": "https://alfred.app/workflows/caleb531/open-conference-url/",
