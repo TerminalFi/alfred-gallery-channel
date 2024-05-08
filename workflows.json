@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/switch-appearance/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/switch-appearance/icon.png",
+        "icon_hash": "a01dee035f32eb48fecd462a9c161e27d8a6a0fef8a790de1a85405f91493850",
+        "title": "Switch Appearance",
+        "description": "Change between Light and Dark Mode",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/switch-appearance/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/icon.png",
+        "icon_hash": "5c71843bc91ecbfbeb91a7bcfcc96f07a634880b6fc146b2a137c6c7fd6b300f",
+        "title": "Read the Friendly Manual",
+        "description": "Open Unix Manual Pages",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/tinypng/",
         "icon_url": "https://alfred.app/workflows/alfredapp/tinypng/icon.png",
         "icon_hash": "d6b1a24cf28bac76f6fe1a0b421b529c20f230cc60b74241394fc5117ab33e12",
@@ -414,15 +441,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/short-films/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/icon.png",
-        "icon_hash": "5c71843bc91ecbfbeb91a7bcfcc96f07a634880b6fc146b2a137c6c7fd6b300f",
-        "title": "Read the Friendly Manual",
-        "description": "Open Unix Manual Pages",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
         "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
         "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
@@ -493,15 +511,6 @@
         "description": "Keep small bits of text",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
     },
     {
         "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
@@ -1690,15 +1699,6 @@
         "description": "See hardware and software system information",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/get-summary-system-info/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/switch-appearance/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/switch-appearance/icon.png",
-        "icon_hash": "26743f801c8db30e64d33d378e7d31ffa23e55170120bc84f1d1f64bbb74ab61",
-        "title": "Switch Appearance",
-        "description": "Change between Light and Dark Mode",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/switch-appearance/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/streaming-genres/",
