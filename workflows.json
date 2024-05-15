@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
+        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
+        "title": "Snippet Transformer",
+        "description": "Import and Export Alfred Snippet Collections",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/icon.png",
+        "icon_hash": "25226c26caa64be872b840dac4c039f88d636f316422a3b5f936aae2726f4e60",
+        "title": "PDF Summarizer",
+        "description": "Get summaries of PDFs via ChatPDF",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
         "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
@@ -783,15 +801,6 @@
         "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/icon.png",
-        "icon_hash": "25226c26caa64be872b840dac4c039f88d636f316422a3b5f936aae2726f4e60",
-        "title": "PDF Summarizer",
-        "description": "Get summaries of PDFs via ChatPDF",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
-    },
-    {
         "url": "https://alfred.app/workflows/alanhe/qr-reader/",
         "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
         "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
@@ -961,15 +970,6 @@
         "description": "Toggle bluetooth and paired device connectivity",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/dente-azul/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
-        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
-        "title": "Snippet Transformer",
-        "description": "Import and Export Alfred Snippet Collections to and from CSV",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
     },
     {
         "url": "https://alfred.app/workflows/cagechung/devtoys/",
