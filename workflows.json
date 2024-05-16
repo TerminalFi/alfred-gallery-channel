@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/ocr/",
+        "icon_url": "https://alfred.app/workflows/alanhe/ocr/icon.png",
+        "icon_hash": "8f439be966fcf2e965da3f57379b51b785c80eac438729c880925f7329db454a",
+        "title": "OCR",
+        "description": "Take a screenshot and copy its text to the clipboard",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/ocr/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/apparentsoft/get-latest-files-from-trickster/",
+        "icon_url": "https://alfred.app/workflows/apparentsoft/get-latest-files-from-trickster/icon.png",
+        "icon_hash": "7cf4041dad27d43063518a41e26ce60cd7df08cd6e4778073976214831ee4c4f",
+        "title": "Get Latest Files from Trickster",
+        "description": "Retrieves latest files from Trickster",
+        "author": "apparentsoft",
+        "installation_url": "alfred://gallery/workflow/apparentsoft/get-latest-files-from-trickster/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
         "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
         "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
@@ -43,15 +79,6 @@
         "description": "Switch to a specific window of an app in the current Desktop Space",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/window-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/switch-appearance/",
@@ -151,15 +178,6 @@
         "description": "Browse your favorite subreddits",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
@@ -673,15 +691,6 @@
         "description": "Search Metacritic ratings for movies, TV shows, and games",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/ocr/",
-        "icon_url": "https://alfred.app/workflows/alanhe/ocr/icon.png",
-        "icon_hash": "8f439be966fcf2e965da3f57379b51b785c80eac438729c880925f7329db454a",
-        "title": "OCR",
-        "description": "Take a screenshot and copy its text to the clipboard",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/ocr/"
     },
     {
         "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
