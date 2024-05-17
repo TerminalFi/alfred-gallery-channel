@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/watch-list/",
+        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
+        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
+        "title": "Watch List",
+        "description": "Play and manage local media and streams",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
         "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
@@ -304,15 +322,6 @@
         "description": "Search neovim plugins and online :help",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/colomolo/string-multitool/",
@@ -727,15 +736,6 @@
         "description": "Fuzzy find files and folders",
         "author": "yohasebe",
         "installation_url": "alfred://gallery/workflow/yohasebe/fzf/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/watch-list/",
-        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
-        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
-        "title": "Watch List",
-        "description": "Play and manage local media and streams",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
     },
     {
         "url": "https://alfred.app/workflows/zqzten/web-search-suggest/",
