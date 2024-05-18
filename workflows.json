@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
+        "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
+        "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
+        "title": "MTG Card Search",
+        "description": "Search for Magic: The Gathering playing cards",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/mtg-card-search/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/watch-list/",
         "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
         "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
@@ -1204,15 +1213,6 @@
         "description": "Test your internet connection",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
-        "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
-        "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
-        "title": "MTG Card Search",
-        "description": "Search for Magic: The Gathering playing cards",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/mtg-card-search/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/media-coordinates/",
