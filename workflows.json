@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
+        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
+        "title": "Writing Assistant",
+        "description": "Autocorrect , synonym suggestions, and rephrasings",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
         "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
         "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
@@ -16,15 +34,6 @@
         "description": "Play and manage local media and streams",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
@@ -205,15 +214,6 @@
         "description": "Browse your favorite subreddits",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
-        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
-        "title": "Writing Assistant",
-        "description": "Autocorrect , synonym suggestions, and rephrasings",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/about-mac/",
