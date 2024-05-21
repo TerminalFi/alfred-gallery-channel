@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/media-coordinates/",
+        "icon_url": "https://alfred.app/workflows/vitor/media-coordinates/icon.png",
+        "icon_hash": "b143db38aa043088728cbdadc418c36f88d3fef5bc6748bd7c29c531bafb416f",
+        "title": "Media Coordinates",
+        "description": "Open photo, video, and audio GPS coordinates in a map",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/media-coordinates/"
+    },
+    {
+        "url": "https://alfred.app/workflows/giovanni/alfredo/",
+        "icon_url": "https://alfred.app/workflows/giovanni/alfredo/icon.png",
+        "icon_hash": "325be90b37a1e04bacdf1526038aafedba233526c930ef03f108b9b412a8b8bf",
+        "title": "AlfreDo",
+        "description": "Manage Todoist tasks",
+        "author": "giovanni",
+        "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
         "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
         "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
@@ -738,15 +756,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/outlook-suite/"
     },
     {
-        "url": "https://alfred.app/workflows/giovanni/alfredo/",
-        "icon_url": "https://alfred.app/workflows/giovanni/alfredo/icon.png",
-        "icon_hash": "325be90b37a1e04bacdf1526038aafedba233526c930ef03f108b9b412a8b8bf",
-        "title": "AlfreDo",
-        "description": "Manage Todoist tasks",
-        "author": "giovanni",
-        "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
-    },
-    {
         "url": "https://alfred.app/workflows/yohasebe/fzf/",
         "icon_url": "https://alfred.app/workflows/yohasebe/fzf/icon.png",
         "icon_hash": "221fda48e65f2de41375e4717e0165dd00bc414a6d86d713d205d7aa9ba55e94",
@@ -1213,15 +1222,6 @@
         "description": "Test your internet connection",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/media-coordinates/",
-        "icon_url": "https://alfred.app/workflows/vitor/media-coordinates/icon.png",
-        "icon_hash": "b143db38aa043088728cbdadc418c36f88d3fef5bc6748bd7c29c531bafb416f",
-        "title": "Media Coordinates",
-        "description": "Open photo, video, and audio GPS coordinates in a map",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/media-coordinates/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/",
