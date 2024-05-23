@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/google-drive/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
+        "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
+        "title": "Google Drive",
+        "description": "List File Stream contents from Google Drive",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
+        "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
+        "title": "Thumbnail Navigation",
+        "description": "Navigate the file system with previews",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/thumbnail-navigation/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/media-coordinates/",
         "icon_url": "https://alfred.app/workflows/vitor/media-coordinates/icon.png",
         "icon_hash": "b143db38aa043088728cbdadc418c36f88d3fef5bc6748bd7c29c531bafb416f",
@@ -583,15 +601,6 @@
         "description": "View differences in text, files, and directories",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
-        "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
-        "title": "Thumbnail Navigation",
-        "description": "Navigate the file system with previews",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/thumbnail-navigation/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/note-taker/",
@@ -1231,15 +1240,6 @@
         "description": "Exclude files and folders from Alfred\u2019s search results",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/ignore-in-alfred/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/google-drive/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
-        "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
-        "title": "Google Drive",
-        "description": "List File Stream contents from Google Drive",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/download-media/",
