@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/culturedcode/add-to-do-to-things/",
+        "icon_url": "https://alfred.app/workflows/culturedcode/add-to-do-to-things/icon.png",
+        "icon_hash": "ff5d6665de2380ed4ee429fc3d81cf6f56107ceb943073561bab0a9fd4c943b0",
+        "title": "Add To-Do to Things 3",
+        "description": "Add new to-dos to Things",
+        "author": "culturedcode",
+        "installation_url": "alfred://gallery/workflow/culturedcode/add-to-do-to-things/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/google-drive/",
         "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
         "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
