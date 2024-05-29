@@ -1,14 +1,5 @@
 [
     {
-        "url": "https://alfred.app/workflows/alfredapp/pause-tabs/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/pause-tabs/icon.png",
-        "icon_hash": "47847ad4738bd26cb311dc03dc1e56512ab4149f558c9f2a8cc3c98c58a6c66c",
-        "title": "Pause Tabs",
-        "description": "Pause audio and video in web browser tabs",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/pause-tabs/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/currency-converter/",
         "icon_url": "https://alfred.app/workflows/alfredapp/currency-converter/icon.png",
         "icon_hash": "2b96cf0b3c68dfffcae122423b5c9a5f2234ddb083b45e2ce96a9271500c82b1",
@@ -16,6 +7,33 @@
         "description": "Convert between different currencies",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
+        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
+        "title": "Writing Assistant",
+        "description": "Autocorrect , synonym suggestions, and rephrasings",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
+    },
+    {
+        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
+        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
+        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
+        "title": "Icon Generator",
+        "description": "Generate icons from emoji and SF Symbols",
+        "author": "floatingpoint",
+        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/pause-tabs/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/pause-tabs/icon.png",
+        "icon_hash": "47847ad4738bd26cb311dc03dc1e56512ab4149f558c9f2a8cc3c98c58a6c66c",
+        "title": "Pause Tabs",
+        "description": "Pause audio and video in web browser tabs",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/pause-tabs/"
     },
     {
         "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
@@ -43,15 +61,6 @@
         "description": "Search neovim plugins and online :help",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
-        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
-        "title": "Writing Assistant",
-        "description": "Autocorrect , synonym suggestions, and rephrasings",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
     },
     {
         "url": "https://alfred.app/workflows/culturedcode/add-to-do-to-things/",
@@ -1150,15 +1159,6 @@
         "description": "Create and restore Alfred Preferences backups",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
-    },
-    {
-        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
-        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
-        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
-        "title": "Icon Generator",
-        "description": "Generate icons from emoji and SF Symbols",
-        "author": "floatingpoint",
-        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
     },
     {
         "url": "https://alfred.app/workflows/jygh/recent-files/",
