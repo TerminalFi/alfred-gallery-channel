@@ -1,12 +1,30 @@
 [
     {
-        "url": "https://alfred.app/workflows/alfredapp/currency-converter/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/currency-converter/icon.png",
-        "icon_hash": "2b96cf0b3c68dfffcae122423b5c9a5f2234ddb083b45e2ce96a9271500c82b1",
-        "title": "Currency Converter",
-        "description": "Convert between different currencies",
+        "url": "https://alfred.app/workflows/alfredapp/google-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-suggest/icon.png",
+        "icon_hash": "baa1508859e5a817b3723c847ae0f108e9d06ee96821bec195cfe93d8ebdb8cf",
+        "title": "Google Suggest",
+        "description": "Get in-line Google search suggestions",
         "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/google-scholar-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-scholar-suggest/icon.png",
+        "icon_hash": "bf9fd8ba69827bf2920a9698c9aec95d68db8a542bf9cb0ff535504058d3d099",
+        "title": "Google Scholar Suggest",
+        "description": "Get in-line Google Scholar search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-scholar-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
+        "icon_hash": "f43cd44f6d65671849d5712ca186ebc2954328fbea3c13c8756d4d52644ce549",
+        "title": "Amazon Suggest",
+        "description": "Get in-line Amazon search suggestions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
@@ -16,6 +34,15 @@
         "description": "Autocorrect , synonym suggestions, and rephrasings",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/currency-converter/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/currency-converter/icon.png",
+        "icon_hash": "2b96cf0b3c68dfffcae122423b5c9a5f2234ddb083b45e2ce96a9271500c82b1",
+        "title": "Currency Converter",
+        "description": "Convert between different currencies",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
     },
     {
         "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
@@ -340,24 +367,6 @@
         "description": "Search and open 1Password items",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/amazon-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/amazon-suggest/icon.png",
-        "icon_hash": "f43cd44f6d65671849d5712ca186ebc2954328fbea3c13c8756d4d52644ce549",
-        "title": "Amazon Suggest",
-        "description": "Get in-line Amazon search suggestions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/google-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/google-suggest/icon.png",
-        "icon_hash": "baa1508859e5a817b3723c847ae0f108e9d06ee96821bec195cfe93d8ebdb8cf",
-        "title": "Google Suggest",
-        "description": "Get in-line Google search suggestions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/google-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/owledge/owledge/",
@@ -1015,15 +1024,6 @@
         "description": "Check current time in multiple timezones",
         "author": "fedecalendino",
         "installation_url": "alfred://gallery/workflow/fedecalendino/world-clock/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/google-scholar-suggest/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/google-scholar-suggest/icon.png",
-        "icon_hash": "bf9fd8ba69827bf2920a9698c9aec95d68db8a542bf9cb0ff535504058d3d099",
-        "title": "Google Scholar Suggest",
-        "description": "Get in-line Google Scholar search suggestions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/google-scholar-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/default-app/",
