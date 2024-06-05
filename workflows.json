@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
         "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
@@ -90,15 +108,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "5a4f6ec541e7d23855b8a95a12b5fe454adf43400c0b71e37eff6f5c34f93e49",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
-    },
-    {
         "url": "https://alfred.app/workflows/culturedcode/add-to-do-to-things/",
         "icon_url": "https://alfred.app/workflows/culturedcode/add-to-do-to-things/icon.png",
         "icon_hash": "ff5d6665de2380ed4ee429fc3d81cf6f56107ceb943073561bab0a9fd4c943b0",
@@ -187,15 +196,6 @@
         "description": "Play and manage local media and streams",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/ocr/",
