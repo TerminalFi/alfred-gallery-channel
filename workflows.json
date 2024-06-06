@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
+        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
+        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
+        "title": "Critic Ratings",
+        "description": "See ratings for movies, TV shows, anime, and manga",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/note-taker/",
+        "icon_url": "https://alfred.app/workflows/vitor/note-taker/icon.png",
+        "icon_hash": "35574b9e7dbf03bf019a49924a5888ecc95b86a4f6ca9048f6601686113a48a6",
+        "title": "Note Taker",
+        "description": "Keep small bits of text",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/icon.png",
+        "icon_hash": "9030430f122ff4617f9e2de649d1661b2d9e8affb6e29d7fd69a7d2fdb2107e6",
+        "title": "Ignore in Alfred",
+        "description": "Exclude files and folders from Alfred\u2019s search results",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/ignore-in-alfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
+        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
+        "title": "Shortcuts",
+        "description": "Run installed macOS shortcuts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/1password/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
+        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
+        "title": "1Password",
+        "description": "Search and open 1Password items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
         "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
@@ -360,15 +405,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/1password/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
-        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
-        "title": "1Password",
-        "description": "Search and open 1Password items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
         "url": "https://alfred.app/workflows/owledge/owledge/",
         "icon_url": "https://alfred.app/workflows/owledge/owledge/icon.png",
         "icon_hash": "33535cf26d64f4b0946347c7e2969fa889c63bb8b1a024ae44b9d1ec79a699ed",
@@ -648,15 +684,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/note-taker/",
-        "icon_url": "https://alfred.app/workflows/vitor/note-taker/icon.png",
-        "icon_hash": "35574b9e7dbf03bf019a49924a5888ecc95b86a4f6ca9048f6601686113a48a6",
-        "title": "Note Taker",
-        "description": "Keep small bits of text",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/note-taker/"
-    },
-    {
         "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
         "icon_url": "https://alfred.app/workflows/fedecalendino/emoji-mate/icon.png",
         "icon_hash": "824b46434fb4fd0ae34369ab3c57ff39b03c6b1ca7c93b98200f362a14b8b84d",
@@ -729,15 +756,6 @@
         "installation_url": "alfred://gallery/workflow/bosha/blueman/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
-        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
-        "title": "Shortcuts",
-        "description": "Run installed macOS shortcuts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
         "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
         "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
@@ -781,15 +799,6 @@
         "description": "Swiftly switch audio output and input devices",
         "author": "tobiasmende",
         "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
-        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
-        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
-        "title": "Critic Ratings",
-        "description": "Search Metacritic ratings for movies, TV shows, and games",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
     },
     {
         "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
@@ -1258,15 +1267,6 @@
         "description": "Test your internet connection",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/ignore-in-alfred/icon.png",
-        "icon_hash": "9030430f122ff4617f9e2de649d1661b2d9e8affb6e29d7fd69a7d2fdb2107e6",
-        "title": "Ignore in Alfred",
-        "description": "Exclude files and folders from Alfred\u2019s search results",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/ignore-in-alfred/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/download-media/",
