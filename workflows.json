@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/screenshots/",
+        "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
+        "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
+        "title": "Screenshots",
+        "description": "Search and act on screenshots",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
         "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
         "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
@@ -394,15 +403,6 @@
         "description": "Show \"About This Mac\" information",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/screenshots/",
-        "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
-        "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
-        "title": "Screenshots",
-        "description": "Search and act on screenshots",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
     },
     {
         "url": "https://alfred.app/workflows/owledge/owledge/",
