@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/ahalbert/die-roller/",
+        "icon_url": "https://alfred.app/workflows/ahalbert/die-roller/icon.png",
+        "icon_hash": "a59cc3433c1b44a377bcb37a1d3bcd22972c09ca3e23b031dff5c4061b7dee10",
+        "title": "Die Roller",
+        "description": "Generate Random Numbers",
+        "author": "ahalbert",
+        "installation_url": "alfred://gallery/workflow/ahalbert/die-roller/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/alfred-gallery/icon.png",
+        "icon_hash": "96b848abcbd0ef5b2b195d2db02e6c503d09ebf152b89e57ad3a4414e09ba0e7",
+        "title": "Alfred Gallery",
+        "description": "Search Workflows on the Alfred Gallery",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/alfred-gallery/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/icon.png",
+        "icon_hash": "c790f4c0b71b032e11d91c8b45b1d8d99c174064947946b09e9860d53ff35f68",
+        "title": "HEIC to JPEG",
+        "description": "Convert .heic images to .jpeg",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/heic-to-jpeg/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/streaming-genres/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/streaming-genres/icon.png",
+        "icon_hash": "85e12a6571eac6f85e3ee80bed91b3a68b01ed140c0e56f22ce3079fc6062d56",
+        "title": "Streaming Genres",
+        "description": "Filter through thousands of Netflix genres",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/streaming-genres/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/screenshots/",
         "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
         "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
@@ -1323,15 +1359,6 @@
         "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/icon.png",
-        "icon_hash": "5d410b019c64e9c39b5ad527b7918f856a927ca1806ff3ed826f8e4598a49bfe",
-        "title": "HEIC to JPEG",
-        "description": "Convert .heic images to .jpeg",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/heic-to-jpeg/"
-    },
-    {
         "url": "https://alfred.app/workflows/stephenc/date-arithemetic/",
         "icon_url": "https://alfred.app/workflows/stephenc/date-arithemetic/icon.png",
         "icon_hash": "f392d43ae4a76ff443faa4952df1370c62e6baf042c54d659af141a13f50680e",
@@ -1375,15 +1402,6 @@
         "description": "Set short timers and pomodoros",
         "author": "colomolo",
         "installation_url": "alfred://gallery/workflow/colomolo/timer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/alfred-gallery/icon.png",
-        "icon_hash": "76dac5181de9b51b8baa8904655f517e978bce3395799648c2509a3d1d98354d",
-        "title": "Alfred Gallery",
-        "description": "Search Workflows on the Alfred Gallery",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/alfred-gallery/"
     },
     {
         "url": "https://alfred.app/workflows/samuelraub/pretty-json/",
@@ -1726,15 +1744,6 @@
         "description": "See hardware and software system information",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/get-summary-system-info/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/streaming-genres/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/streaming-genres/icon.png",
-        "icon_hash": "d95dee8117b3fd07081999931295759cd569566a9c4df9d711fdca8d7eff9ca9",
-        "title": "Streaming Genres",
-        "description": "Filter through thousands of Netflix genres",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/streaming-genres/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/dynamic-file-search/",
