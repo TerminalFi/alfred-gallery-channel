@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/epilande/browser-tabs/",
+        "icon_url": "https://alfred.app/workflows/epilande/browser-tabs/icon.png",
+        "icon_hash": "fbd411e9c24f1df4a70343cc797dfa2f66ca54adecff98acb0ef12e792b242b6",
+        "title": "Browser Tabs",
+        "description": "Search browser tabs from Safari and Chromium Browsers",
+        "author": "epilande",
+        "installation_url": "alfred://gallery/workflow/epilande/browser-tabs/"
+    },
+    {
         "url": "https://alfred.app/workflows/ahalbert/die-roller/",
         "icon_url": "https://alfred.app/workflows/ahalbert/die-roller/icon.png",
         "icon_hash": "a59cc3433c1b44a377bcb37a1d3bcd22972c09ca3e23b031dff5c4061b7dee10",
@@ -259,15 +277,6 @@
         "description": "Browse your favorite subreddits",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
@@ -2239,14 +2248,5 @@
         "description": "Interact with SideNotes",
         "author": "apptorium",
         "installation_url": "alfred://gallery/workflow/apptorium/sidenotes/"
-    },
-    {
-        "url": "https://alfred.app/workflows/epilande/browser-tabs/",
-        "icon_url": "https://alfred.app/workflows/epilande/browser-tabs/icon.png",
-        "icon_hash": "fbd411e9c24f1df4a70343cc797dfa2f66ca54adecff98acb0ef12e792b242b6",
-        "title": "Browser Tabs",
-        "description": "Search browser tabs from Safari and Chromium Browsers",
-        "author": "epilande",
-        "installation_url": "alfred://gallery/workflow/epilande/browser-tabs/"
     }
 ]
