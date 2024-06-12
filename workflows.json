@@ -1,14 +1,5 @@
 [
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
         "url": "https://alfred.app/workflows/epilande/browser-tabs/",
         "icon_url": "https://alfred.app/workflows/epilande/browser-tabs/icon.png",
         "icon_hash": "fbd411e9c24f1df4a70343cc797dfa2f66ca54adecff98acb0ef12e792b242b6",
@@ -16,6 +7,15 @@
         "description": "Search browser tabs from Safari and Chromium Browsers",
         "author": "epilande",
         "installation_url": "alfred://gallery/workflow/epilande/browser-tabs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/ahalbert/die-roller/",
