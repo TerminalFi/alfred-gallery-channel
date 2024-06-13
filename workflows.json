@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/purge-disk-images/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/purge-disk-images/icon.png",
+        "icon_hash": "9f129efc11a3f37606dbff734d50bc5acf3cfef6974a16297fac2a708a87d8c1",
+        "title": "Purge Disk Images",
+        "description": "Find, Unmount, and Trash DMGs",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/purge-disk-images/"
+    },
+    {
         "url": "https://alfred.app/workflows/epilande/browser-tabs/",
         "icon_url": "https://alfred.app/workflows/epilande/browser-tabs/icon.png",
         "icon_hash": "fbd411e9c24f1df4a70343cc797dfa2f66ca54adecff98acb0ef12e792b242b6",
@@ -484,15 +493,6 @@
         "description": "Save and search rich snippets",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/rich-snippets/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/purge-disk-images/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/purge-disk-images/icon.png",
-        "icon_hash": "9f129efc11a3f37606dbff734d50bc5acf3cfef6974a16297fac2a708a87d8c1",
-        "title": "Purge Disk Images",
-        "description": "Find, Unmount, and Trash DMGs",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/purge-disk-images/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
