@@ -1,5 +1,95 @@
 [
     {
+        "url": "https://alfred.app/workflows/zeitlings/scratchpad/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/scratchpad/icon.png",
+        "icon_hash": "f3365fb7ab4104a03fa07d9093002e2ae74e0ad503d65f69561d89755438dd89",
+        "title": "Scratchpad",
+        "description": "Quickly access several scratchpads",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/scratchpad/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/purge-disk-images/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/purge-disk-images/icon.png",
+        "icon_hash": "9f129efc11a3f37606dbff734d50bc5acf3cfef6974a16297fac2a708a87d8c1",
+        "title": "Purge Disk Images",
+        "description": "Find, Unmount, and Trash DMGs",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/purge-disk-images/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
+        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
+        "title": "System Settings",
+        "description": "Open macOS System Settings Panes",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/icon.png",
+        "icon_hash": "61ec8c2adc348f3e278da77face02d3338ee2fd9c7ef436c4c584e94bc6962ec",
+        "title": "Where\u2019s the Binary",
+        "description": "Get the full path to executables in your PATH",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/wheres-the-binary/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/icon.png",
+        "icon_hash": "385fb959f0b55a554c0f694b3cb55e461d99d61a2edab1c23fd39dac13889033",
+        "title": "Wikipedia Suggest",
+        "description": "Search Wikipedia articles",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/wikipedia-suggest/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
+        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
+        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
+        "title": "Search Alfred Workflows",
+        "description": "Browse installed Alfred Workflows",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
+        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
+        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
+        "title": "YouVersion Suggest",
+        "description": "Search for and view Bible references on YouVersion",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
         "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
@@ -45,15 +135,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/purge-disk-images/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/purge-disk-images/icon.png",
-        "icon_hash": "9f129efc11a3f37606dbff734d50bc5acf3cfef6974a16297fac2a708a87d8c1",
-        "title": "Purge Disk Images",
-        "description": "Find, Unmount, and Trash DMGs",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/purge-disk-images/"
-    },
-    {
         "url": "https://alfred.app/workflows/epilande/browser-tabs/",
         "icon_url": "https://alfred.app/workflows/epilande/browser-tabs/icon.png",
         "icon_hash": "fbd411e9c24f1df4a70343cc797dfa2f66ca54adecff98acb0ef12e792b242b6",
@@ -61,15 +142,6 @@
         "description": "Search browser tabs from Safari and Chromium Browsers",
         "author": "epilande",
         "installation_url": "alfred://gallery/workflow/epilande/browser-tabs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/ahalbert/die-roller/",
@@ -232,15 +304,6 @@
         "description": "Find and tag emoji to your liking",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
-        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
-        "title": "Homebrew Search",
-        "description": "Search, install, or uninstall homebrew packages",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
         "url": "https://alfred.app/workflows/culturedcode/add-to-do-to-things/",
@@ -531,15 +594,6 @@
         "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
     },
     {
-        "url": "https://alfred.app/workflows/caleb531/youversion-suggest/",
-        "icon_url": "https://alfred.app/workflows/caleb531/youversion-suggest/icon.png",
-        "icon_hash": "4ae7c2e9080d90294ea6f49e12bddf226a18947025689eabafaf9ed0afa59401",
-        "title": "YouVersion Suggest",
-        "description": "Search for and view Bible references on YouVersion",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
-    },
-    {
         "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
         "icon_url": "https://alfred.app/workflows/bjornelvar/nba-scores/icon.png",
         "icon_hash": "6d69bb9b5add5f989d4be95f321c307f87ac9f2258753d87bc1f353e699c6aa2",
@@ -549,15 +603,6 @@
         "installation_url": "alfred://gallery/workflow/bjornelvar/nba-scores/"
     },
     {
-        "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
-        "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
-        "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
-        "title": "Search Alfred Workflows",
-        "description": "Browse installed Alfred Workflows",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/search-alfred-workflows/"
-    },
-    {
         "url": "https://alfred.app/workflows/caleb531/play-song/",
         "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
         "icon_hash": "dd13fc7340be2af4507ec8900eb6de5112884c51014a36b515e7afe545b30c8b",
@@ -565,15 +610,6 @@
         "description": "Quickly play songs via the Music app",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/icon.png",
-        "icon_hash": "61ec8c2adc348f3e278da77face02d3338ee2fd9c7ef436c4c584e94bc6962ec",
-        "title": "Where\u2019s the Binary",
-        "description": "Get the full path to executables in your PATH",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/wheres-the-binary/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/image-shrinker/",
@@ -637,15 +673,6 @@
         "description": "Interact with your Spotify library",
         "author": "vdesabou",
         "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/cleanshot-x/",
@@ -718,15 +745,6 @@
         "description": "Search starred repositories on Github",
         "author": "yinanc",
         "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/icon.png",
-        "icon_hash": "385fb959f0b55a554c0f694b3cb55e461d99d61a2edab1c23fd39dac13889033",
-        "title": "Wikipedia Suggest",
-        "description": "Search Wikipedia articles",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/wikipedia-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/simple-diff/",
@@ -1132,15 +1150,6 @@
         "description": "Interact with your Tot dots",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/tot/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
-        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
-        "title": "System Settings",
-        "description": "Open macOS System Settings Panes",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
     },
     {
         "url": "https://alfred.app/workflows/caicailiushui/arc-tabs-and-spaces/",
