@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+    },
+    {
         "url": "https://alfred.app/workflows/zeitlings/scratchpad/",
         "icon_url": "https://alfred.app/workflows/zeitlings/scratchpad/icon.png",
         "icon_hash": "f3365fb7ab4104a03fa07d9093002e2ae74e0ad503d65f69561d89755438dd89",
@@ -358,15 +367,6 @@
         "description": "Close notification alerts",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
