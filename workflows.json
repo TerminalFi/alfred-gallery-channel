@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/icon.png",
+        "icon_hash": "6ce41d8525a5234ef72606563fd5ceec2bfa546660748302e7a7556e5a1190f7",
+        "title": "Bluetooth Device Battery",
+        "description": "View the battery charge status of connected bluetooth devices",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/bluetooth-device-battery/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/color-picker/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/color-picker/icon.png",
+        "icon_hash": "30b5dbe738e2359618adddd0491f4b138bdb8930805b65e760960db68b513dcd",
+        "title": "Color Picker",
+        "description": "Colour picker and previewer",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/color-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/akrabat/date-tools/",
+        "icon_url": "https://alfred.app/workflows/akrabat/date-tools/icon.png",
+        "icon_hash": "fd59e4895ef3f23f3618f100d0b3c19d98bcca03e8786d335bb532b57f76d959",
+        "title": "Date Tools",
+        "description": "Check for day numbers and leap years",
+        "author": "akrabat",
+        "installation_url": "alfred://gallery/workflow/akrabat/date-tools/"
+    },
+    {
+        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
+        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
+        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
+        "title": "Icon Generator",
+        "description": "Generate icons from emoji and SF Symbols",
+        "author": "floatingpoint",
+        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
         "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
@@ -286,15 +322,6 @@
         "description": "Convert between different currencies",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
-    },
-    {
-        "url": "https://alfred.app/workflows/floatingpoint/icon-generator/",
-        "icon_url": "https://alfred.app/workflows/floatingpoint/icon-generator/icon.png",
-        "icon_hash": "f93177ccfdeea153248b3ef66b774dc2254a13788889210879a157bc9f68377b",
-        "title": "Icon Generator",
-        "description": "Generate icons from emoji and SF Symbols",
-        "author": "floatingpoint",
-        "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/pause-tabs/",
@@ -1717,15 +1744,6 @@
         "description": "Create link to selected message in Apple Mail",
         "author": "sepulchra",
         "installation_url": "alfred://gallery/workflow/sepulchra/mail-link/"
-    },
-    {
-        "url": "https://alfred.app/workflows/akrabat/date-tools/",
-        "icon_url": "https://alfred.app/workflows/akrabat/date-tools/icon.png",
-        "icon_hash": "fd59e4895ef3f23f3618f100d0b3c19d98bcca03e8786d335bb532b57f76d959",
-        "title": "Date Tools",
-        "description": "Check for day numbers and leap years",
-        "author": "akrabat",
-        "installation_url": "alfred://gallery/workflow/akrabat/date-tools/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/calm-notifications/",
