@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/disk-usage/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/disk-usage/icon.png",
+        "icon_hash": "23dfc1468101e2f7b757124ed682d2eaa22c37cced3ec61f4ff16882b61e60b9",
+        "title": "Disk Usage",
+        "description": "See available disk space in all volumes",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/disk-usage/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
+        "icon_hash": "d9136eb3d0fe08b7cce5ddf3319b9e9a9de2e3cc7e862617040343770a98f69c",
+        "title": "Backup Preferences",
+        "description": "Create and restore Alfred Preferences backups",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/icon.png",
+        "icon_hash": "e8695d37beff558e81b69d79a5ef7b0eeaf80dddf6c7a33d6396363a062e51d6",
+        "title": "AppleScript Dictionaries",
+        "description": "Find and open Mac automation dictionaries",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/applescript-dictionaries/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
+        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
+        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
+        "title": "QR Reader",
+        "description": "Read and create URL QR Codes",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/",
         "icon_url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/icon.png",
         "icon_hash": "6ce41d8525a5234ef72606563fd5ceec2bfa546660748302e7a7556e5a1190f7",
@@ -90,15 +144,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/icon.png",
         "icon_hash": "385fb959f0b55a554c0f694b3cb55e461d99d61a2edab1c23fd39dac13889033",
@@ -133,15 +178,6 @@
         "description": "Search for and view Bible references on YouVersion",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
@@ -990,15 +1026,6 @@
         "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
     },
     {
-        "url": "https://alfred.app/workflows/alanhe/qr-reader/",
-        "icon_url": "https://alfred.app/workflows/alanhe/qr-reader/icon.png",
-        "icon_hash": "77c2b0cd99fe5e764711ecd3c77eb085a2ee65ff3bf04e8b80d6ac1bdfd4a6cc",
-        "title": "QR Reader",
-        "description": "Read and create URL QR Codes",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/temporary-email/",
         "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
         "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
@@ -1224,15 +1251,6 @@
         "installation_url": "alfred://gallery/workflow/mrodalgaard/network/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/disk-usage/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/disk-usage/icon.png",
-        "icon_hash": "23dfc1468101e2f7b757124ed682d2eaa22c37cced3ec61f4ff16882b61e60b9",
-        "title": "Disk Usage",
-        "description": "See available disk space in all volumes",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/disk-usage/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/yak-saver/",
         "icon_url": "https://alfred.app/workflows/alfredapp/yak-saver/icon.png",
         "icon_hash": "d76ae7af53fe237fa1d05d1e9ab82030cb321bc9d7ae0e46e71296111d715da0",
@@ -1240,15 +1258,6 @@
         "description": "Set a reminder to get focused for a set amount of time",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/yak-saver/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/backup-preferences/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/backup-preferences/icon.png",
-        "icon_hash": "d9136eb3d0fe08b7cce5ddf3319b9e9a9de2e3cc7e862617040343770a98f69c",
-        "title": "Backup Preferences",
-        "description": "Create and restore Alfred Preferences backups",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/backup-preferences/"
     },
     {
         "url": "https://alfred.app/workflows/jygh/recent-files/",
@@ -1357,15 +1366,6 @@
         "description": "Download video and audio from web pages",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/download-media/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/applescript-dictionaries/icon.png",
-        "icon_hash": "e8695d37beff558e81b69d79a5ef7b0eeaf80dddf6c7a33d6396363a062e51d6",
-        "title": "AppleScript Dictionaries",
-        "description": "Find and open Mac automation dictionaries",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/applescript-dictionaries/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/app-freeze/",
