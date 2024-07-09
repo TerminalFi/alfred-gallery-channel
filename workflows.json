@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/artemy/ns-train-schedule/",
+        "icon_url": "https://alfred.app/workflows/artemy/ns-train-schedule/icon.png",
+        "icon_hash": "7d372a20060b8a51702c4f48f642adb803094457277bd477a3c08788f7ffa8dc",
+        "title": "NS Train Schedule",
+        "description": "Display train schedule between two stations",
+        "author": "artemy",
+        "installation_url": "alfred://gallery/workflow/artemy/ns-train-schedule/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/disk-usage/",
         "icon_url": "https://alfred.app/workflows/alfredapp/disk-usage/icon.png",
         "icon_hash": "23dfc1468101e2f7b757124ed682d2eaa22c37cced3ec61f4ff16882b61e60b9",
@@ -2014,15 +2023,6 @@
         "description": "A programming calculator using Lua\u2019s math library",
         "author": "themadsens",
         "installation_url": "alfred://gallery/workflow/themadsens/basecalc/"
-    },
-    {
-        "url": "https://alfred.app/workflows/artemy/ns-train-schedule/",
-        "icon_url": "https://alfred.app/workflows/artemy/ns-train-schedule/icon.png",
-        "icon_hash": "7d372a20060b8a51702c4f48f642adb803094457277bd477a3c08788f7ffa8dc",
-        "title": "NS Train Schedule",
-        "description": "Display train schedule between two stations",
-        "author": "artemy",
-        "installation_url": "alfred://gallery/workflow/artemy/ns-train-schedule/"
     },
     {
         "url": "https://alfred.app/workflows/rknightuk/http-status-codes/",
