@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
+        "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
+        "title": "Web Highlight",
+        "description": "Link to web pages and highlight text fragments",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/web-highlight/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/icon.png",
+        "icon_hash": "d589cc6092684e19b664a3c670d44ea2a7364651a9f5ff13086a12903d6a477b",
+        "title": "Clipboard History Extender",
+        "description": "Backup and view Clipboard History text items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/clipboard-history-extender/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
+        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
+        "title": "Plex",
+        "description": "Browse and interact with Plex media servers",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/icon.png",
+        "icon_hash": "385fb959f0b55a554c0f694b3cb55e461d99d61a2edab1c23fd39dac13889033",
+        "title": "Wikipedia Suggest",
+        "description": "Search Wikipedia articles",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/wikipedia-suggest/"
+    },
+    {
         "url": "https://alfred.app/workflows/artemy/ns-train-schedule/",
         "icon_url": "https://alfred.app/workflows/artemy/ns-train-schedule/icon.png",
         "icon_hash": "7d372a20060b8a51702c4f48f642adb803094457277bd477a3c08788f7ffa8dc",
@@ -151,15 +187,6 @@
         "description": "Search, install, or uninstall homebrew packages",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/icon.png",
-        "icon_hash": "385fb959f0b55a554c0f694b3cb55e461d99d61a2edab1c23fd39dac13889033",
-        "title": "Wikipedia Suggest",
-        "description": "Search Wikipedia articles",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/wikipedia-suggest/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
@@ -1123,15 +1150,6 @@
         "description": "Spell out words using phonetic alphabets",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/phonetic-spelling/"
-    },
-    {
-        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
-        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
-        "title": "Plex",
-        "description": "Browse and interact with Plex media servers",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
     },
     {
         "url": "https://alfred.app/workflows/corecode/macupdater/",
