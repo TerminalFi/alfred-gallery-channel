@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/zeitlings/pdf-to-text/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/pdf-to-text/icon.png",
+        "icon_hash": "a8702d731c1ec22f4fc7d861cafae8c574da7ccc03cc4aa79b7e02b4e6078855",
+        "title": "PDF to Text",
+        "description": "Extract plain text from PDF documents",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/pdf-to-text/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/window-navigator/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/window-navigator/icon.png",
+        "icon_hash": "2481819d5385a988d56d4121ed4be39fe594352575e44aa9acfb76ee342acdd1",
+        "title": "Window Navigator",
+        "description": "Navigate to windows of the focused app or any app across all desktops",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/window-navigator/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/ocr-light/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/ocr-light/icon.png",
+        "icon_hash": "33df43319b26ce2809f72b3f0fc9d1832a8d994397b2c15fd6d9fa820644315d",
+        "title": "OCR Light",
+        "description": "Copy screenshot text to the clipboard",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/ocr-light/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
+        "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
+        "title": "Anime Search",
+        "description": "Search anime listed in the myanimelist database",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/anime-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
+        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
+        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
+        "title": "Critic Ratings",
+        "description": "See ratings for movies, TV shows, anime, and manga",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
         "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
         "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
@@ -304,15 +349,6 @@
         "description": "Search and act on screenshots",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
-        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
-        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
-        "title": "Critic Ratings",
-        "description": "See ratings for movies, TV shows, anime, and manga",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/note-taker/",
