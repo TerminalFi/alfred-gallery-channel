@@ -1,5 +1,68 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
+        "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
+        "title": "Anime Search",
+        "description": "Search anime listed in the myanimelist database",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/anime-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/what-unicode-character-is-this/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/what-unicode-character-is-this/icon.png",
+        "icon_hash": "71fc129da01a01b97f1771a77cecf0aca62df72c030a80f549883ba9411e89ca",
+        "title": "What Unicode Character Is This?",
+        "description": "Find out the components of a string",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/what-unicode-character-is-this/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/pdf-split/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/pdf-split/icon.png",
+        "icon_hash": "6e71bbd05311bc6ab11c53b923d7d23c9385054b6acf52c92f3f0830d2e2d83b",
+        "title": "PDF Split",
+        "description": "Extract pages from PDF documents",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/pdf-split/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/pdf-compress/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/pdf-compress/icon.png",
+        "icon_hash": "3817f1cfdddf697d07e26cefe51d467070934bb0374b53c5521bdeea1a20932e",
+        "title": "PDF Compress",
+        "description": "Optimize and compress PDF documents",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/pdf-compress/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/roman-numeral/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/roman-numeral/icon.png",
+        "icon_hash": "6612a39b11c47ab431c3db8eccbba6700a290cbbdeda0f141d9f6315ca46ac94",
+        "title": "Roman Numeral",
+        "description": "Convert Roman numerals to decimal or vice versa",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/roman-numeral/"
+    },
+    {
+        "url": "https://alfred.app/workflows/anybox/anybox/",
+        "icon_url": "https://alfred.app/workflows/anybox/anybox/icon.png",
+        "icon_hash": "da8f635882fecefd6c60a1b150573c266fedb1ed3be7c29ea2bb67fcd62833a0",
+        "title": "Anybox",
+        "description": "Control Anybox",
+        "author": "anybox",
+        "installation_url": "alfred://gallery/workflow/anybox/anybox/"
+    },
+    {
+        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
+        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
+        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
+        "title": "Movie and TV Show Search",
+        "description": "Search and get info on movies or TV shows",
+        "author": "tmcknight",
+        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
+    },
+    {
         "url": "https://alfred.app/workflows/zeitlings/pdf-to-text/",
         "icon_url": "https://alfred.app/workflows/zeitlings/pdf-to-text/icon.png",
         "icon_hash": "a8702d731c1ec22f4fc7d861cafae8c574da7ccc03cc4aa79b7e02b4e6078855",
@@ -25,15 +88,6 @@
         "description": "Copy screenshot text to the clipboard",
         "author": "zeitlings",
         "installation_url": "alfred://gallery/workflow/zeitlings/ocr-light/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
-        "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
-        "title": "Anime Search",
-        "description": "Search anime listed in the myanimelist database",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/anime-search/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
@@ -1078,15 +1132,6 @@
         "description": "Run and Manage Virtual Machines",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
-    },
-    {
-        "url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/",
-        "icon_url": "https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/icon.png",
-        "icon_hash": "2aa73832ab9e354d2fbf7d3c32b29847bb12395680877af3a81e50591c226504",
-        "title": "Movie and TV Show Search",
-        "description": "Search and get info on movies or TV shows",
-        "author": "tmcknight",
-        "installation_url": "alfred://gallery/workflow/tmcknight/movie-and-tv-show-search/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
