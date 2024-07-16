@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/workflow-actions/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/workflow-actions/icon.png",
+        "icon_hash": "e5e9f5a5a33c98f209925ef5f8b5d0260192bf0d901b8357992dd00600ca7115",
+        "title": "Workflow Actions",
+        "description": "Fast workflow interactions for creators",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/workflow-actions/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/wayback-when/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/wayback-when/icon.png",
+        "icon_hash": "4b19be357b3055837223059e2e6ad35113dff198f435c22b55f1d15b0a078f07",
+        "title": "Wayback When",
+        "description": "Open Websites on the Internet Archive\u2019s Wayback Machine",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/wayback-when/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/icon.png",
+        "icon_hash": "eae540e012feae2d0668428f3592f33db03fb9919dd9123f3ae2d2e7cd7b2d10",
+        "title": "Clean Workflow Data",
+        "description": "Trash Data and Cache folders of uninstalled workflows",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/clean-workflow-data/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/color-picker/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/color-picker/icon.png",
+        "icon_hash": "30b5dbe738e2359618adddd0491f4b138bdb8930805b65e760960db68b513dcd",
+        "title": "Color Picker",
+        "description": "Colour picker and previewer",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/color-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/artemy/ns-train-schedule/",
+        "icon_url": "https://alfred.app/workflows/artemy/ns-train-schedule/icon.png",
+        "icon_hash": "7d372a20060b8a51702c4f48f642adb803094457277bd477a3c08788f7ffa8dc",
+        "title": "NS Train Schedule",
+        "description": "Display train schedule between two stations",
+        "author": "artemy",
+        "installation_url": "alfred://gallery/workflow/artemy/ns-train-schedule/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
+        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
+        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
+        "title": "2FA Read Code",
+        "description": "Read two-factor authentication codes from Messages",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
         "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
@@ -135,15 +189,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/wikipedia-suggest/"
     },
     {
-        "url": "https://alfred.app/workflows/artemy/ns-train-schedule/",
-        "icon_url": "https://alfred.app/workflows/artemy/ns-train-schedule/icon.png",
-        "icon_hash": "7d372a20060b8a51702c4f48f642adb803094457277bd477a3c08788f7ffa8dc",
-        "title": "NS Train Schedule",
-        "description": "Display train schedule between two stations",
-        "author": "artemy",
-        "installation_url": "alfred://gallery/workflow/artemy/ns-train-schedule/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/disk-usage/",
         "icon_url": "https://alfred.app/workflows/alfredapp/disk-usage/icon.png",
         "icon_hash": "23dfc1468101e2f7b757124ed682d2eaa22c37cced3ec61f4ff16882b61e60b9",
@@ -205,15 +250,6 @@
         "description": "View the battery charge status of connected bluetooth devices",
         "author": "zeitlings",
         "installation_url": "alfred://gallery/workflow/zeitlings/bluetooth-device-battery/"
-    },
-    {
-        "url": "https://alfred.app/workflows/zeitlings/color-picker/",
-        "icon_url": "https://alfred.app/workflows/zeitlings/color-picker/icon.png",
-        "icon_hash": "30b5dbe738e2359618adddd0491f4b138bdb8930805b65e760960db68b513dcd",
-        "title": "Color Picker",
-        "description": "Colour picker and previewer",
-        "author": "zeitlings",
-        "installation_url": "alfred://gallery/workflow/zeitlings/color-picker/"
     },
     {
         "url": "https://alfred.app/workflows/akrabat/date-tools/",
@@ -1501,15 +1537,6 @@
         "description": "Rename files through a spreadsheet",
         "author": "benjaminoddou",
         "installation_url": "alfred://gallery/workflow/benjaminoddou/file-explorer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
-        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
-        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
-        "title": "2FA Read Code",
-        "description": "Read two-factor authentication codes from Messages",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/date-arithemetic/",
