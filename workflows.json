@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/svenko99/shazam/",
+        "icon_url": "https://alfred.app/workflows/svenko99/shazam/icon.png",
+        "icon_hash": "2ea61782b6018539e198e4918275bb2ab8acad05f8b477c37dbc8f41dc76a70e",
+        "title": "Shazam",
+        "description": "Identify music",
+        "author": "svenko99",
+        "installation_url": "alfred://gallery/workflow/svenko99/shazam/"
+    },
+    {
+        "url": "https://alfred.app/workflows/kennonb/transmit/",
+        "icon_url": "https://alfred.app/workflows/kennonb/transmit/icon.png",
+        "icon_hash": "6db1d64701ef0b84696b490c4c11abb6a91598314c8e060a1da94c2a6f462a6e",
+        "title": "Transmit",
+        "description": "Open connections in Transmit",
+        "author": "kennonb",
+        "installation_url": "alfred://gallery/workflow/kennonb/transmit/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/workflow-actions/",
         "icon_url": "https://alfred.app/workflows/alfredapp/workflow-actions/icon.png",
         "icon_hash": "e5e9f5a5a33c98f209925ef5f8b5d0260192bf0d901b8357992dd00600ca7115",
