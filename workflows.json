@@ -1,5 +1,68 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/gif-from-video/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/gif-from-video/icon.png",
+        "icon_hash": "61613735bfa341ccf00c94fc7e9ce455191ccacd65ca7841bb99cd76d48933ce",
+        "title": "GIF from Video",
+        "description": "Convert video to animated GIFs",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/gif-from-video/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/keyboard-brightness/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/keyboard-brightness/icon.png",
+        "icon_hash": "747d256198549e4c4d6ec7cd42d2b0acb6ae548c8fc8c7afff34526ea555eb51",
+        "title": "Keyboard Brightness",
+        "description": "Adjust the Keyboard Brightness",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/keyboard-brightness/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/qresolve/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/qresolve/icon.png",
+        "icon_hash": "dbbaba6cae447f4cc7af9498fff945820cb73573b6e42c8c356592917711cbae",
+        "title": "QResolve",
+        "description": "Open links from QR codes",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/qresolve/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/new-file/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/new-file/icon.png",
+        "icon_hash": "c30f7d6040bfc677c875fb1c26127ce3717913245db029632d67fb6f2afc813c",
+        "title": "New File",
+        "description": "Create new files posthaste",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/new-file/"
+    },
+    {
+        "url": "https://alfred.app/workflows/firefingers21/whois-lookup/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/whois-lookup/icon.png",
+        "icon_hash": "856f68c462cd41cfd5ee74a75567c3388f79aacdb3275fea4e4cfd9ddace4f44",
+        "title": "WHOIS Lookup",
+        "description": "Perform a WHOIS lookup",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/whois-lookup/"
+    },
+    {
+        "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
+        "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
+        "title": "linkding Bookmarks",
+        "description": "Search linkding bookmarks",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/linkding-bookmarks/"
+    },
+    {
         "url": "https://alfred.app/workflows/svenko99/shazam/",
         "icon_url": "https://alfred.app/workflows/svenko99/shazam/icon.png",
         "icon_hash": "2ea61782b6018539e198e4918275bb2ab8acad05f8b477c37dbc8f41dc76a70e",
@@ -673,15 +736,6 @@
         "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
