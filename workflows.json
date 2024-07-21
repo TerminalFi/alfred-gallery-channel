@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
         "url": "https://alfred.app/workflows/svenko99/shazam/",
         "icon_url": "https://alfred.app/workflows/svenko99/shazam/icon.png",
         "icon_hash": "2ea61782b6018539e198e4918275bb2ab8acad05f8b477c37dbc8f41dc76a70e",
@@ -16,15 +25,6 @@
         "description": "Create new files posthaste",
         "author": "zeitlings",
         "installation_url": "alfred://gallery/workflow/zeitlings/new-file/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/gif-from-video/",
