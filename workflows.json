@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/yinanc/github-star/",
+        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
+        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
+        "title": "GitHub Star",
+        "description": "Search starred repositories on Github",
+        "author": "yinanc",
+        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
         "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
@@ -729,15 +747,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
         "icon_url": "https://alfred.app/workflows/alfredapp/window-switcher/icon.png",
         "icon_hash": "3ab0443ff2317da1ca35676e1944997b41fd41414580efff5e35efd725d7c96c",
@@ -1035,15 +1044,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
     },
     {
-        "url": "https://alfred.app/workflows/yinanc/github-star/",
-        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
-        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
-        "title": "GitHub Star",
-        "description": "Search starred repositories on Github",
-        "author": "yinanc",
-        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/simple-diff/",
         "icon_url": "https://alfred.app/workflows/alfredapp/simple-diff/icon.png",
         "icon_hash": "f931325db621ddaeeb0acd0b92ecb618a2d5366b1a1fac6e3aa2fcadf4d41684",
@@ -1156,7 +1156,7 @@
         "icon_url": "https://alfred.app/workflows/meshchaninov/translate/icon.png",
         "icon_hash": "80ee4aad4ee62a5573e4396e0c4079051c56abd9fc46249aae1dd532b8794afd",
         "title": "Translate",
-        "description": "Translate Text between Two Languages",
+        "description": "Translate text between two languages",
         "author": "meshchaninov",
         "installation_url": "alfred://gallery/workflow/meshchaninov/translate/"
     },
