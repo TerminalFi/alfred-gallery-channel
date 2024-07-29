@@ -9,13 +9,13 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
-        "url": "https://alfred.app/workflows/yinanc/github-star/",
-        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
-        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
-        "title": "GitHub Star",
-        "description": "Search starred repositories on Github",
-        "author": "yinanc",
-        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
+        "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/icon.png",
+        "icon_hash": "25226c26caa64be872b840dac4c039f88d636f316422a3b5f936aae2726f4e60",
+        "title": "PDF Summarizer",
+        "description": "Get summaries of PDFs via ChatPDF",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
@@ -25,6 +25,24 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/julienlehuen/epoch-converter/",
+        "icon_url": "https://alfred.app/workflows/julienlehuen/epoch-converter/icon.png",
+        "icon_hash": "2df4e78ebc27cc8a5d939b1421d88018cfdebefe3d5a88a8748f9ce75933ceb4",
+        "title": "Epoch Converter",
+        "description": "Make timestamps human-readable",
+        "author": "julienlehuen",
+        "installation_url": "alfred://gallery/workflow/julienlehuen/epoch-converter/"
+    },
+    {
+        "url": "https://alfred.app/workflows/yinanc/github-star/",
+        "icon_url": "https://alfred.app/workflows/yinanc/github-star/icon.png",
+        "icon_hash": "c287ba87ed147a00a9190944e9f38639f16e055f142911b0bb4c0569965d3b07",
+        "title": "GitHub Star",
+        "description": "Search starred repositories on Github",
+        "author": "yinanc",
+        "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
@@ -736,15 +754,6 @@
         "description": "Import and Export Alfred Snippet Collections",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/icon.png",
-        "icon_hash": "25226c26caa64be872b840dac4c039f88d636f316422a3b5f936aae2726f4e60",
-        "title": "PDF Summarizer",
-        "description": "Get summaries of PDFs via ChatPDF",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/pdf-summarizer/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
@@ -2077,15 +2086,6 @@
         "description": "Turn macOS Stage Manager on and off",
         "author": "samedwardes",
         "installation_url": "alfred://gallery/workflow/samedwardes/toggle-stage-manager/"
-    },
-    {
-        "url": "https://alfred.app/workflows/julienlehuen/epoch-converter/",
-        "icon_url": "https://alfred.app/workflows/julienlehuen/epoch-converter/icon.png",
-        "icon_hash": "2df4e78ebc27cc8a5d939b1421d88018cfdebefe3d5a88a8748f9ce75933ceb4",
-        "title": "Epoch Converter",
-        "description": "Make timestamps human-readable",
-        "author": "julienlehuen",
-        "installation_url": "alfred://gallery/workflow/julienlehuen/epoch-converter/"
     },
     {
         "url": "https://alfred.app/workflows/zarifpour/you-suggest/",
