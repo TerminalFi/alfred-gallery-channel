@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/gingerbeardman/moby-games/",
+        "icon_url": "https://alfred.app/workflows/gingerbeardman/moby-games/icon.png",
+        "icon_hash": "259eee09d04688e8502ea0ef84b78cb74deff75c545b15d87186d061d60e5117",
+        "title": "Moby Games",
+        "description": "Quick search for video games by name",
+        "author": "gingerbeardman",
+        "installation_url": "alfred://gallery/workflow/gingerbeardman/moby-games/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
         "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
@@ -1627,15 +1636,6 @@
         "description": "Perform date calculations in days",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/date-arithemetic/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrislemke/chatfred/",
-        "icon_url": "https://alfred.app/workflows/chrislemke/chatfred/icon.png",
-        "icon_hash": "f6a2d5b4e0068197dfde9e4af029ef83f8c7362c0980d77ccf6bafe3180cbc20",
-        "title": "ChatFred",
-        "description": "Access ChatGPT, DALL\u00b7E 2, and other OpenAI models",
-        "author": "chrislemke",
-        "installation_url": "alfred://gallery/workflow/chrislemke/chatfred/"
     },
     {
         "url": "https://alfred.app/workflows/xilopaint/about-this-mac/",
