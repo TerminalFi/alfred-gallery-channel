@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/incognito-clone/",
+        "icon_url": "https://alfred.app/workflows/vitor/incognito-clone/icon.png",
+        "icon_hash": "026cdc61861f0e63893b98038770dcbf583f0924d492941995fe7b4cc0f48779",
+        "title": "Incognito Clone",
+        "description": "Open frontmost browser tab in a private window",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/incognito-clone/"
+    },
+    {
         "url": "https://alfred.app/workflows/gingerbeardman/moby-games/",
         "icon_url": "https://alfred.app/workflows/gingerbeardman/moby-games/icon.png",
         "icon_hash": "259eee09d04688e8502ea0ef84b78cb74deff75c545b15d87186d061d60e5117",
