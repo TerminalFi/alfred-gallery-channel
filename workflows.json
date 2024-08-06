@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/floatingpoint/spel/",
+        "icon_url": "https://alfred.app/workflows/floatingpoint/spel/icon.png",
+        "icon_hash": "2ba753ebf7a9779c8cf1d4e10f43b540b8a75416b095732d45d98151362065dc",
+        "title": "Spel",
+        "description": "Local spell checker",
+        "author": "floatingpoint",
+        "installation_url": "alfred://gallery/workflow/floatingpoint/spel/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/incognito-clone/",
         "icon_url": "https://alfred.app/workflows/vitor/incognito-clone/icon.png",
         "icon_hash": "026cdc61861f0e63893b98038770dcbf583f0924d492941995fe7b4cc0f48779",
