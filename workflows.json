@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
+        "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
+        "title": "Anime Search",
+        "description": "Search anime listed in the myanimelist database",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/anime-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/spongebink/mute-discord/",
         "icon_url": "https://alfred.app/workflows/spongebink/mute-discord/icon.png",
         "icon_hash": "f5bc06842a44681fd16e650562c41bf1e2767a87d7d2f9d850aa5cb30cdfba78",
@@ -259,15 +277,6 @@
         "description": "Read two-factor authentication codes from Messages",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
-        "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
-        "title": "Anime Search",
-        "description": "Search anime listed in the myanimelist database",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/anime-search/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/what-unicode-character-is-this/",
@@ -538,15 +547,6 @@
         "description": "Search for and view Bible references on YouVersion",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
