@@ -1,12 +1,21 @@
 [
     {
-        "url": "https://alfred.app/workflows/gingerbeardman/moby-games/",
-        "icon_url": "https://alfred.app/workflows/gingerbeardman/moby-games/icon.png",
-        "icon_hash": "259eee09d04688e8502ea0ef84b78cb74deff75c545b15d87186d061d60e5117",
-        "title": "Moby Games",
-        "description": "Quick search for video games by name",
-        "author": "gingerbeardman",
-        "installation_url": "alfred://gallery/workflow/gingerbeardman/moby-games/"
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
@@ -16,6 +25,15 @@
         "description": "Search developer documentation sites",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/gingerbeardman/moby-games/",
+        "icon_url": "https://alfred.app/workflows/gingerbeardman/moby-games/icon.png",
+        "icon_hash": "259eee09d04688e8502ea0ef84b78cb74deff75c545b15d87186d061d60e5117",
+        "title": "Moby Games",
+        "description": "Quick search for video games by name",
+        "author": "gingerbeardman",
+        "installation_url": "alfred://gallery/workflow/gingerbeardman/moby-games/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
@@ -486,15 +504,6 @@
         "installation_url": "alfred://gallery/workflow/floatingpoint/icon-generator/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
         "url": "https://alfred.app/workflows/zeitlings/scratchpad/",
         "icon_url": "https://alfred.app/workflows/zeitlings/scratchpad/icon.png",
         "icon_hash": "f3365fb7ab4104a03fa07d9093002e2ae74e0ad503d65f69561d89755438dd89",
@@ -538,15 +547,6 @@
         "description": "Search, install, or uninstall homebrew packages",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
