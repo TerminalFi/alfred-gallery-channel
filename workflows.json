@@ -1,14 +1,5 @@
 [
     {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
         "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
@@ -18,6 +9,15 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/pass/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
+        "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
+        "title": "Pass",
+        "description": "Client for the pass command-line tool",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
         "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
@@ -25,6 +25,33 @@
         "description": "Search developer documentation sites",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
+        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
+        "title": "Writing Assistant",
+        "description": "Autocorrect , synonym suggestions, and rephrasings",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/emoji-mate/icon.png",
+        "icon_hash": "824b46434fb4fd0ae34369ab3c57ff39b03c6b1ca7c93b98200f362a14b8b84d",
+        "title": "Emoji Mate",
+        "description": "Search for emoji",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
     },
     {
         "url": "https://alfred.app/workflows/gingerbeardman/moby-games/",
@@ -52,15 +79,6 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
-        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
-        "title": "Writing Assistant",
-        "description": "Autocorrect , synonym suggestions, and rephrasings",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
     },
     {
         "url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/",
@@ -574,15 +592,6 @@
         "description": "Mount and unmount disk partitions",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/mount-disks/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/pass/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
-        "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
-        "title": "Pass",
-        "description": "Client for the pass command-line tool",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
     },
     {
         "url": "https://alfred.app/workflows/epilande/browser-tabs/",
@@ -1123,15 +1132,6 @@
         "description": "View differences in text, files, and directories",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
-    },
-    {
-        "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
-        "icon_url": "https://alfred.app/workflows/fedecalendino/emoji-mate/icon.png",
-        "icon_hash": "824b46434fb4fd0ae34369ab3c57ff39b03c6b1ca7c93b98200f362a14b8b84d",
-        "title": "Emoji Mate",
-        "description": "Search for emoji",
-        "author": "fedecalendino",
-        "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
