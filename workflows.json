@@ -1,12 +1,12 @@
 [
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
-        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
-        "title": "Reddit Browser",
-        "description": "Browse your favorite subreddits",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
+        "url": "https://alfred.app/workflows/alfredapp/tinypng/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/tinypng/icon.png",
+        "icon_hash": "d6b1a24cf28bac76f6fe1a0b421b529c20f230cc60b74241394fc5117ab33e12",
+        "title": "TinyPNG",
+        "description": "Compress images via TinyPNG",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/tinypng/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pass/",
@@ -16,6 +16,15 @@
         "description": "Client for the pass command-line tool",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
+        "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
+        "title": "Reddit Browser",
+        "description": "Browse your favorite subreddits",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
@@ -871,15 +880,6 @@
         "description": "System Monitoring and Process Management",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/tinypng/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/tinypng/icon.png",
-        "icon_hash": "d6b1a24cf28bac76f6fe1a0b421b529c20f230cc60b74241394fc5117ab33e12",
-        "title": "TinyPNG",
-        "description": "Compress images via TinyPNG",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/tinypng/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/",
