@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/markdown-transform/",
+        "icon_url": "https://alfred.app/workflows/vitor/markdown-transform/icon.png",
+        "icon_hash": "a5a343cb99f0a846ef791b3ac2fae1ae61b51dad1546429cb91b6355006ab7f9",
+        "title": "Markdown Transform",
+        "description": "Convert Markdown to BBCode, HTML, and RTF",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/markdown-transform/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/tinypng/",
         "icon_url": "https://alfred.app/workflows/alfredapp/tinypng/icon.png",
         "icon_hash": "d6b1a24cf28bac76f6fe1a0b421b529c20f230cc60b74241394fc5117ab33e12",
