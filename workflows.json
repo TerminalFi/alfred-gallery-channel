@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
+        "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
+        "title": "linkding Bookmarks",
+        "description": "Search linkding bookmarks",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/linkding-bookmarks/"
+    },
+    {
+        "url": "https://alfred.app/workflows/floatingpoint/gobbledygook/",
+        "icon_url": "https://alfred.app/workflows/floatingpoint/gobbledygook/icon.png",
+        "icon_hash": "75a825141af0f8051a86491ef1cdf40d30f28df8f8370fc7062580b3e62e2b61",
+        "title": "Gobbledygook",
+        "description": "Pseudo-random text generator",
+        "author": "floatingpoint",
+        "installation_url": "alfred://gallery/workflow/floatingpoint/gobbledygook/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/markdown-transform/",
         "icon_url": "https://alfred.app/workflows/vitor/markdown-transform/icon.png",
         "icon_hash": "a5a343cb99f0a846ef791b3ac2fae1ae61b51dad1546429cb91b6355006ab7f9",
@@ -277,15 +295,6 @@
         "description": "Perform a WHOIS lookup",
         "author": "firefingers21",
         "installation_url": "alfred://gallery/workflow/firefingers21/whois-lookup/"
-    },
-    {
-        "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
-        "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
-        "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
-        "title": "linkding Bookmarks",
-        "description": "Search linkding bookmarks",
-        "author": "firefingers21",
-        "installation_url": "alfred://gallery/workflow/firefingers21/linkding-bookmarks/"
     },
     {
         "url": "https://alfred.app/workflows/kennonb/transmit/",
