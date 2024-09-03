@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/svenko99/shazam/",
+        "icon_url": "https://alfred.app/workflows/svenko99/shazam/icon.png",
+        "icon_hash": "2ea61782b6018539e198e4918275bb2ab8acad05f8b477c37dbc8f41dc76a70e",
+        "title": "Shazam",
+        "description": "Identify music",
+        "author": "svenko99",
+        "installation_url": "alfred://gallery/workflow/svenko99/shazam/"
+    },
+    {
         "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
         "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
         "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
@@ -241,15 +250,6 @@
         "description": "GitHub Assistant",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
-    },
-    {
-        "url": "https://alfred.app/workflows/svenko99/shazam/",
-        "icon_url": "https://alfred.app/workflows/svenko99/shazam/icon.png",
-        "icon_hash": "2ea61782b6018539e198e4918275bb2ab8acad05f8b477c37dbc8f41dc76a70e",
-        "title": "Shazam",
-        "description": "Identify music",
-        "author": "svenko99",
-        "installation_url": "alfred://gallery/workflow/svenko99/shazam/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/new-file/",
