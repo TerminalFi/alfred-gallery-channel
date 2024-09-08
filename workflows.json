@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
+        "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
+        "title": "Unit Converter",
+        "description": "Convert between different units of measurement",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/unit-converter/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/icon.png",
+        "icon_hash": "5c71843bc91ecbfbeb91a7bcfcc96f07a634880b6fc146b2a137c6c7fd6b300f",
+        "title": "Read the Friendly Manual",
+        "description": "Open Unix Manual Pages",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/icon.png",
+        "icon_hash": "eae540e012feae2d0668428f3592f33db03fb9919dd9123f3ae2d2e7cd7b2d10",
+        "title": "Clean Workflow Data",
+        "description": "Trash Data and Cache folders of uninstalled workflows",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/clean-workflow-data/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/mount-disks/icon.png",
+        "icon_hash": "4fff2166ca681915ff3054d2098f90e7ab5f0a9236307d5def5baad5dc338e55",
+        "title": "Mount Disks",
+        "description": "Mount and unmount disk partitions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/mount-disks/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
+        "icon_hash": "1f075682cd2e4c7b06cf26f9d13653f55dc104087c07fb0d94912abd60725b4c",
+        "title": "Network Quality",
+        "description": "Test your internet connection",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
+        "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
+        "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
+        "title": "Coffee Coffee",
+        "description": "Prevent your computer from going to sleep",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
+    },
+    {
         "url": "https://alfred.app/workflows/svenko99/shazam/",
         "icon_url": "https://alfred.app/workflows/svenko99/shazam/icon.png",
         "icon_hash": "2ea61782b6018539e198e4918275bb2ab8acad05f8b477c37dbc8f41dc76a70e",
@@ -324,15 +378,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/wayback-when/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/icon.png",
-        "icon_hash": "eae540e012feae2d0668428f3592f33db03fb9919dd9123f3ae2d2e7cd7b2d10",
-        "title": "Clean Workflow Data",
-        "description": "Trash Data and Cache folders of uninstalled workflows",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/clean-workflow-data/"
-    },
-    {
         "url": "https://alfred.app/workflows/zeitlings/color-picker/",
         "icon_url": "https://alfred.app/workflows/zeitlings/color-picker/icon.png",
         "icon_hash": "30b5dbe738e2359618adddd0491f4b138bdb8930805b65e760960db68b513dcd",
@@ -612,15 +657,6 @@
         "installation_url": "alfred://gallery/workflow/caleb531/youversion-suggest/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/mount-disks/icon.png",
-        "icon_hash": "4fff2166ca681915ff3054d2098f90e7ab5f0a9236307d5def5baad5dc338e55",
-        "title": "Mount Disks",
-        "description": "Mount and unmount disk partitions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/mount-disks/"
-    },
-    {
         "url": "https://alfred.app/workflows/epilande/browser-tabs/",
         "icon_url": "https://alfred.app/workflows/epilande/browser-tabs/icon.png",
         "icon_hash": "fbd411e9c24f1df4a70343cc797dfa2f66ca54adecff98acb0ef12e792b242b6",
@@ -882,15 +918,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/switch-appearance/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/icon.png",
-        "icon_hash": "5c71843bc91ecbfbeb91a7bcfcc96f07a634880b6fc146b2a137c6c7fd6b300f",
-        "title": "Read the Friendly Manual",
-        "description": "Open Unix Manual Pages",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
         "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
@@ -1116,15 +1143,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/short-films/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
-        "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
-        "title": "Unit Converter",
-        "description": "Convert between different units of measurement",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/unit-converter/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
         "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
         "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
@@ -1213,15 +1231,6 @@
         "description": "List paired bluetooth devices and toggle connections",
         "author": "bosha",
         "installation_url": "alfred://gallery/workflow/bosha/blueman/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
-        "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
-        "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
-        "title": "Coffee Coffee",
-        "description": "Prevent your computer from going to sleep",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/sequential-paste/",
@@ -1645,15 +1654,6 @@
         "description": "Play a round of table tennis",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/ping-pong/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
-        "icon_hash": "b4ed605612aae9e7bc849bdd33b736e7b0b304392ad5c54ab7a813afd44c1471",
-        "title": "Network Quality",
-        "description": "Test your internet connection",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/download-media/",
