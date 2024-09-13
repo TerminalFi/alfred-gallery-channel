@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/markdown-transform/",
+        "icon_url": "https://alfred.app/workflows/vitor/markdown-transform/icon.png",
+        "icon_hash": "a5a343cb99f0a846ef791b3ac2fae1ae61b51dad1546429cb91b6355006ab7f9",
+        "title": "Markdown Transform",
+        "description": "Convert Markdown to BBCode, HTML, and RTF",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/markdown-transform/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/icon.png",
         "icon_hash": "2c2dd21cdd60d0382fb1925ffd134140705aa0fd44eb0899818b3519725f4d94",
@@ -88,15 +106,6 @@
         "description": "Pseudo-random text generator",
         "author": "floatingpoint",
         "installation_url": "alfred://gallery/workflow/floatingpoint/gobbledygook/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/markdown-transform/",
-        "icon_url": "https://alfred.app/workflows/vitor/markdown-transform/icon.png",
-        "icon_hash": "a5a343cb99f0a846ef791b3ac2fae1ae61b51dad1546429cb91b6355006ab7f9",
-        "title": "Markdown Transform",
-        "description": "Convert Markdown to BBCode, HTML, and RTF",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/markdown-transform/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/tinypng/",
@@ -196,15 +205,6 @@
         "description": "Mute and unmute Discord without Input Monitoring permissions",
         "author": "spongebink",
         "installation_url": "alfred://gallery/workflow/spongebink/mute-discord/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
         "url": "https://alfred.app/workflows/willfarrell/package-managers/",
