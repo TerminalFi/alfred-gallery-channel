@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/screenshots/",
+        "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
+        "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
+        "title": "Screenshots",
+        "description": "Search and act on screenshots",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/tapback-message/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/tapback-message/icon.png",
+        "icon_hash": "10d34ecb374842e7bede1c33d92ad4932f747a2b54b31d295533638e3822a65b",
+        "title": "Tapback Message",
+        "description": "Add a tapback reaction to the current message",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/tapback-message/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
+        "icon_hash": "6e85fbf0ae378669432a821d942c3ae010efa006369974ddf8dce1e2e097d48b",
+        "title": "Low Power Mode",
+        "description": "Toggle Low Power Mode for Battery or Power Adapter",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
+        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
+        "title": "Banner Be Gone",
+        "description": "Close notification alerts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
+        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
+        "title": "System Settings",
+        "description": "Open macOS System Settings Panes",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/openai/",
         "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
         "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
@@ -151,15 +205,6 @@
         "description": "Search for emoji",
         "author": "fedecalendino",
         "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
     },
     {
         "url": "https://alfred.app/workflows/gingerbeardman/moby-games/",
@@ -612,15 +657,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/purge-disk-images/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
-        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
-        "title": "System Settings",
-        "description": "Open macOS System Settings Panes",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/",
         "icon_url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/icon.png",
         "icon_hash": "61ec8c2adc348f3e278da77face02d3338ee2fd9c7ef436c4c584e94bc6962ec",
@@ -700,15 +736,6 @@
         "description": "Filter through thousands of Netflix genres",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/streaming-genres/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/screenshots/",
-        "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
-        "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
-        "title": "Screenshots",
-        "description": "Search and act on screenshots",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/screenshots/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/note-taker/",
@@ -846,15 +873,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
-        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
-        "title": "Banner Be Gone",
-        "description": "Close notification alerts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
         "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
         "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
@@ -961,15 +979,6 @@
         "description": "Find two-factor authentication codes in Messages",
         "author": "thebitguru",
         "installation_url": "alfred://gallery/workflow/thebitguru/simple-2fa-paste/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/tapback-message/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/tapback-message/icon.png",
-        "icon_hash": "10d34ecb374842e7bede1c33d92ad4932f747a2b54b31d295533638e3822a65b",
-        "title": "Tapback Message",
-        "description": "Add a tapback reaction to the current message",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/tapback-message/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/about-mac/",
@@ -1168,15 +1177,6 @@
         "description": "View differences in text, files, and directories",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/low-power-mode/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/low-power-mode/icon.png",
-        "icon_hash": "6e85fbf0ae378669432a821d942c3ae010efa006369974ddf8dce1e2e097d48b",
-        "title": "Low Power Mode",
-        "description": "Toggle Low Power Mode for Battery or Power Adapter",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/memory-pairs/",
