@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/screenshots/",
         "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
         "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
@@ -52,6 +61,15 @@
         "description": "Filter for and open System Settings Panes",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/about-mac/",
+        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
+        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
+        "title": "About Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/openai/",
@@ -936,15 +954,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/switch-appearance/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/",
         "icon_url": "https://alfred.app/workflows/alfredapp/alias-homebrew-apps/icon.png",
         "icon_hash": "6913adbad3870a78f5793d8c7682a6acefabfbfc1e71185ccf4d02d632ea9040",
@@ -979,15 +988,6 @@
         "description": "Find two-factor authentication codes in Messages",
         "author": "thebitguru",
         "installation_url": "alfred://gallery/workflow/thebitguru/simple-2fa-paste/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/about-mac/",
-        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
-        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
-        "title": "About Mac",
-        "description": "Show \"About This Mac\" information",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
         "url": "https://alfred.app/workflows/owledge/owledge/",
