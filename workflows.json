@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/mount-disks/icon.png",
+        "icon_hash": "4fff2166ca681915ff3054d2098f90e7ab5f0a9236307d5def5baad5dc338e55",
+        "title": "Mount Disks",
+        "description": "Mount and unmount disk partitions",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/mount-disks/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/library-sounds/",
+        "icon_url": "https://alfred.app/workflows/vitor/library-sounds/icon.png",
+        "icon_hash": "6448ad580e6c314e81121e95fe007b2413c98aa4fc4fb0bd871f9396023c1562",
+        "title": "Library Sounds",
+        "description": "Listen to and pick Library Sounds",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/library-sounds/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
+        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
+        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
+        "title": "Virtual Machines",
+        "description": "Run and Manage Virtual Machines",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
         "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
@@ -72,15 +117,6 @@
         "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/markdown-transform/",
         "icon_url": "https://alfred.app/workflows/vitor/markdown-transform/icon.png",
         "icon_hash": "a5a343cb99f0a846ef791b3ac2fae1ae61b51dad1546429cb91b6355006ab7f9",
@@ -124,15 +160,6 @@
         "description": "Trash Data and Cache folders of uninstalled workflows",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/clean-workflow-data/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/mount-disks/icon.png",
-        "icon_hash": "4fff2166ca681915ff3054d2098f90e7ab5f0a9236307d5def5baad5dc338e55",
-        "title": "Mount Disks",
-        "description": "Mount and unmount disk partitions",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/mount-disks/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/network-quality/",
@@ -358,15 +385,6 @@
         "description": "Search starred repositories on Github",
         "author": "yinanc",
         "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/new-file/",
@@ -1330,15 +1348,6 @@
         "description": "Convert measurements, currencies, time, and more using natural language",
         "author": "biatidigital",
         "installation_url": "alfred://gallery/workflow/biatidigital/calculate-anything/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
-        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
-        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
-        "title": "Virtual Machines",
-        "description": "Run and Manage Virtual Machines",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/open-chrome-profile/",
