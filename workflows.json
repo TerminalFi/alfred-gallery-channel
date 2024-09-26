@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/app-freeze/",
+        "icon_url": "https://alfred.app/workflows/vitor/app-freeze/icon.png",
+        "icon_hash": "829ba911c88735c89a353ed261b39863a5a2e6687caeb3c0d22230b620dba2a5",
+        "title": "App Freeze",
+        "description": "Pause and resume execution of the frontmost app",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/app-freeze/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/dente-azul/",
+        "icon_url": "https://alfred.app/workflows/vitor/dente-azul/icon.png",
+        "icon_hash": "674372b04ec7534d9afb74ffcf036186fdc6b75e68dc91e8d5a6882b138b462b",
+        "title": "Dente Azul",
+        "description": "Toggle bluetooth and paired device connectivity",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/dente-azul/"
+    },
+    {
+        "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
+        "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
+        "title": "linkding Bookmarks",
+        "description": "Search linkding bookmarks",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/linkding-bookmarks/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
         "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
@@ -198,15 +234,6 @@
         "installation_url": "alfred://gallery/workflow/svenko99/shazam/"
     },
     {
-        "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
-        "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
-        "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
-        "title": "linkding Bookmarks",
-        "description": "Search linkding bookmarks",
-        "author": "firefingers21",
-        "installation_url": "alfred://gallery/workflow/firefingers21/linkding-bookmarks/"
-    },
-    {
         "url": "https://alfred.app/workflows/floatingpoint/gobbledygook/",
         "icon_url": "https://alfred.app/workflows/floatingpoint/gobbledygook/icon.png",
         "icon_hash": "75a825141af0f8051a86491ef1cdf40d30f28df8f8370fc7062580b3e62e2b61",
@@ -349,15 +376,6 @@
         "description": "Save links as markdown to read later",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
@@ -1494,15 +1512,6 @@
         "installation_url": "alfred://gallery/workflow/manewitz/hexpm/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/dente-azul/",
-        "icon_url": "https://alfred.app/workflows/vitor/dente-azul/icon.png",
-        "icon_hash": "674372b04ec7534d9afb74ffcf036186fdc6b75e68dc91e8d5a6882b138b462b",
-        "title": "Dente Azul",
-        "description": "Toggle bluetooth and paired device connectivity",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/dente-azul/"
-    },
-    {
         "url": "https://alfred.app/workflows/cagechung/devtoys/",
         "icon_url": "https://alfred.app/workflows/cagechung/devtoys/icon.png",
         "icon_hash": "d3e63fd690e33764f90a9122d5799f965df9c68ef509ea41b938d089889f0222",
@@ -1672,15 +1681,6 @@
         "description": "Download video and audio from web pages",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/download-media/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/app-freeze/",
-        "icon_url": "https://alfred.app/workflows/vitor/app-freeze/icon.png",
-        "icon_hash": "829ba911c88735c89a353ed261b39863a5a2e6687caeb3c0d22230b620dba2a5",
-        "title": "App Freeze",
-        "description": "Pause and resume execution of the frontmost app",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/app-freeze/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
