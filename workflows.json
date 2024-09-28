@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/upload-file/",
+        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
+        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
+        "title": "Upload File",
+        "description": "Upload files and folders for easy sharing",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/recommendation-nation/",
+        "icon_url": "https://alfred.app/workflows/vitor/recommendation-nation/icon.png",
+        "icon_hash": "a38e694ae2ae59e66ce7d5b5430b519310c38947c513004b6bf79d8f053aa973",
+        "title": "Recommendation Nation",
+        "description": "Track recommendations of media to watch, read, play",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/recommendation-nation/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/app-freeze/",
         "icon_url": "https://alfred.app/workflows/vitor/app-freeze/icon.png",
         "icon_hash": "829ba911c88735c89a353ed261b39863a5a2e6687caeb3c0d22230b620dba2a5",
@@ -1600,15 +1618,6 @@
         "description": "List the most recently created or modified files",
         "author": "jygh",
         "installation_url": "alfred://gallery/workflow/jygh/recent-files/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/upload-file/",
-        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
-        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
-        "title": "Upload File",
-        "description": "Upload files and folders for easy sharing",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/pin-plus/",
