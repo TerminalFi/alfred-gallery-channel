@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/upload-file/",
+        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
+        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
+        "title": "Upload File",
+        "description": "Upload files and folders for easy sharing",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
         "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
         "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
@@ -43,15 +52,6 @@
         "description": "Connect and disconnect your AirPods",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/upload-file/",
-        "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
-        "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
-        "title": "Upload File",
-        "description": "Upload files and folders for easy sharing",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/recommendation-nation/",
