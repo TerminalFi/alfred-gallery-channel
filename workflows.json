@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
+        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
+        "title": "Plex",
+        "description": "Browse and interact with Plex media servers",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/icon.png",
+        "icon_hash": "61ec8c2adc348f3e278da77face02d3338ee2fd9c7ef436c4c584e94bc6962ec",
+        "title": "Where\u2019s the Binary",
+        "description": "Get the full path to executables in your PATH",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/wheres-the-binary/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/upload-file/",
         "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
         "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
@@ -97,15 +124,6 @@
         "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
@@ -648,15 +666,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/clipboard-history-extender/"
     },
     {
-        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
-        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
-        "title": "Plex",
-        "description": "Browse and interact with Plex media servers",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/icon.png",
         "icon_hash": "385fb959f0b55a554c0f694b3cb55e461d99d61a2edab1c23fd39dac13889033",
@@ -745,15 +754,6 @@
         "description": "Find, Unmount, and Trash DMGs",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/purge-disk-images/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/icon.png",
-        "icon_hash": "61ec8c2adc348f3e278da77face02d3338ee2fd9c7ef436c4c584e94bc6962ec",
-        "title": "Where\u2019s the Binary",
-        "description": "Get the full path to executables in your PATH",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/wheres-the-binary/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
