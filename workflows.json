@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
+        "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
+        "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
+        "title": "Coffee Coffee",
+        "description": "Prevent your computer from going to sleep",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
+    },
+    {
         "url": "https://alfred.app/workflows/benjaminoddou/plex/",
         "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
         "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
@@ -286,15 +295,6 @@
         "description": "Test your internet connection",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
-        "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
-        "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
-        "title": "Coffee Coffee",
-        "description": "Prevent your computer from going to sleep",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
     },
     {
         "url": "https://alfred.app/workflows/svenko99/shazam/",
