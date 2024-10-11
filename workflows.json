@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
+        "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
+        "title": "Thumbnail Navigation",
+        "description": "Navigate the file system with previews",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/thumbnail-navigation/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
+        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
+        "title": "Snippet Transformer",
+        "description": "Import and Export Alfred Snippet Collections",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/simple-diff/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/simple-diff/icon.png",
+        "icon_hash": "f931325db621ddaeeb0acd0b92ecb618a2d5366b1a1fac6e3aa2fcadf4d41684",
+        "title": "Simple Diff",
+        "description": "View differences in text, files, and directories",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/google-drive/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
+        "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
+        "title": "Google Drive",
+        "description": "List File Stream contents from Google Drive",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
+        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
+        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
+        "title": "2FA Read Code",
+        "description": "Read two-factor authentication codes from Messages",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
         "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
         "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
@@ -558,15 +603,6 @@
         "installation_url": "alfred://gallery/workflow/artemy/ns-train-schedule/"
     },
     {
-        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
-        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
-        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
-        "title": "2FA Read Code",
-        "description": "Read two-factor authentication codes from Messages",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
-    },
-    {
         "url": "https://alfred.app/workflows/zeitlings/what-unicode-character-is-this/",
         "icon_url": "https://alfred.app/workflows/zeitlings/what-unicode-character-is-this/icon.png",
         "icon_hash": "71fc129da01a01b97f1771a77cecf0aca62df72c030a80f549883ba9411e89ca",
@@ -927,24 +963,6 @@
         "installation_url": "alfred://gallery/workflow/culturedcode/add-to-do-to-things/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/google-drive/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
-        "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
-        "title": "Google Drive",
-        "description": "List File Stream contents from Google Drive",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
-        "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
-        "title": "Thumbnail Navigation",
-        "description": "Navigate the file system with previews",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/thumbnail-navigation/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/media-coordinates/",
         "icon_url": "https://alfred.app/workflows/vitor/media-coordinates/icon.png",
         "icon_hash": "b143db38aa043088728cbdadc418c36f88d3fef5bc6748bd7c29c531bafb416f",
@@ -997,15 +1015,6 @@
         "description": "Retrieves latest files from Trickster",
         "author": "apparentsoft",
         "installation_url": "alfred://gallery/workflow/apparentsoft/get-latest-files-from-trickster/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
-        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
-        "title": "Snippet Transformer",
-        "description": "Import and Export Alfred Snippet Collections",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/window-switcher/",
@@ -1240,15 +1249,6 @@
         "description": "Search and interact with Hacker News",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/simple-diff/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/simple-diff/icon.png",
-        "icon_hash": "f931325db621ddaeeb0acd0b92ecb618a2d5366b1a1fac6e3aa2fcadf4d41684",
-        "title": "Simple Diff",
-        "description": "View differences in text, files, and directories",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/memory-pairs/",
