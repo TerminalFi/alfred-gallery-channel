@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/markdown-transform/",
+        "icon_url": "https://alfred.app/workflows/vitor/markdown-transform/icon.png",
+        "icon_hash": "a5a343cb99f0a846ef791b3ac2fae1ae61b51dad1546429cb91b6355006ab7f9",
+        "title": "Markdown Transform",
+        "description": "Convert Markdown to BBCode, HTML, and RTF",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/markdown-transform/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
+        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
+        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
+        "title": "Spotify Mini Player",
+        "description": "Interact with your Spotify library",
+        "author": "vdesabou",
+        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
+        "icon_url": "https://alfred.app/workflows/vitor/shrieking-chimes/icon.png",
+        "icon_hash": "974d0fe3b82f053849cea086ea81baabea9fd08e4d640b37c022a9bb6a8e0c4a",
+        "title": "Shrieking Chimes",
+        "description": "Set Timers and Alarms",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/shrieking-chimes/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/",
         "icon_url": "https://alfred.app/workflows/alfredapp/thumbnail-navigation/icon.png",
         "icon_hash": "e8bf9d13769fbc83a604aa2b805eae8f60e84ed24ad96ffd293fc887a0ef5456",
@@ -180,15 +225,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
         "icon_url": "https://alfred.app/workflows/alfredapp/mount-disks/icon.png",
         "icon_hash": "4fff2166ca681915ff3054d2098f90e7ab5f0a9236307d5def5baad5dc338e55",
@@ -223,15 +259,6 @@
         "description": "OpenAI integrations",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/screenshots/",
@@ -286,15 +313,6 @@
         "description": "Show \"About This Mac\" information",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/markdown-transform/",
-        "icon_url": "https://alfred.app/workflows/vitor/markdown-transform/icon.png",
-        "icon_hash": "a5a343cb99f0a846ef791b3ac2fae1ae61b51dad1546429cb91b6355006ab7f9",
-        "title": "Markdown Transform",
-        "description": "Convert Markdown to BBCode, HTML, and RTF",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/markdown-transform/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
@@ -1188,15 +1206,6 @@
         "installation_url": "alfred://gallery/workflow/stephenc/save-ur-note/"
     },
     {
-        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
-        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
-        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
-        "title": "Spotify Mini Player",
-        "description": "Interact with your Spotify library",
-        "author": "vdesabou",
-        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
-    },
-    {
         "url": "https://alfred.app/workflows/stephenc/cleanshot-x/",
         "icon_url": "https://alfred.app/workflows/stephenc/cleanshot-x/icon.png",
         "icon_hash": "411ed2c1b4e7530fdb44aff493281da4405773a0fe4fa3931786147927950b97",
@@ -1699,15 +1708,6 @@
         "description": "Download video and audio from web pages",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/download-media/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
-        "icon_url": "https://alfred.app/workflows/vitor/shrieking-chimes/icon.png",
-        "icon_hash": "974d0fe3b82f053849cea086ea81baabea9fd08e4d640b37c022a9bb6a8e0c4a",
-        "title": "Shrieking Chimes",
-        "description": "Set Timers and Alarms",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/shrieking-chimes/"
     },
     {
         "url": "https://alfred.app/workflows/benjaminoddou/file-explorer/",
