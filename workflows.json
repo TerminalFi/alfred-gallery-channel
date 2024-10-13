@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/currency-converter/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/currency-converter/icon.png",
+        "icon_hash": "2b96cf0b3c68dfffcae122423b5c9a5f2234ddb083b45e2ce96a9271500c82b1",
+        "title": "Currency Converter",
+        "description": "Convert between different currencies",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/markdown-transform/",
         "icon_url": "https://alfred.app/workflows/vitor/markdown-transform/icon.png",
         "icon_hash": "a5a343cb99f0a846ef791b3ac2fae1ae61b51dad1546429cb91b6355006ab7f9",
@@ -943,15 +952,6 @@
         "description": "Get in-line Amazon search suggestions",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/amazon-suggest/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/currency-converter/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/currency-converter/icon.png",
-        "icon_hash": "2b96cf0b3c68dfffcae122423b5c9a5f2234ddb083b45e2ce96a9271500c82b1",
-        "title": "Currency Converter",
-        "description": "Convert between different currencies",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/pause-tabs/",
