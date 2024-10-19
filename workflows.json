@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/pin-plus/",
+        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
+        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
+        "title": "Pin Plus",
+        "description": "Interact with your Pinboard bookmarks",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
         "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
@@ -1645,15 +1654,6 @@
         "description": "List the most recently created or modified files",
         "author": "jygh",
         "installation_url": "alfred://gallery/workflow/jygh/recent-files/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/pin-plus/",
-        "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
-        "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
-        "title": "Pin Plus",
-        "description": "Interact with your Pinboard bookmarks",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
     },
     {
         "url": "https://alfred.app/workflows/andreatitolo/control-keeping-you-awake/",
