@@ -1,5 +1,68 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/dock-switcher/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/dock-switcher/icon.png",
+        "icon_hash": "7c7c1dfe6a9b85b18bfa17ac77a633b1c001c1f589836dbafba6e934c006c6ae",
+        "title": "Dock Switcher",
+        "description": "Switch between dock layouts",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/dock-switcher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/icon.png",
+        "icon_hash": "b46ee76073585b236a5a7eaf0da2b0a33fe671a5da5d5764555decb38956217c",
+        "title": "Quick File Access",
+        "description": "Quickly access files in different locations",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/quick-file-access/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/workflow-devtools/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/workflow-devtools/icon.png",
+        "icon_hash": "877215b3812996e456a0192ebe39096f0a1f226c735eca62047d2b7fd068df64",
+        "title": "Workflow Devtools",
+        "description": "Utilities and quality-of-life features for Alfred workflow developers",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/workflow-devtools/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/icon.png",
+        "icon_hash": "b53d8fbd2fb557b1ba59f249e989096f9984cf2f5f2ef334beb6b2e75f140615",
+        "title": "Chromium Extensions and Pages",
+        "description": "Open extension settings and internal pages for Chromium browsers",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/chromium-extensions-and-pages/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/jisho/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/jisho/icon.png",
+        "icon_hash": "892a5dd13ac9d9da74608d054a1abba6d70ef0e3c65e7d9a23ee148faf870142",
+        "title": "Jisho",
+        "description": "Japanese-English Dictionary",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/jisho/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
+        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
+        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
+        "title": "DeepL Translate",
+        "description": "Translate sentences with DeepL",
+        "author": "alexanderwillner",
+        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/pin-plus/",
         "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
         "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
@@ -133,6 +196,15 @@
         "description": "List File Stream contents from Google Drive",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/about-mac/",
+        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
+        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
+        "title": "About Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
@@ -322,24 +394,6 @@
         "description": "Open macOS System Settings Panes",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/about-mac/",
-        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
-        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
-        "title": "About Mac",
-        "description": "Show \"About This Mac\" information",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
@@ -1474,15 +1528,6 @@
         "description": "Edit file labels and tags",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
-        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
-        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
-        "title": "DeepL Translate",
-        "description": "Translate sentences with DeepL",
-        "author": "alexanderwillner",
-        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/readwise/",
