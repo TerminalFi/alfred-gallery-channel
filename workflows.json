@@ -1,5 +1,68 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/link-clean/",
+        "icon_url": "https://alfred.app/workflows/vitor/link-clean/icon.png",
+        "icon_hash": "47aaaf4c4a655660baf388b4f79d237f745768f5c6093548cd1053f8d2d66904",
+        "title": "Link Clean",
+        "description": "Remove extraneous information from URLs",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/link-clean/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/ping-pong/",
+        "icon_url": "https://alfred.app/workflows/vitor/ping-pong/icon.png",
+        "icon_hash": "d1c8d7df075f38c2f5be5e90f1a27d3a6d15179569db2c43b19b1f0b68089d47",
+        "title": "Ping Pong",
+        "description": "Play a round of table tennis",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/ping-pong/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/words-with/",
+        "icon_url": "https://alfred.app/workflows/vitor/words-with/icon.png",
+        "icon_hash": "53a73172e1f40191bdf8cbe73ee2912c93d3c8229e412cb2882ee4250e68e8d8",
+        "title": "Words With",
+        "description": "Find words that contain a particular pattern",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/words-with/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/hackerboard/",
+        "icon_url": "https://alfred.app/workflows/vitor/hackerboard/icon.png",
+        "icon_hash": "ab88b365e66117b814837693805d5d8ec521c60d2996559e0f72c4bc0469f97c",
+        "title": "Hackerboard",
+        "description": "Search and interact with Hacker News",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
+        "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
+        "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
+        "title": "MTG Card Search",
+        "description": "Search for Magic: The Gathering playing cards",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/mtg-card-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/domrt/cookedwiki/",
+        "icon_url": "https://alfred.app/workflows/domrt/cookedwiki/icon.png",
+        "icon_hash": "de4e8af6a2daf5f11cf4aa46fd09a4419726de4f9ef8e62c28d4d8157fac42c1",
+        "title": "CookedWiki",
+        "description": "Open webpages in Cooked Wiki",
+        "author": "domrt",
+        "installation_url": "alfred://gallery/workflow/domrt/cookedwiki/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/workflow-devtools/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/workflow-devtools/icon.png",
+        "icon_hash": "877215b3812996e456a0192ebe39096f0a1f226c735eca62047d2b7fd068df64",
+        "title": "Workflow Devtools",
+        "description": "Utilities and quality-of-life features for Alfred workflow developers",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/workflow-devtools/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/dock-switcher/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/dock-switcher/icon.png",
         "icon_hash": "7c7c1dfe6a9b85b18bfa17ac77a633b1c001c1f589836dbafba6e934c006c6ae",
@@ -16,15 +79,6 @@
         "description": "Quickly access files in different locations",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/quick-file-access/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/workflow-devtools/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/workflow-devtools/icon.png",
-        "icon_hash": "877215b3812996e456a0192ebe39096f0a1f226c735eca62047d2b7fd068df64",
-        "title": "Workflow Devtools",
-        "description": "Utilities and quality-of-life features for Alfred workflow developers",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/workflow-devtools/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
@@ -1071,15 +1125,6 @@
         "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
-        "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
-        "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
-        "title": "MTG Card Search",
-        "description": "Search for Magic: The Gathering playing cards",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/mtg-card-search/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/watch-list/",
         "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
         "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
@@ -1321,15 +1366,6 @@
         "description": "Turn off macOS on a timer",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/hackerboard/",
-        "icon_url": "https://alfred.app/workflows/vitor/hackerboard/icon.png",
-        "icon_hash": "ab88b365e66117b814837693805d5d8ec521c60d2996559e0f72c4bc0469f97c",
-        "title": "Hackerboard",
-        "description": "Search and interact with Hacker News",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/memory-pairs/",
@@ -1719,15 +1755,6 @@
         "installation_url": "alfred://gallery/workflow/godbout/brook-vpn/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/words-with/",
-        "icon_url": "https://alfred.app/workflows/vitor/words-with/icon.png",
-        "icon_hash": "53a73172e1f40191bdf8cbe73ee2912c93d3c8229e412cb2882ee4250e68e8d8",
-        "title": "Words With",
-        "description": "Find words that contain a particular pattern",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/words-with/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/start-recording/",
         "icon_url": "https://alfred.app/workflows/vitor/start-recording/icon.png",
         "icon_hash": "d9600992094d2b62b2342d32821d0a309bdb7be73252a4a3c86a334870a99a01",
@@ -1744,15 +1771,6 @@
         "description": "Rename files and folders",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/rename-action/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/ping-pong/",
-        "icon_url": "https://alfred.app/workflows/vitor/ping-pong/icon.png",
-        "icon_hash": "d1c8d7df075f38c2f5be5e90f1a27d3a6d15179569db2c43b19b1f0b68089d47",
-        "title": "Ping Pong",
-        "description": "Play a round of table tennis",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/ping-pong/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/download-media/",
@@ -1987,15 +2005,6 @@
         "description": "Define words with Eudic",
         "author": "cdpath",
         "installation_url": "alfred://gallery/workflow/cdpath/eudic/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/link-clean/",
-        "icon_url": "https://alfred.app/workflows/vitor/link-clean/icon.png",
-        "icon_hash": "47aaaf4c4a655660baf388b4f79d237f745768f5c6093548cd1053f8d2d66904",
-        "title": "Link Clean",
-        "description": "Remove extraneous information from URLs",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/link-clean/"
     },
     {
         "url": "https://alfred.app/workflows/outlawandy/stitchclip/",
