@@ -1,5 +1,50 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
+        "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
+        "title": "Web Highlight",
+        "description": "Link to web pages and highlight text fragments",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/web-highlight/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
+        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
+        "title": "Snippet Transformer",
+        "description": "Import and Export Alfred Snippet Collections",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/rename-action/",
+        "icon_url": "https://alfred.app/workflows/vitor/rename-action/icon.png",
+        "icon_hash": "95590aa33b1d3bde0f0f249cd2b6106c9012a6c8bf7b5c391099b9763f1eb467",
+        "title": "Rename Action",
+        "description": "Rename files and folders",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/rename-action/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/icon.png",
+        "icon_hash": "b53d8fbd2fb557b1ba59f249e989096f9984cf2f5f2ef334beb6b2e75f140615",
+        "title": "Chromium Extensions and Pages",
+        "description": "Open extension settings and internal pages for Chromium browsers",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/chromium-extensions-and-pages/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
+        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
+        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
+        "title": "DeepL Translate",
+        "description": "Translate sentences with DeepL",
+        "author": "alexanderwillner",
+        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/link-clean/",
         "icon_url": "https://alfred.app/workflows/vitor/link-clean/icon.png",
         "icon_hash": "47aaaf4c4a655660baf388b4f79d237f745768f5c6093548cd1053f8d2d66904",
@@ -81,15 +126,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/quick-file-access/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/icon.png",
-        "icon_hash": "b53d8fbd2fb557b1ba59f249e989096f9984cf2f5f2ef334beb6b2e75f140615",
-        "title": "Chromium Extensions and Pages",
-        "description": "Open extension settings and internal pages for Chromium browsers",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/chromium-extensions-and-pages/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/jisho/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/jisho/icon.png",
         "icon_hash": "892a5dd13ac9d9da74608d054a1abba6d70ef0e3c65e7d9a23ee148faf870142",
@@ -106,15 +142,6 @@
         "description": "Filter for and open System Settings Panes",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
-        "icon_url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/icon.png",
-        "icon_hash": "4fd7f8f184380d76b23386d417fd7556ffb4d40f0e64ca9de54a3ed80b5fd530",
-        "title": "DeepL Translate",
-        "description": "Translate sentences with DeepL",
-        "author": "alexanderwillner",
-        "installation_url": "alfred://gallery/workflow/alexanderwillner/deepl-translate/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/pin-plus/",
@@ -223,15 +250,6 @@
         "description": "Navigate the file system with previews",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/thumbnail-navigation/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
-        "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
-        "title": "Snippet Transformer",
-        "description": "Import and Export Alfred Snippet Collections",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/snippet-transformer/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/simple-diff/",
@@ -835,15 +853,6 @@
         "description": "See ratings for movies, TV shows, anime, and manga",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
-        "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
-        "title": "Web Highlight",
-        "description": "Link to web pages and highlight text fragments",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/web-highlight/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/",
@@ -1762,15 +1771,6 @@
         "description": "Shortcuts to record your Mac\u2019s audio, screen, or webcam",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/start-recording/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/rename-action/",
-        "icon_url": "https://alfred.app/workflows/vitor/rename-action/icon.png",
-        "icon_hash": "95590aa33b1d3bde0f0f249cd2b6106c9012a6c8bf7b5c391099b9763f1eb467",
-        "title": "Rename Action",
-        "description": "Rename files and folders",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/rename-action/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/download-media/",
