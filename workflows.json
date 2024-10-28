@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
         "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
         "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
@@ -169,15 +178,6 @@
         "description": "GitHub Assistant",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
