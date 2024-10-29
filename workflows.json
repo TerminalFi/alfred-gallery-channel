@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/icon.png",
+        "icon_hash": "d589cc6092684e19b664a3c670d44ea2a7364651a9f5ff13086a12903d6a477b",
+        "title": "Clipboard History Extender",
+        "description": "Backup and view Clipboard History text items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/clipboard-history-extender/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/pass/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
+        "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
+        "title": "Pass",
+        "description": "Client for the pass command-line tool",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
         "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
@@ -540,15 +558,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/tinypng/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/pass/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
-        "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
-        "title": "Pass",
-        "description": "Client for the pass command-line tool",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
         "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
@@ -853,15 +862,6 @@
         "description": "See ratings for movies, TV shows, anime, and manga",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/icon.png",
-        "icon_hash": "d589cc6092684e19b664a3c670d44ea2a7364651a9f5ff13086a12903d6a477b",
-        "title": "Clipboard History Extender",
-        "description": "Backup and view Clipboard History text items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/clipboard-history-extender/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
