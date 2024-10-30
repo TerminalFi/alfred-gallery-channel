@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
+        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
+        "title": "Banner Be Gone",
+        "description": "Close notification alerts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
+        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
+        "title": "System Settings",
+        "description": "Open macOS System Settings Panes",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/",
         "icon_url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/icon.png",
         "icon_hash": "d589cc6092684e19b664a3c670d44ea2a7364651a9f5ff13086a12903d6a477b",
@@ -342,15 +360,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/upload-file/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
-        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
-        "title": "Banner Be Gone",
-        "description": "Close notification alerts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
-    },
-    {
         "url": "https://alfred.app/workflows/dropover/add-to-dropover/",
         "icon_url": "https://alfred.app/workflows/dropover/add-to-dropover/icon.png",
         "icon_hash": "094c6bc11da5484ccf077f8fc45ace0f42f324a60c1684cf2f16a8f3382be7ca",
@@ -475,15 +484,6 @@
         "description": "Toggle Low Power Mode for Battery or Power Adapter",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/low-power-mode/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
-        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
-        "title": "System Settings",
-        "description": "Open macOS System Settings Panes",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/reddit-browser/",
