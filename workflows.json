@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/watch-list/",
+        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
+        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
+        "title": "Watch List",
+        "description": "Play and manage local media and streams",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/color-picker/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/color-picker/icon.png",
+        "icon_hash": "30b5dbe738e2359618adddd0491f4b138bdb8930805b65e760960db68b513dcd",
+        "title": "Color Picker",
+        "description": "Colour picker and previewer",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/color-picker/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
         "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
         "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
@@ -450,15 +477,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/screenshots/",
         "icon_url": "https://alfred.app/workflows/vitor/screenshots/icon.png",
         "icon_hash": "35747c5e12318d1b96bfcd0219664b8a527749b1aaed8349acafc2809e23ba0e",
@@ -763,15 +781,6 @@
         "description": "Open Websites on the Internet Archive\u2019s Wayback Machine",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/wayback-when/"
-    },
-    {
-        "url": "https://alfred.app/workflows/zeitlings/color-picker/",
-        "icon_url": "https://alfred.app/workflows/zeitlings/color-picker/icon.png",
-        "icon_hash": "30b5dbe738e2359618adddd0491f4b138bdb8930805b65e760960db68b513dcd",
-        "title": "Color Picker",
-        "description": "Colour picker and previewer",
-        "author": "zeitlings",
-        "installation_url": "alfred://gallery/workflow/zeitlings/color-picker/"
     },
     {
         "url": "https://alfred.app/workflows/artemy/ns-train-schedule/",
@@ -1132,15 +1141,6 @@
         "description": "Manage Todoist tasks",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/watch-list/",
-        "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
-        "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
-        "title": "Watch List",
-        "description": "Play and manage local media and streams",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/ocr/",
