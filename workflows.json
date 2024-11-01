@@ -1,5 +1,77 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/temporary-email/",
+        "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
+        "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
+        "title": "Temporary Email",
+        "description": "Generate disposable email inboxes",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
+        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
+        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
+        "title": "Remove Quarantine",
+        "description": "Delete the quarantine attribute from app bundles and files",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/right-click/",
+        "icon_url": "https://alfred.app/workflows/vitor/right-click/icon.png",
+        "icon_hash": "3a83520a033c8827fb030ea8a1583e64db86ea8eb272c7339c4c8399d9988eb5",
+        "title": "Right Click",
+        "description": "Trigger a right-click on Finder files, with the keyboard",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/right-click/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/turn-shoot/",
+        "icon_url": "https://alfred.app/workflows/vitor/turn-shoot/icon.png",
+        "icon_hash": "4a2a1276f8a75e6e8f4d851763449c9e342109f1b45ca97a91fb4c83b8156921",
+        "title": "Turn Shoot",
+        "description": "A reflexes game for two players",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/turn-shoot/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/run-command/",
+        "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
+        "icon_hash": "13910ceff26e951a228db14e466341e359883f7037607dbfdf994152e227a632",
+        "title": "Run Command",
+        "description": "Run commands using your shell configuration",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/run-command/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/start-recording/",
+        "icon_url": "https://alfred.app/workflows/vitor/start-recording/icon.png",
+        "icon_hash": "d9600992094d2b62b2342d32821d0a309bdb7be73252a4a3c86a334870a99a01",
+        "title": "Start Recording",
+        "description": "Shortcuts to record your Mac\u2019s audio, screen, or webcam",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/start-recording/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/paper-formats/",
+        "icon_url": "https://alfred.app/workflows/vitor/paper-formats/icon.png",
+        "icon_hash": "00467429fce4fa804791ef3957a3e8f04ec7ff73e0d7377c2a8e34954a12c611",
+        "title": "Paper Formats",
+        "description": "Reference International Paper Formats",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/paper-formats/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "3d00444b04f602389293d75cfb83c7298fefbe8ba209391551b3b0b9901389ae",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/watch-list/",
         "icon_url": "https://alfred.app/workflows/vitor/watch-list/icon.png",
         "icon_hash": "1988e505eaf94603283d418087c50e4a1c331426f5eac90ea178732f3053feac",
@@ -646,15 +718,6 @@
         "description": "Organise bookmarks in markdown files",
         "author": "colomolo",
         "installation_url": "alfred://gallery/workflow/colomolo/bookmark-vault/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "3d00444b04f602389293d75cfb83c7298fefbe8ba209391551b3b0b9901389ae",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/floatingpoint/spel/",
@@ -1341,15 +1404,6 @@
         "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/remove-quarantine/",
-        "icon_url": "https://alfred.app/workflows/vitor/remove-quarantine/icon.png",
-        "icon_hash": "120aa94b4ecdf8d43f61d3fd6a03254c978d7c07ef3c115dda4a2adc5f1d39c4",
-        "title": "Remove Quarantine",
-        "description": "Delete the quarantine attribute from app bundles and files",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/remove-quarantine/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/play-address/",
         "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
         "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
@@ -1440,15 +1494,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/sequential-paste/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/run-command/",
-        "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
-        "icon_hash": "13910ceff26e951a228db14e466341e359883f7037607dbfdf994152e227a632",
-        "title": "Run Command",
-        "description": "Run commands using your shell configuration",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/run-command/"
-    },
-    {
         "url": "https://alfred.app/workflows/meshchaninov/translate/",
         "icon_url": "https://alfred.app/workflows/meshchaninov/translate/icon.png",
         "icon_hash": "80ee4aad4ee62a5573e4396e0c4079051c56abd9fc46249aae1dd532b8794afd",
@@ -1537,24 +1582,6 @@
         "description": "Switch to another Google Chrome profile",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/temporary-email/",
-        "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
-        "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
-        "title": "Temporary Email",
-        "description": "Generate disposable email inboxes",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/temporary-email/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/turn-shoot/",
-        "icon_url": "https://alfred.app/workflows/vitor/turn-shoot/icon.png",
-        "icon_hash": "4a2a1276f8a75e6e8f4d851763449c9e342109f1b45ca97a91fb4c83b8156921",
-        "title": "Turn Shoot",
-        "description": "A reflexes game for two players",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/turn-shoot/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/delete-configuration/",
@@ -1762,15 +1789,6 @@
         "description": "Connect to your Brook VPN",
         "author": "godbout",
         "installation_url": "alfred://gallery/workflow/godbout/brook-vpn/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/start-recording/",
-        "icon_url": "https://alfred.app/workflows/vitor/start-recording/icon.png",
-        "icon_hash": "d9600992094d2b62b2342d32821d0a309bdb7be73252a4a3c86a334870a99a01",
-        "title": "Start Recording",
-        "description": "Shortcuts to record your Mac\u2019s audio, screen, or webcam",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/start-recording/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/download-media/",
@@ -2250,15 +2268,6 @@
         "installation_url": "alfred://gallery/workflow/zarifpour/you-suggest/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/paper-formats/",
-        "icon_url": "https://alfred.app/workflows/vitor/paper-formats/icon.png",
-        "icon_hash": "00467429fce4fa804791ef3957a3e8f04ec7ff73e0d7377c2a8e34954a12c611",
-        "title": "Paper Formats",
-        "description": "Reference International Paper Formats",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/paper-formats/"
-    },
-    {
         "url": "https://alfred.app/workflows/stephenc/double-space-to-single-space/",
         "icon_url": "https://alfred.app/workflows/stephenc/double-space-to-single-space/icon.png",
         "icon_hash": "cd17b9af0eaabe5b67d581b290099f6bf2ed9b284302b450058531e6ab41628f",
@@ -2338,15 +2347,6 @@
         "description": "Add tasks to to-do lists and view them",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/simple-to-do-list/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/right-click/",
-        "icon_url": "https://alfred.app/workflows/vitor/right-click/icon.png",
-        "icon_hash": "3a83520a033c8827fb030ea8a1583e64db86ea8eb272c7339c4c8399d9988eb5",
-        "title": "Right Click",
-        "description": "Trigger a right-click on Finder files, with the keyboard",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/right-click/"
     },
     {
         "url": "https://alfred.app/workflows/rknightuk/get-safari-tabs/",
