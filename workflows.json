@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
+        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
+        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
+        "title": "Virtual Machines",
+        "description": "Run and Manage Virtual Machines",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/icon.png",
+        "icon_hash": "b53d8fbd2fb557b1ba59f249e989096f9984cf2f5f2ef334beb6b2e75f140615",
+        "title": "Chromium Extensions and Pages",
+        "description": "Open extension settings and internal pages for Chromium browsers",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/chromium-extensions-and-pages/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/appid/",
+        "icon_url": "https://alfred.app/workflows/alanhe/appid/icon.png",
+        "icon_hash": "57003c7ba77bd657e332132cb58ea7574f8cb0fe047f81be6aa1eea0023b488a",
+        "title": "AppID",
+        "description": "Show Bundle ID, Version, and Icon of installed apps",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/appid/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/about-mac/",
+        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
+        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
+        "title": "About Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
+        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
+        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
+        "title": "2FA Read Code",
+        "description": "Read two-factor authentication codes from Messages",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/temporary-email/",
         "icon_url": "https://alfred.app/workflows/vitor/temporary-email/icon.png",
         "icon_hash": "4bb4edbd7ca2bdccad2fad12adba59cceab3ecbac11cafabf7c4821d921a5764",
@@ -135,15 +189,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
         "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
         "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
@@ -169,15 +214,6 @@
         "description": "Rename files and folders",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/rename-action/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/icon.png",
-        "icon_hash": "b53d8fbd2fb557b1ba59f249e989096f9984cf2f5f2ef334beb6b2e75f140615",
-        "title": "Chromium Extensions and Pages",
-        "description": "Open extension settings and internal pages for Chromium browsers",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/chromium-extensions-and-pages/"
     },
     {
         "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/",
@@ -405,24 +441,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
     },
     {
-        "url": "https://alfred.app/workflows/alanhe/about-mac/",
-        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
-        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
-        "title": "About Mac",
-        "description": "Show \"About This Mac\" information",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
-        "icon_url": "https://alfred.app/workflows/alanhe/2fa-read-code/icon.png",
-        "icon_hash": "5e80e76d1116d2c8128b35be8d6414604575c5696c921470e370c5820d6945da",
-        "title": "2FA Read Code",
-        "description": "Read two-factor authentication codes from Messages",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/2fa-read-code/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
         "icon_url": "https://alfred.app/workflows/vitor/coffee-coffee/icon.png",
         "icon_hash": "1cdee5a808f8ff21c4a7ab4e5a08cab3c16a48bb3905a4c8483fd5374affe758",
@@ -538,15 +556,6 @@
         "description": "Listen to and pick Library Sounds",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/library-sounds/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/virtual-machines/",
-        "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
-        "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
-        "title": "Virtual Machines",
-        "description": "Run and Manage Virtual Machines",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/screenshots/",
@@ -2212,15 +2221,6 @@
         "description": "Find and open tabs or spaces in the Arc browser",
         "author": "lcmanzara",
         "installation_url": "alfred://gallery/workflow/lcmanzara/open-arc-tab/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/appid/",
-        "icon_url": "https://alfred.app/workflows/alanhe/appid/icon.png",
-        "icon_hash": "57003c7ba77bd657e332132cb58ea7574f8cb0fe047f81be6aa1eea0023b488a",
-        "title": "AppID",
-        "description": "Show Bundle ID, Version, and Icon of installed apps",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/appid/"
     },
     {
         "url": "https://alfred.app/workflows/lolbat/read-uti-data/",
