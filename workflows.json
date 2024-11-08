@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
+        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
+        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
+        "title": "Critic Ratings",
+        "description": "See ratings for movies, TV shows, anime, and manga",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
+        "icon_hash": "3d00444b04f602389293d75cfb83c7298fefbe8ba209391551b3b0b9901389ae",
+        "title": "Neovim Utilities",
+        "description": "Search neovim plugins and online :help",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/virtual-machines/",
         "icon_url": "https://alfred.app/workflows/vitor/virtual-machines/icon.png",
         "icon_hash": "76397256608d65e2fbd27c3678e86be78ad17af1045cdf74e61e730a5f800303",
@@ -115,15 +133,6 @@
         "description": "Reference International Paper Formats",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/paper-formats/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/icon.png",
-        "icon_hash": "3d00444b04f602389293d75cfb83c7298fefbe8ba209391551b3b0b9901389ae",
-        "title": "Neovim Utilities",
-        "description": "Search neovim plugins and online :help",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/neovim-utilities/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/watch-list/",
@@ -934,15 +943,6 @@
         "description": "Copy screenshot text to the clipboard",
         "author": "zeitlings",
         "installation_url": "alfred://gallery/workflow/zeitlings/ocr-light/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
-        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
-        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
-        "title": "Critic Ratings",
-        "description": "See ratings for movies, TV shows, anime, and manga",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/wikipedia-suggest/",
