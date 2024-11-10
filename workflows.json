@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
+        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
+        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
+        "title": "Shutdown Timer",
+        "description": "Turn off macOS on a timer",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/sequential-paste/",
+        "icon_url": "https://alfred.app/workflows/vitor/sequential-paste/icon.png",
+        "icon_hash": "36548223bc6fd6b3939df86fadc116f55ae1285113b08206fe4992911f0b5dee",
+        "title": "Sequential Paste",
+        "description": "Paste previous clipboard entries in order",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/sequential-paste/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/label-colour-tag/",
+        "icon_url": "https://alfred.app/workflows/vitor/label-colour-tag/icon.png",
+        "icon_hash": "7303303f42eb61627ada119ea96f0dc0c93d247dbe68d5f86ee665896d058c35",
+        "title": "Label Colour Tag",
+        "description": "Edit file labels and tags",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
         "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
         "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
@@ -25,15 +61,6 @@
         "description": "Run and Manage Virtual Machines",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
@@ -1431,15 +1458,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/short-films/"
     },
     {
-        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
-        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
-        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
-        "title": "Shutdown Timer",
-        "description": "Turn off macOS on a timer",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/memory-pairs/",
         "icon_url": "https://alfred.app/workflows/vitor/memory-pairs/icon.png",
         "icon_hash": "548868c1007affa3544338e7ff4020933aba5b81bccfc37b11acdc1261bfe912",
@@ -1492,15 +1510,6 @@
         "description": "List paired bluetooth devices and toggle connections",
         "author": "bosha",
         "installation_url": "alfred://gallery/workflow/bosha/blueman/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/sequential-paste/",
-        "icon_url": "https://alfred.app/workflows/vitor/sequential-paste/icon.png",
-        "icon_hash": "36548223bc6fd6b3939df86fadc116f55ae1285113b08206fe4992911f0b5dee",
-        "title": "Sequential Paste",
-        "description": "Paste previous clipboard entries in order",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/sequential-paste/"
     },
     {
         "url": "https://alfred.app/workflows/meshchaninov/translate/",
@@ -1600,15 +1609,6 @@
         "description": "Find settings and preferences to delete",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/delete-configuration/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/label-colour-tag/",
-        "icon_url": "https://alfred.app/workflows/vitor/label-colour-tag/icon.png",
-        "icon_hash": "7303303f42eb61627ada119ea96f0dc0c93d247dbe68d5f86ee665896d058c35",
-        "title": "Label Colour Tag",
-        "description": "Edit file labels and tags",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/readwise/",
