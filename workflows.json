@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
         "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
         "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
@@ -394,15 +403,6 @@
         "description": "Filter files by tag",
         "author": "firefingers21",
         "installation_url": "alfred://gallery/workflow/firefingers21/tag-finder/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
