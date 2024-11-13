@@ -9,6 +9,15 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
         "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
         "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
@@ -34,15 +43,6 @@
         "description": "Edit file labels and tags",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
