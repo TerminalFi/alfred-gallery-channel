@@ -9,6 +9,51 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
+        "url": "https://alfred.app/workflows/vitor/play-address/",
+        "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
+        "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
+        "title": "Play Address",
+        "description": "Play the URL in the frontmost browser or clipboard",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/play-address/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
+        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
+        "title": "Shortcuts",
+        "description": "Run installed macOS shortcuts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/google-drive/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
+        "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
+        "title": "Google Drive",
+        "description": "List File Stream contents from Google Drive",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/1password/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
+        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
+        "title": "1Password",
+        "description": "Search and open 1Password items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
         "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
@@ -178,15 +223,6 @@
         "description": "Play and manage local media and streams",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/watch-list/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/color-picker/",
@@ -466,15 +502,6 @@
         "description": "View differences in text, files, and directories",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/simple-diff/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/google-drive/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/google-drive/icon.png",
-        "icon_hash": "7e2c001353b94fa2c61c1ab180930a2772c2c56e7524078f3b7e0872ddca2824",
-        "title": "Google Drive",
-        "description": "List File Stream contents from Google Drive",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/coffee-coffee/",
@@ -1152,24 +1179,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/ignore-in-alfred/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/shortcuts/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/shortcuts/icon.png",
-        "icon_hash": "2886600a3b072b9ad9591d712b04393c7be270c4e869be785533ebc9c5c7a238",
-        "title": "Shortcuts",
-        "description": "Run installed macOS shortcuts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/shortcuts/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/1password/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
-        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
-        "title": "1Password",
-        "description": "Search and open 1Password items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/google-suggest/",
         "icon_url": "https://alfred.app/workflows/alfredapp/google-suggest/icon.png",
         "icon_hash": "baa1508859e5a817b3723c847ae0f108e9d06ee96821bec195cfe93d8ebdb8cf",
@@ -1438,15 +1447,6 @@
         "description": "Trigger actions from CleanShot X",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/play-address/",
-        "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
-        "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
-        "title": "Play Address",
-        "description": "Play the URL in the frontmost browser or clipboard",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/play-address/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/short-films/",
