@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/currency-converter/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/currency-converter/icon.png",
+        "icon_hash": "2b96cf0b3c68dfffcae122423b5c9a5f2234ddb083b45e2ce96a9271500c82b1",
+        "title": "Currency Converter",
+        "description": "Convert between different currencies",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
         "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
@@ -423,15 +441,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
-    },
-    {
         "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
         "icon_url": "https://alfred.app/workflows/firefingers21/tag-finder/icon.png",
         "icon_hash": "ded52583ef64292d371d8cbd26410e6f14a27f9b9b4e382b100842a5188f7427",
@@ -448,15 +457,6 @@
         "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/currency-converter/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/currency-converter/icon.png",
-        "icon_hash": "2b96cf0b3c68dfffcae122423b5c9a5f2234ddb083b45e2ce96a9271500c82b1",
-        "title": "Currency Converter",
-        "description": "Convert between different currencies",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/markdown-transform/",
