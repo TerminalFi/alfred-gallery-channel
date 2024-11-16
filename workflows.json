@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/firefingers21/firefox-bookmarks/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/firefox-bookmarks/icon.png",
+        "icon_hash": "4c98c292571afd5deb49d4a6ef79527d7478fddbc926f5c4977fdf2bc8045fa5",
+        "title": "Firefox Bookmarks",
+        "description": "Search Firefox bookmarks",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/firefox-bookmarks/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
         "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
@@ -70,15 +97,6 @@
         "description": "Search and open 1Password items",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
@@ -448,15 +466,6 @@
         "description": "Filter files by tag",
         "author": "firefingers21",
         "installation_url": "alfred://gallery/workflow/firefingers21/tag-finder/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/markdown-transform/",
