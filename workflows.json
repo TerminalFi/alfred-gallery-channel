@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
+        "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
+        "icon_url": "https://alfred.app/workflows/tobiasmende/audio-switcher/icon.png",
+        "icon_hash": "46a172833fe3fdc9514949966354f31af6e2cb3de77056ff80f3dc584366dca4",
+        "title": "Audio Switcher",
+        "description": "Swiftly switch audio output and input devices",
+        "author": "tobiasmende",
+        "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
         "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
@@ -52,15 +70,6 @@
         "description": "Convert between different currencies",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/currency-converter/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/play-address/",
@@ -1528,15 +1537,6 @@
         "description": "Translate text between two languages",
         "author": "meshchaninov",
         "installation_url": "alfred://gallery/workflow/meshchaninov/translate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
-        "icon_url": "https://alfred.app/workflows/tobiasmende/audio-switcher/icon.png",
-        "icon_hash": "46a172833fe3fdc9514949966354f31af6e2cb3de77056ff80f3dc584366dca4",
-        "title": "Audio Switcher",
-        "description": "Swiftly switch audio output and input devices",
-        "author": "tobiasmende",
-        "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/skydiver/nextjs-docs/",
