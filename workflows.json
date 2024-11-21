@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/set-default-browser/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/set-default-browser/icon.png",
+        "icon_hash": "27721fd71d7c0b8b65b1cf01d10bcdd369201b7ac9b92b521616f96fcf7a138e",
+        "title": "Set Default Browser",
+        "description": "Change the default web browser",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/set-default-browser/"
+    },
+    {
+        "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
+        "icon_url": "https://alfred.app/workflows/fedecalendino/emoji-mate/icon.png",
+        "icon_hash": "824b46434fb4fd0ae34369ab3c57ff39b03c6b1ca7c93b98200f362a14b8b84d",
+        "title": "Emoji Mate",
+        "description": "Search for emoji",
+        "author": "fedecalendino",
+        "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
         "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
@@ -52,15 +88,6 @@
         "description": "Search Firefox bookmarks",
         "author": "firefingers21",
         "installation_url": "alfred://gallery/workflow/firefingers21/firefox-bookmarks/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/currency-converter/",
@@ -747,15 +774,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
     },
     {
-        "url": "https://alfred.app/workflows/fedecalendino/emoji-mate/",
-        "icon_url": "https://alfred.app/workflows/fedecalendino/emoji-mate/icon.png",
-        "icon_hash": "824b46434fb4fd0ae34369ab3c57ff39b03c6b1ca7c93b98200f362a14b8b84d",
-        "title": "Emoji Mate",
-        "description": "Search for emoji",
-        "author": "fedecalendino",
-        "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
-    },
-    {
         "url": "https://alfred.app/workflows/gingerbeardman/moby-games/",
         "icon_url": "https://alfred.app/workflows/gingerbeardman/moby-games/icon.png",
         "icon_hash": "259eee09d04688e8502ea0ef84b78cb74deff75c545b15d87186d061d60e5117",
@@ -1107,15 +1125,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/purge-disk-images/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
-        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
-        "title": "Homebrew Search",
-        "description": "Search, install, or uninstall homebrew packages",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
-    },
-    {
         "url": "https://alfred.app/workflows/acidham/search-alfred-workflows/",
         "icon_url": "https://alfred.app/workflows/acidham/search-alfred-workflows/icon.png",
         "icon_hash": "7b83d4dac4594b580ff18f35e82ea280ad2b159bdf000e55405b107e6ad8bcfa",
@@ -1348,15 +1357,6 @@
         "description": "Search all your tools at once",
         "author": "owledge",
         "installation_url": "alfred://gallery/workflow/owledge/owledge/"
-    },
-    {
-        "url": "https://alfred.app/workflows/zeitlings/set-default-browser/",
-        "icon_url": "https://alfred.app/workflows/zeitlings/set-default-browser/icon.png",
-        "icon_hash": "27721fd71d7c0b8b65b1cf01d10bcdd369201b7ac9b92b521616f96fcf7a138e",
-        "title": "Set Default Browser",
-        "description": "Change the default web browser",
-        "author": "zeitlings",
-        "installation_url": "alfred://gallery/workflow/zeitlings/set-default-browser/"
     },
     {
         "url": "https://alfred.app/workflows/svenko99/sskj/",
