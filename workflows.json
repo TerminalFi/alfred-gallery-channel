@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/manga-reader/",
+        "icon_url": "https://alfred.app/workflows/vitor/manga-reader/icon.png",
+        "icon_hash": "2b006cfb4c439718f242ca983b8fc8515022099e6218e3cca808903736dfa555",
+        "title": "Manga Reader",
+        "description": "Read Manga and Comics",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/manga-reader/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
+        "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
+        "title": "Web Highlight",
+        "description": "Link to web pages and highlight text fragments",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/web-highlight/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/icon.png",
+        "icon_hash": "b46ee76073585b236a5a7eaf0da2b0a33fe671a5da5d5764555decb38956217c",
+        "title": "Quick File Access",
+        "description": "Quickly access files in different locations",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/quick-file-access/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/ocr/",
+        "icon_url": "https://alfred.app/workflows/alanhe/ocr/icon.png",
+        "icon_hash": "8f439be966fcf2e965da3f57379b51b785c80eac438729c880925f7329db454a",
+        "title": "OCR",
+        "description": "Take a screenshot and copy its text to the clipboard",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/ocr/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
         "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
@@ -351,15 +387,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/pass/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
-        "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
-        "title": "Web Highlight",
-        "description": "Link to web pages and highlight text fragments",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/web-highlight/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/snippet-transformer/",
         "icon_url": "https://alfred.app/workflows/alfredapp/snippet-transformer/icon.png",
         "icon_hash": "4f9ec24263562abbfc2ebfa7df36bf60deed2f4dabe7900d0eb7ff87da447401",
@@ -457,15 +484,6 @@
         "description": "Switch between dock layouts",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/dock-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/icon.png",
-        "icon_hash": "b46ee76073585b236a5a7eaf0da2b0a33fe671a5da5d5764555decb38956217c",
-        "title": "Quick File Access",
-        "description": "Quickly access files in different locations",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/quick-file-access/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/jisho/",
@@ -1276,15 +1294,6 @@
         "description": "Manage Todoist tasks",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/alfredo/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/ocr/",
-        "icon_url": "https://alfred.app/workflows/alanhe/ocr/icon.png",
-        "icon_hash": "8f439be966fcf2e965da3f57379b51b785c80eac438729c880925f7329db454a",
-        "title": "OCR",
-        "description": "Take a screenshot and copy its text to the clipboard",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/ocr/"
     },
     {
         "url": "https://alfred.app/workflows/apparentsoft/get-latest-files-from-trickster/",
