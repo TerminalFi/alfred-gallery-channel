@@ -9,6 +9,15 @@
         "installation_url": "alfred://gallery/workflow/vitor/manga-reader/"
     },
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
         "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
         "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
@@ -61,15 +70,6 @@
         "description": "Search for emoji",
         "author": "fedecalendino",
         "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
