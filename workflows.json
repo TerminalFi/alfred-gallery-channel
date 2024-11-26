@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/manga-reader/",
         "icon_url": "https://alfred.app/workflows/vitor/manga-reader/icon.png",
         "icon_hash": "2b006cfb4c439718f242ca983b8fc8515022099e6218e3cca808903736dfa555",
@@ -493,15 +502,6 @@
         "description": "Japanese-English Dictionary",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/jisho/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/pin-plus/",
