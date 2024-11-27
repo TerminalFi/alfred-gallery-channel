@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/andytan/theme-switcher/",
+        "icon_url": "https://alfred.app/workflows/andytan/theme-switcher/icon.png",
+        "icon_hash": "e793b4f77243fd2d84b20e05201437e626efaa833b74b6434befaf364f74b938",
+        "title": "Theme Switcher",
+        "description": "Change Alfred themes",
+        "author": "andytan",
+        "installation_url": "alfred://gallery/workflow/andytan/theme-switcher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vanstrouble/hide-show-windows/",
+        "icon_url": "https://alfred.app/workflows/vanstrouble/hide-show-windows/icon.png",
+        "icon_hash": "9ffd4273dfbf5945e1a9a36675c208575bd38a7582ba9e5ef3bdb8f30e6d4e70",
+        "title": "Hide/Show Windows",
+        "description": "Hide or show all app windows",
+        "author": "vanstrouble",
+        "installation_url": "alfred://gallery/workflow/vanstrouble/hide-show-windows/"
+    },
+    {
         "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
         "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
         "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
