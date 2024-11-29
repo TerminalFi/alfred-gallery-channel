@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/openai/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
+        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
+        "title": "ChatGPT / DALL-E",
+        "description": "OpenAI integrations",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/jisho/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/jisho/icon.png",
+        "icon_hash": "892a5dd13ac9d9da74608d054a1abba6d70ef0e3c65e7d9a23ee148faf870142",
+        "title": "Jisho",
+        "description": "Japanese-English Dictionary",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/jisho/"
+    },
+    {
         "url": "https://alfred.app/workflows/andytan/theme-switcher/",
         "icon_url": "https://alfred.app/workflows/andytan/theme-switcher/icon.png",
         "icon_hash": "e793b4f77243fd2d84b20e05201437e626efaa833b74b6434befaf364f74b938",
@@ -187,15 +205,6 @@
         "description": "List File Stream contents from Google Drive",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/openai/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
-        "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
-        "title": "ChatGPT / DALL-E",
-        "description": "OpenAI integrations",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/openai/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/1password/",
@@ -511,15 +520,6 @@
         "description": "Switch between dock layouts",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/dock-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/jisho/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/jisho/icon.png",
-        "icon_hash": "892a5dd13ac9d9da74608d054a1abba6d70ef0e3c65e7d9a23ee148faf870142",
-        "title": "Jisho",
-        "description": "Japanese-English Dictionary",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/jisho/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/pin-plus/",
