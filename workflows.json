@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
+        "icon_url": "https://alfred.app/workflows/tobiasmende/audio-switcher/icon.png",
+        "icon_hash": "46a172833fe3fdc9514949966354f31af6e2cb3de77056ff80f3dc584366dca4",
+        "title": "Audio Switcher",
+        "description": "Swiftly switch audio output and input devices",
+        "author": "tobiasmende",
+        "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/openai/",
         "icon_url": "https://alfred.app/workflows/alfredapp/openai/icon.png",
         "icon_hash": "1e6f969d2fad55dcd2fb7a67a2e200d61f5a2eedca78663874fe50a946b46075",
@@ -124,15 +133,6 @@
         "description": "Search developer documentation sites",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/tobiasmende/audio-switcher/",
-        "icon_url": "https://alfred.app/workflows/tobiasmende/audio-switcher/icon.png",
-        "icon_hash": "46a172833fe3fdc9514949966354f31af6e2cb3de77056ff80f3dc584366dca4",
-        "title": "Audio Switcher",
-        "description": "Swiftly switch audio output and input devices",
-        "author": "tobiasmende",
-        "installation_url": "alfred://gallery/workflow/tobiasmende/audio-switcher/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
