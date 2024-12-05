@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
+        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
+        "title": "Read Later",
+        "description": "Save links as markdown to read later",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
+    },
+    {
         "url": "https://alfred.app/workflows/zeitlings/roman-numeral/",
         "icon_url": "https://alfred.app/workflows/zeitlings/roman-numeral/icon.png",
         "icon_hash": "6612a39b11c47ab431c3db8eccbba6700a290cbbdeda0f141d9f6315ca46ac94",
@@ -880,15 +889,6 @@
         "description": "Open frontmost browser tab in a private window",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/incognito-clone/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
-        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
-        "title": "Read Later",
-        "description": "Save links as markdown to read later",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
