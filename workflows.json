@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/icon.png",
+        "icon_hash": "b46ee76073585b236a5a7eaf0da2b0a33fe671a5da5d5764555decb38956217c",
+        "title": "Quick File Access",
+        "description": "Quickly access files in different locations",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/quick-file-access/"
+    },
+    {
+        "url": "https://alfred.app/workflows/artemy/recent-jetbrains-projects/",
+        "icon_url": "https://alfred.app/workflows/artemy/recent-jetbrains-projects/icon.png",
+        "icon_hash": "47a533149fea53cd4afe5080ab2d4fa6fcc401afcdff9365762f0f69627015cd",
+        "title": "Recent JetBrains Projects",
+        "description": "Search and open your JetBrains IDEs projects",
+        "author": "artemy",
+        "installation_url": "alfred://gallery/workflow/artemy/recent-jetbrains-projects/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
+        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
+        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
+        "title": "Spotify Mini Player",
+        "description": "Interact with your Spotify library",
+        "author": "vdesabou",
+        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
         "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
@@ -97,15 +124,6 @@
         "description": "Link to web pages and highlight text fragments",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/web-highlight/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/icon.png",
-        "icon_hash": "b46ee76073585b236a5a7eaf0da2b0a33fe671a5da5d5764555decb38956217c",
-        "title": "Quick File Access",
-        "description": "Quickly access files in different locations",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/quick-file-access/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/ocr/",
@@ -565,15 +583,6 @@
         "description": "Convert Markdown to BBCode, HTML, and RTF",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/markdown-transform/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
-        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
-        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
-        "title": "Spotify Mini Player",
-        "description": "Interact with your Spotify library",
-        "author": "vdesabou",
-        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/shrieking-chimes/",
