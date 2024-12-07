@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/mikomagni/alfrello/",
+        "icon_url": "https://alfred.app/workflows/mikomagni/alfrello/icon.png",
+        "icon_hash": "bfc997434bf55b72935da4d2ee8f2ae00bdd442a7786378e3e5bed3fc6c6775a",
+        "title": "Alfrello",
+        "description": "Add cards to Trello",
+        "author": "mikomagni",
+        "installation_url": "alfred://gallery/workflow/mikomagni/alfrello/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
+        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
+        "title": "Banner Be Gone",
+        "description": "Close notification alerts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/incognito-clone/",
+        "icon_url": "https://alfred.app/workflows/vitor/incognito-clone/icon.png",
+        "icon_hash": "026cdc61861f0e63893b98038770dcbf583f0924d492941995fe7b4cc0f48779",
+        "title": "Incognito Clone",
+        "description": "Open frontmost browser tab in a private window",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/incognito-clone/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/quick-file-access/icon.png",
         "icon_hash": "b46ee76073585b236a5a7eaf0da2b0a33fe671a5da5d5764555decb38956217c",
@@ -421,15 +448,6 @@
         "description": "Colour picker and previewer",
         "author": "zeitlings",
         "installation_url": "alfred://gallery/workflow/zeitlings/color-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
-        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
-        "title": "Banner Be Gone",
-        "description": "Close notification alerts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/system-settings/",
@@ -889,15 +907,6 @@
         "description": "Local spell checker",
         "author": "floatingpoint",
         "installation_url": "alfred://gallery/workflow/floatingpoint/spel/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/incognito-clone/",
-        "icon_url": "https://alfred.app/workflows/vitor/incognito-clone/icon.png",
-        "icon_hash": "026cdc61861f0e63893b98038770dcbf583f0924d492941995fe7b4cc0f48779",
-        "title": "Incognito Clone",
-        "description": "Open frontmost browser tab in a private window",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/incognito-clone/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pdf-summarizer/",
