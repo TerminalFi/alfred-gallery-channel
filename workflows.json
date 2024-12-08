@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/placeholder-images/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/placeholder-images/icon.png",
+        "icon_hash": "e1fe3bc4e1b981aa44bc8c740eadb490c2f097a6b9ee82a036ee18e847df6100",
+        "title": "Placeholder Images",
+        "description": "Get placeholder images for design and code",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/placeholder-images/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/new-file/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/new-file/icon.png",
+        "icon_hash": "c30f7d6040bfc677c875fb1c26127ce3717913245db029632d67fb6f2afc813c",
+        "title": "New File",
+        "description": "Create new files posthaste",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/new-file/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
+        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
+        "title": "Read Later",
+        "description": "Save links as markdown to read later",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
+    },
+    {
         "url": "https://alfred.app/workflows/mikomagni/alfrello/",
         "icon_url": "https://alfred.app/workflows/mikomagni/alfrello/icon.png",
         "icon_hash": "bfc997434bf55b72935da4d2ee8f2ae00bdd442a7786378e3e5bed3fc6c6775a",
@@ -52,15 +79,6 @@
         "description": "Interact with your Spotify library",
         "author": "vdesabou",
         "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
-        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
-        "title": "Read Later",
-        "description": "Save links as markdown to read later",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/roman-numeral/",
@@ -934,15 +952,6 @@
         "description": "Search starred repositories on Github",
         "author": "yinanc",
         "installation_url": "alfred://gallery/workflow/yinanc/github-star/"
-    },
-    {
-        "url": "https://alfred.app/workflows/zeitlings/new-file/",
-        "icon_url": "https://alfred.app/workflows/zeitlings/new-file/icon.png",
-        "icon_hash": "c30f7d6040bfc677c875fb1c26127ce3717913245db029632d67fb6f2afc813c",
-        "title": "New File",
-        "description": "Create new files posthaste",
-        "author": "zeitlings",
-        "installation_url": "alfred://gallery/workflow/zeitlings/new-file/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/gif-from-video/",
@@ -2059,15 +2068,6 @@
         "description": "Simple SourceTree Bookmark Launcher",
         "author": "saiya",
         "installation_url": "alfred://gallery/workflow/saiya/sourcetree/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/placeholder-images/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/placeholder-images/icon.png",
-        "icon_hash": "76b5c73aae291a56fdfbde2e42110def7665e31bd8b4a1d1d4ce6b216538454a",
-        "title": "Placeholder Images",
-        "description": "Get placeholder images for design and code",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/placeholder-images/"
     },
     {
         "url": "https://alfred.app/workflows/jereze/hacker-news-search/",
