@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/placeholder-images/",
         "icon_url": "https://alfred.app/workflows/alfredapp/placeholder-images/icon.png",
         "icon_hash": "e1fe3bc4e1b981aa44bc8c740eadb490c2f097a6b9ee82a036ee18e847df6100",
@@ -133,15 +142,6 @@
         "description": "Hide or show all app windows",
         "author": "vanstrouble",
         "installation_url": "alfred://gallery/workflow/vanstrouble/hide-show-windows/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/manga-reader/",
