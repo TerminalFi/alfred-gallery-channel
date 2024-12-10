@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/paulrudy/go-to-here/",
+        "icon_url": "https://alfred.app/workflows/paulrudy/go-to-here/icon.png",
+        "icon_hash": "67ce498764fcb45574417158bb6e945511c4eccdf1879693573a4a5dc2857f61",
+        "title": "Go to Here",
+        "description": "Switch current path of Open/Save/Export/Move dialogs",
+        "author": "paulrudy",
+        "installation_url": "alfred://gallery/workflow/paulrudy/go-to-here/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
+        "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
+        "title": "Anime Search",
+        "description": "Search anime listed in the myanimelist database",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/anime-search/"
+    },
+    {
         "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
         "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
         "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
@@ -871,15 +889,6 @@
         "description": "Quick search for video games by name",
         "author": "gingerbeardman",
         "installation_url": "alfred://gallery/workflow/gingerbeardman/moby-games/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
-        "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
-        "title": "Anime Search",
-        "description": "Search anime listed in the myanimelist database",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/anime-search/"
     },
     {
         "url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/",
