@@ -2,7 +2,7 @@
     {
         "url": "https://alfred.app/workflows/paulrudy/go-to-here/",
         "icon_url": "https://alfred.app/workflows/paulrudy/go-to-here/icon.png",
-        "icon_hash": "67ce498764fcb45574417158bb6e945511c4eccdf1879693573a4a5dc2857f61",
+        "icon_hash": "21a1a553bbd5e191a3d7f088b912b1a73c5d4ed66e9c03ce5980e879eecb9453",
         "title": "Go to Here",
         "description": "Switch current path of Open/Save/Export/Move dialogs",
         "author": "paulrudy",
