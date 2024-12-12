@@ -1,14 +1,5 @@
 [
     {
-        "url": "https://alfred.app/workflows/paulrudy/go-to-here/",
-        "icon_url": "https://alfred.app/workflows/paulrudy/go-to-here/icon.png",
-        "icon_hash": "21a1a553bbd5e191a3d7f088b912b1a73c5d4ed66e9c03ce5980e879eecb9453",
-        "title": "Go to Here",
-        "description": "Switch current path of Open/Save/Export/Move dialogs",
-        "author": "paulrudy",
-        "installation_url": "alfred://gallery/workflow/paulrudy/go-to-here/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
         "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
@@ -16,6 +7,24 @@
         "description": "Search anime listed in the myanimelist database",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/anime-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
+        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
+        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
+        "title": "Spotify Mini Player",
+        "description": "Interact with your Spotify library",
+        "author": "vdesabou",
+        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
+    },
+    {
+        "url": "https://alfred.app/workflows/paulrudy/go-to-here/",
+        "icon_url": "https://alfred.app/workflows/paulrudy/go-to-here/icon.png",
+        "icon_hash": "21a1a553bbd5e191a3d7f088b912b1a73c5d4ed66e9c03ce5980e879eecb9453",
+        "title": "Go to Here",
+        "description": "Switch current path of Open/Save/Export/Move dialogs",
+        "author": "paulrudy",
+        "installation_url": "alfred://gallery/workflow/paulrudy/go-to-here/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
@@ -97,15 +106,6 @@
         "description": "Search and open your JetBrains IDEs projects",
         "author": "artemy",
         "installation_url": "alfred://gallery/workflow/artemy/recent-jetbrains-projects/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/",
-        "icon_url": "https://alfred.app/workflows/vdesabou/spotify-mini-player/icon.png",
-        "icon_hash": "5aed83c849dbff118008add5952c11366906cd60dac916988472b9da3bb42d9f",
-        "title": "Spotify Mini Player",
-        "description": "Interact with your Spotify library",
-        "author": "vdesabou",
-        "installation_url": "alfred://gallery/workflow/vdesabou/spotify-mini-player/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/roman-numeral/",
