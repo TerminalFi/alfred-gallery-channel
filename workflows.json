@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
+        "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
+        "title": "Unit Converter",
+        "description": "Convert between different units of measurement",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/unit-converter/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/anime-search/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/anime-search/icon.png",
         "icon_hash": "be4dec9a20b49590b8db2bed12d4c1908443a545092f518b20d1338aa395e9be",
@@ -808,15 +817,6 @@
         "description": "Browse your favorite subreddits",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/reddit-browser/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
-        "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
-        "title": "Unit Converter",
-        "description": "Convert between different units of measurement",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/unit-converter/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/read-the-friendly-manual/",
