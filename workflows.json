@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/tag-finder/icon.png",
+        "icon_hash": "ded52583ef64292d371d8cbd26410e6f14a27f9b9b4e382b100842a5188f7427",
+        "title": "Tag Finder",
+        "description": "Filter files by tag",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/tag-finder/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
         "icon_url": "https://alfred.app/workflows/alfredapp/unit-converter/icon.png",
         "icon_hash": "9cd663bba160fb58fb6c24ca60ffd5d730ed28385573ee7fc048e3e34d933a43",
@@ -628,15 +637,6 @@
         "description": "Interact with your Pinboard bookmarks",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/pin-plus/"
-    },
-    {
-        "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
-        "icon_url": "https://alfred.app/workflows/firefingers21/tag-finder/icon.png",
-        "icon_hash": "ded52583ef64292d371d8cbd26410e6f14a27f9b9b4e382b100842a5188f7427",
-        "title": "Tag Finder",
-        "description": "Filter files by tag",
-        "author": "firefingers21",
-        "installation_url": "alfred://gallery/workflow/firefingers21/tag-finder/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/markdown-transform/",
