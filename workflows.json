@@ -1,5 +1,68 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
+        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
+        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
+        "title": "Open macOS Settings Panes",
+        "description": "Filter for and open System Settings Panes",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
+        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
+        "title": "Plex",
+        "description": "Browse and interact with Plex media servers",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/dock-switcher/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/dock-switcher/icon.png",
+        "icon_hash": "7c7c1dfe6a9b85b18bfa17ac77a633b1c001c1f589836dbafba6e934c006c6ae",
+        "title": "Dock Switcher",
+        "description": "Switch between dock layouts",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/dock-switcher/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
         "icon_url": "https://alfred.app/workflows/firefingers21/tag-finder/icon.png",
         "icon_hash": "ded52583ef64292d371d8cbd26410e6f14a27f9b9b4e382b100842a5188f7427",
@@ -43,15 +106,6 @@
         "description": "Switch current path of Open/Save/Export/Move dialogs",
         "author": "paulrudy",
         "installation_url": "alfred://gallery/workflow/paulrudy/go-to-here/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
-        "icon_url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/icon.png",
-        "icon_hash": "93e8ca2d11fc0010561221ecfaceac6fe02fb7442d46cb94776edd886d498e81",
-        "title": "Open macOS Settings Panes",
-        "description": "Filter for and open System Settings Panes",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/open-macos-settings-panes/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/placeholder-images/",
@@ -189,15 +243,6 @@
         "installation_url": "alfred://gallery/workflow/vitor/manga-reader/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/web-highlight/",
         "icon_url": "https://alfred.app/workflows/alfredapp/web-highlight/icon.png",
         "icon_hash": "6283aba1ee0529ae62d3df2d262dea84bf78e7caf2c165a4823747e41ee20ec5",
@@ -243,24 +288,6 @@
         "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
         "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
@@ -268,15 +295,6 @@
         "description": "Interact with Obsidian",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
     },
     {
         "url": "https://alfred.app/workflows/firefingers21/firefox-bookmarks/",
@@ -621,15 +639,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/workflow-devtools/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/dock-switcher/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/dock-switcher/icon.png",
-        "icon_hash": "7c7c1dfe6a9b85b18bfa17ac77a633b1c001c1f589836dbafba6e934c006c6ae",
-        "title": "Dock Switcher",
-        "description": "Switch between dock layouts",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/dock-switcher/"
-    },
-    {
         "url": "https://alfred.app/workflows/vitor/pin-plus/",
         "icon_url": "https://alfred.app/workflows/vitor/pin-plus/icon.png",
         "icon_hash": "78f7aae9ae179f77ce9395bfa3b75599b402f0899cb4c8d46c573b221f9c8087",
@@ -682,15 +691,6 @@
         "description": "Prevent your computer from going to sleep",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/coffee-coffee/"
-    },
-    {
-        "url": "https://alfred.app/workflows/benjaminoddou/plex/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/plex/icon.png",
-        "icon_hash": "067ef33fb966dce0f8ead6d543ae1a6f72e873958d0ff0d188d13429f1616042",
-        "title": "Plex",
-        "description": "Browse and interact with Plex media servers",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/plex/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/wheres-the-binary/",
