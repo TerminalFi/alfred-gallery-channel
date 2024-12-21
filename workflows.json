@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/artemy/recent-jetbrains-projects/",
+        "icon_url": "https://alfred.app/workflows/artemy/recent-jetbrains-projects/icon.png",
+        "icon_hash": "47a533149fea53cd4afe5080ab2d4fa6fcc401afcdff9365762f0f69627015cd",
+        "title": "Recent JetBrains Projects",
+        "description": "Search and open your JetBrains IDEs projects",
+        "author": "artemy",
+        "installation_url": "alfred://gallery/workflow/artemy/recent-jetbrains-projects/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
+        "icon_hash": "1f075682cd2e4c7b06cf26f9d13653f55dc104087c07fb0d94912abd60725b4c",
+        "title": "Network Quality",
+        "description": "Test your internet connection",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
         "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
@@ -169,15 +187,6 @@
         "description": "Quickly access files in different locations",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/quick-file-access/"
-    },
-    {
-        "url": "https://alfred.app/workflows/artemy/recent-jetbrains-projects/",
-        "icon_url": "https://alfred.app/workflows/artemy/recent-jetbrains-projects/icon.png",
-        "icon_hash": "47a533149fea53cd4afe5080ab2d4fa6fcc401afcdff9365762f0f69627015cd",
-        "title": "Recent JetBrains Projects",
-        "description": "Search and open your JetBrains IDEs projects",
-        "author": "artemy",
-        "installation_url": "alfred://gallery/workflow/artemy/recent-jetbrains-projects/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/roman-numeral/",
@@ -835,15 +844,6 @@
         "description": "Trash Data and Cache folders of uninstalled workflows",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/clean-workflow-data/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
-        "icon_hash": "1f075682cd2e4c7b06cf26f9d13653f55dc104087c07fb0d94912abd60725b4c",
-        "title": "Network Quality",
-        "description": "Test your internet connection",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
     },
     {
         "url": "https://alfred.app/workflows/svenko99/shazam/",
