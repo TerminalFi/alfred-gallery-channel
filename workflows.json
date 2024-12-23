@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/delete-configuration/",
+        "icon_url": "https://alfred.app/workflows/vitor/delete-configuration/icon.png",
+        "icon_hash": "2999d2d70f994668889ffac85502bbbb203595bfa7e5ee3b80bc01e7be6a3ead",
+        "title": "Delete Configuration",
+        "description": "Find settings and preferences to delete",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/delete-configuration/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
+        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
+        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
+        "title": "Critic Ratings",
+        "description": "See ratings for movies, TV shows, anime, and manga",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
+    },
+    {
         "url": "https://alfred.app/workflows/artemy/recent-jetbrains-projects/",
         "icon_url": "https://alfred.app/workflows/artemy/recent-jetbrains-projects/icon.png",
         "icon_hash": "47a533149fea53cd4afe5080ab2d4fa6fcc401afcdff9365762f0f69627015cd",
@@ -385,15 +403,6 @@
         "description": "Edit file labels and tags",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/label-colour-tag/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/critic-ratings/",
-        "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
-        "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
-        "title": "Critic Ratings",
-        "description": "See ratings for movies, TV shows, anime, and manga",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/critic-ratings/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/neovim-utilities/",
@@ -1672,15 +1681,6 @@
         "description": "Switch to another Google Chrome profile",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/open-chrome-profile/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/delete-configuration/",
-        "icon_url": "https://alfred.app/workflows/vitor/delete-configuration/icon.png",
-        "icon_hash": "2999d2d70f994668889ffac85502bbbb203595bfa7e5ee3b80bc01e7be6a3ead",
-        "title": "Delete Configuration",
-        "description": "Find settings and preferences to delete",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/delete-configuration/"
     },
     {
         "url": "https://alfred.app/workflows/giovanni/readwise/",
