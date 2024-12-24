@@ -9,6 +9,33 @@
         "installation_url": "alfred://gallery/workflow/vitor/delete-configuration/"
     },
     {
+        "url": "https://alfred.app/workflows/alfredapp/placeholder-images/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/placeholder-images/icon.png",
+        "icon_hash": "855820702aee6ddc378095f71c8b485e74501cce7fe82c90731e82c9b59f3087",
+        "title": "Placeholder Images",
+        "description": "Get placeholder images for design and code",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/placeholder-images/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
+        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
+        "title": "Banner Be Gone",
+        "description": "Close notification alerts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
+        "icon_hash": "1f075682cd2e4c7b06cf26f9d13653f55dc104087c07fb0d94912abd60725b4c",
+        "title": "Network Quality",
+        "description": "Test your internet connection",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/critic-ratings/",
         "icon_url": "https://alfred.app/workflows/vitor/critic-ratings/icon.png",
         "icon_hash": "51751086094835b009afcbf34d13738d6934831bc26cc32e36601e97cd087817",
@@ -25,15 +52,6 @@
         "description": "Search and open your JetBrains IDEs projects",
         "author": "artemy",
         "installation_url": "alfred://gallery/workflow/artemy/recent-jetbrains-projects/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/network-quality/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/network-quality/icon.png",
-        "icon_hash": "1f075682cd2e4c7b06cf26f9d13653f55dc104087c07fb0d94912abd60725b4c",
-        "title": "Network Quality",
-        "description": "Test your internet connection",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/network-quality/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
@@ -144,15 +162,6 @@
         "installation_url": "alfred://gallery/workflow/paulrudy/go-to-here/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/placeholder-images/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/placeholder-images/icon.png",
-        "icon_hash": "e1fe3bc4e1b981aa44bc8c740eadb490c2f097a6b9ee82a036ee18e847df6100",
-        "title": "Placeholder Images",
-        "description": "Get placeholder images for design and code",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/placeholder-images/"
-    },
-    {
         "url": "https://alfred.app/workflows/zeitlings/new-file/",
         "icon_url": "https://alfred.app/workflows/zeitlings/new-file/icon.png",
         "icon_hash": "c30f7d6040bfc677c875fb1c26127ce3717913245db029632d67fb6f2afc813c",
@@ -178,15 +187,6 @@
         "description": "Add cards to Trello",
         "author": "mikomagni",
         "installation_url": "alfred://gallery/workflow/mikomagni/alfrello/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
-        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
-        "title": "Banner Be Gone",
-        "description": "Close notification alerts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/incognito-clone/",
