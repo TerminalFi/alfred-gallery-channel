@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
+        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
+        "title": "Banner Be Gone",
+        "description": "Close notification alerts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/delete-configuration/",
         "icon_url": "https://alfred.app/workflows/vitor/delete-configuration/icon.png",
         "icon_hash": "2999d2d70f994668889ffac85502bbbb203595bfa7e5ee3b80bc01e7be6a3ead",
@@ -16,15 +25,6 @@
         "description": "Get placeholder images for design and code",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/placeholder-images/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
-        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
-        "title": "Banner Be Gone",
-        "description": "Close notification alerts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/network-quality/",
