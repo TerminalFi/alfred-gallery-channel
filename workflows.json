@@ -1422,15 +1422,6 @@
         "installation_url": "alfred://gallery/workflow/thebitguru/simple-2fa-paste/"
     },
     {
-        "url": "https://alfred.app/workflows/owledge/owledge/",
-        "icon_url": "https://alfred.app/workflows/owledge/owledge/icon.png",
-        "icon_hash": "33535cf26d64f4b0946347c7e2969fa889c63bb8b1a024ae44b9d1ec79a699ed",
-        "title": "Owledge",
-        "description": "Search all your tools at once",
-        "author": "owledge",
-        "installation_url": "alfred://gallery/workflow/owledge/owledge/"
-    },
-    {
         "url": "https://alfred.app/workflows/svenko99/sskj/",
         "icon_url": "https://alfred.app/workflows/svenko99/sskj/icon.png",
         "icon_hash": "cb2aa5b526da0c530f3440c1d5dbee408633b53eaddfd0ee24189e3341b04eeb",
