@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/about-mac/",
+        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
+        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
+        "title": "About Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
         "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
         "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
@@ -97,15 +115,6 @@
         "description": "Switch between dock layouts",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/dock-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
@@ -439,15 +448,6 @@
         "description": "Show Bundle ID, Version, and Icon of installed apps",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/appid/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/about-mac/",
-        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
-        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
-        "title": "About Mac",
-        "description": "Show \"About This Mac\" information",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/2fa-read-code/",
