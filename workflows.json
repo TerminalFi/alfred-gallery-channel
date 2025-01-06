@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/icon.png",
+        "icon_hash": "b53d8fbd2fb557b1ba59f249e989096f9984cf2f5f2ef334beb6b2e75f140615",
+        "title": "Chromium Extensions and Pages",
+        "description": "Open extension settings and internal pages for Chromium browsers",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/chromium-extensions-and-pages/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
+        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
+        "title": "Read Later",
+        "description": "Save links as markdown to read later",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
         "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
@@ -178,15 +196,6 @@
         "description": "Create new files posthaste",
         "author": "zeitlings",
         "installation_url": "alfred://gallery/workflow/zeitlings/new-file/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/read-later/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/read-later/icon.png",
-        "icon_hash": "f6a10d7f076e3d5fa4c82efd24b24bd371ebbf09cf3db80a6ca5ca2558601948",
-        "title": "Read Later",
-        "description": "Save links as markdown to read later",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
     },
     {
         "url": "https://alfred.app/workflows/mikomagni/alfrello/",
@@ -430,15 +439,6 @@
         "description": "Run and Manage Virtual Machines",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/virtual-machines/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/icon.png",
-        "icon_hash": "b53d8fbd2fb557b1ba59f249e989096f9984cf2f5f2ef334beb6b2e75f140615",
-        "title": "Chromium Extensions and Pages",
-        "description": "Open extension settings and internal pages for Chromium browsers",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/chromium-extensions-and-pages/"
     },
     {
         "url": "https://alfred.app/workflows/alanhe/appid/",
