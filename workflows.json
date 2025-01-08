@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/odapg/alzibro/",
+        "icon_url": "https://alfred.app/workflows/odapg/alzibro/icon.png",
+        "icon_hash": "9f9cedd13c4a69939951f62236da5f7768c152b3a58408beef8575321f8bf468",
+        "title": "Alzibro",
+        "description": "Browse ZIP archives and extract individual files",
+        "author": "odapg",
+        "installation_url": "alfred://gallery/workflow/odapg/alzibro/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/wolframalpha/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/wolframalpha/icon.png",
+        "icon_hash": "e582f29f50fad1abf6e11b0cb26e73d177b0511803364d5b606bd28b39afbb29",
+        "title": "WolframAlpha",
+        "description": "Query the WolframAlpha API",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/wolframalpha/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/icon.png",
         "icon_hash": "b53d8fbd2fb557b1ba59f249e989096f9984cf2f5f2ef334beb6b2e75f140615",
