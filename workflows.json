@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/zeitlings/window-navigator/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/window-navigator/icon.png",
+        "icon_hash": "2481819d5385a988d56d4121ed4be39fe594352575e44aa9acfb76ee342acdd1",
+        "title": "Window Navigator",
+        "description": "Navigate to windows of the focused app or any app across all desktops",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/window-navigator/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
+        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
+        "title": "Banner Be Gone",
+        "description": "Close notification alerts",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/favorites/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/favorites/icon.png",
+        "icon_hash": "e9dd0ca1d09a5d32cabe7b47abe7eec0ec6e67444a15a214a523023fb2e74999",
+        "title": "Favorites",
+        "description": "Access your favorite files and folders",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/favorites/"
+    },
+    {
         "url": "https://alfred.app/workflows/odapg/alzibro/",
         "icon_url": "https://alfred.app/workflows/odapg/alzibro/icon.png",
         "icon_hash": "9f9cedd13c4a69939951f62236da5f7768c152b3a58408beef8575321f8bf468",
@@ -52,15 +79,6 @@
         "description": "Show \"About This Mac\" information",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/banner-be-gone/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/banner-be-gone/icon.png",
-        "icon_hash": "8b9b54890abe43f2ae162d47b19a47a0af2c65250add7a2ff460c76e1c1ab6ea",
-        "title": "Banner Be Gone",
-        "description": "Close notification alerts",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/banner-be-gone/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/delete-configuration/",
@@ -1114,15 +1132,6 @@
         "description": "Extract plain text from PDF documents",
         "author": "zeitlings",
         "installation_url": "alfred://gallery/workflow/zeitlings/pdf-to-text/"
-    },
-    {
-        "url": "https://alfred.app/workflows/zeitlings/window-navigator/",
-        "icon_url": "https://alfred.app/workflows/zeitlings/window-navigator/icon.png",
-        "icon_hash": "2481819d5385a988d56d4121ed4be39fe594352575e44aa9acfb76ee342acdd1",
-        "title": "Window Navigator",
-        "description": "Navigate to windows of the focused app or any app across all desktops",
-        "author": "zeitlings",
-        "installation_url": "alfred://gallery/workflow/zeitlings/window-navigator/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/ocr-light/",
