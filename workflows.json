@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
+    },
+    {
+        "url": "https://alfred.app/workflows/caleb531/play-song/",
+        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
+        "icon_hash": "dd13fc7340be2af4507ec8900eb6de5112884c51014a36b515e7afe545b30c8b",
+        "title": "Play Song",
+        "description": "Quickly play songs via the Music app",
+        "author": "caleb531",
+        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
+    },
+    {
+        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
+        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
+        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
+        "title": "String multitool",
+        "description": "Transform text to various formats",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
+    },
+    {
         "url": "https://alfred.app/workflows/zeitlings/window-navigator/",
         "icon_url": "https://alfred.app/workflows/zeitlings/window-navigator/icon.png",
         "icon_hash": "2481819d5385a988d56d4121ed4be39fe594352575e44aa9acfb76ee342acdd1",
@@ -1350,15 +1377,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/pause-tabs/"
     },
     {
-        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
-        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
-        "title": "Emoji Wine",
-        "description": "Find and tag emoji to your liking",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
-    },
-    {
         "url": "https://alfred.app/workflows/culturedcode/add-to-do-to-things/",
         "icon_url": "https://alfred.app/workflows/culturedcode/add-to-do-to-things/icon.png",
         "icon_hash": "ff5d6665de2380ed4ee429fc3d81cf6f56107ceb943073561bab0a9fd4c943b0",
@@ -1476,15 +1494,6 @@
         "installation_url": "alfred://gallery/workflow/godbout/airpods-pro-connector/"
     },
     {
-        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
-        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
-        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
-        "title": "String multitool",
-        "description": "Transform text to various formats",
-        "author": "colomolo",
-        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
-    },
-    {
         "url": "https://alfred.app/workflows/bjornelvar/nba-scores/",
         "icon_url": "https://alfred.app/workflows/bjornelvar/nba-scores/icon.png",
         "icon_hash": "6d69bb9b5add5f989d4be95f321c307f87ac9f2258753d87bc1f353e699c6aa2",
@@ -1492,15 +1501,6 @@
         "description": "List NBA games with stat leaders",
         "author": "bjornelvar",
         "installation_url": "alfred://gallery/workflow/bjornelvar/nba-scores/"
-    },
-    {
-        "url": "https://alfred.app/workflows/caleb531/play-song/",
-        "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
-        "icon_hash": "dd13fc7340be2af4507ec8900eb6de5112884c51014a36b515e7afe545b30c8b",
-        "title": "Play Song",
-        "description": "Quickly play songs via the Music app",
-        "author": "caleb531",
-        "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
     },
     {
         "url": "https://alfred.app/workflows/acidham/image-shrinker/",
