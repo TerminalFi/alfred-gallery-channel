@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/tag-finder/icon.png",
+        "icon_hash": "ded52583ef64292d371d8cbd26410e6f14a27f9b9b4e382b100842a5188f7427",
+        "title": "Tag Finder",
+        "description": "Filter files by tag",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/tag-finder/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
+        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
+        "title": "GitFred",
+        "description": "GitHub Assistant",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/notes/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/notes/icon.png",
+        "icon_hash": "12d51cd158d2637c78f0258aea0ff48260e9d34719ec3330498f7aba951579a2",
+        "title": "Notes",
+        "description": "Search and create notes in Notes.app",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/notes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/word-count/",
+        "icon_url": "https://alfred.app/workflows/stephenc/word-count/icon.png",
+        "icon_hash": "b5cf994aa7f5ad9040f9196f702e7c237c339ac50866c4d63a694447ae47a8b8",
+        "title": "Word and Character Count",
+        "description": "Display number of words and characters in selected text",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/word-count/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
         "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
@@ -99,15 +135,6 @@
         "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/gitfred/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/gitfred/icon.png",
-        "icon_hash": "2276414d76e378a4e3a761cb4a70b2088411ea455b3e09afcab95031dcee9fc7",
-        "title": "GitFred",
-        "description": "GitHub Assistant",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
-    },
-    {
         "url": "https://alfred.app/workflows/alanhe/about-mac/",
         "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
         "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
@@ -205,15 +232,6 @@
         "description": "Search developer documentation sites",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
-        "icon_url": "https://alfred.app/workflows/firefingers21/tag-finder/icon.png",
-        "icon_hash": "ded52583ef64292d371d8cbd26410e6f14a27f9b9b4e382b100842a5188f7427",
-        "title": "Tag Finder",
-        "description": "Filter files by tag",
-        "author": "firefingers21",
-        "installation_url": "alfred://gallery/workflow/firefingers21/tag-finder/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
@@ -2059,15 +2077,6 @@
         "description": "Make a new folder in the frontmost Finder window and move files to it",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/new-folder/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/word-count/",
-        "icon_url": "https://alfred.app/workflows/stephenc/word-count/icon.png",
-        "icon_hash": "b5cf994aa7f5ad9040f9196f702e7c237c339ac50866c4d63a694447ae47a8b8",
-        "title": "Word and Character Count",
-        "description": "Display number of words and characters in selected text",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/word-count/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/move-to-new-folder/",
