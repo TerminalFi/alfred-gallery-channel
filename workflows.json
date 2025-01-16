@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/notes/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/notes/icon.png",
+        "icon_hash": "12d51cd158d2637c78f0258aea0ff48260e9d34719ec3330498f7aba951579a2",
+        "title": "Notes",
+        "description": "Search and create notes in Notes.app",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/notes/"
+    },
+    {
+        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
+        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
+        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
+        "title": "String multitool",
+        "description": "Transform text to various formats",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
+    },
+    {
         "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
         "icon_url": "https://alfred.app/workflows/firefingers21/tag-finder/icon.png",
         "icon_hash": "ded52583ef64292d371d8cbd26410e6f14a27f9b9b4e382b100842a5188f7427",
@@ -16,15 +34,6 @@
         "description": "GitHub Assistant",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/gitfred/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/notes/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/notes/icon.png",
-        "icon_hash": "12d51cd158d2637c78f0258aea0ff48260e9d34719ec3330498f7aba951579a2",
-        "title": "Notes",
-        "description": "Search and create notes in Notes.app",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/notes/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/word-count/",
@@ -61,15 +70,6 @@
         "description": "Quickly play songs via the Music app",
         "author": "caleb531",
         "installation_url": "alfred://gallery/workflow/caleb531/play-song/"
-    },
-    {
-        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
-        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
-        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
-        "title": "String multitool",
-        "description": "Transform text to various formats",
-        "author": "colomolo",
-        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/window-navigator/",
