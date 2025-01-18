@@ -9,6 +9,42 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/notes/"
     },
     {
+        "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/alfred-gallery/icon.png",
+        "icon_hash": "96b848abcbd0ef5b2b195d2db02e6c503d09ebf152b89e57ad3a4414e09ba0e7",
+        "title": "Alfred Gallery",
+        "description": "Search Workflows on the Alfred Gallery",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/alfred-gallery/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/short-films/",
+        "icon_url": "https://alfred.app/workflows/vitor/short-films/icon.png",
+        "icon_hash": "8147780c3900694e1c40590ebd47ee61ee95c3bd45794b87f1b34e695c8a42c4",
+        "title": "Short Films",
+        "description": "Stream from a selection of short films",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/short-films/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
+        "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
+        "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
+        "title": "MTG Card Search",
+        "description": "Search for Magic: The Gathering playing cards",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/mtg-card-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
+        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
+        "title": "Search ALL the Docs!",
+        "description": "Search developer documentation sites",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
+    },
+    {
         "url": "https://alfred.app/workflows/colomolo/string-multitool/",
         "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
         "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
@@ -223,15 +259,6 @@
         "description": "Switch between dock layouts",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/dock-switcher/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/search-all-the-docs/icon.png",
-        "icon_hash": "83cf728187f36b810803ebfd991dcb74cff34537ba940541890c5afaa12a85e2",
-        "title": "Search ALL the Docs!",
-        "description": "Search developer documentation sites",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/unit-converter/",
@@ -709,15 +736,6 @@
         "description": "Search and interact with Hacker News",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/hackerboard/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/mtg-card-search/",
-        "icon_url": "https://alfred.app/workflows/vitor/mtg-card-search/icon.png",
-        "icon_hash": "46848de034168bcdebfd8d9279212c6e205774c86c7183acf7598003ddf62370",
-        "title": "MTG Card Search",
-        "description": "Search for Magic: The Gathering playing cards",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/mtg-card-search/"
     },
     {
         "url": "https://alfred.app/workflows/domrt/cookedwiki/",
@@ -1314,15 +1332,6 @@
         "installation_url": "alfred://gallery/workflow/ahalbert/die-roller/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/alfred-gallery/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/alfred-gallery/icon.png",
-        "icon_hash": "96b848abcbd0ef5b2b195d2db02e6c503d09ebf152b89e57ad3a4414e09ba0e7",
-        "title": "Alfred Gallery",
-        "description": "Search Workflows on the Alfred Gallery",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/alfred-gallery/"
-    },
-    {
         "url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/",
         "icon_url": "https://alfred.app/workflows/alfredapp/heic-to-jpeg/icon.png",
         "icon_hash": "c790f4c0b71b032e11d91c8b45b1d8d99c174064947946b09e9860d53ff35f68",
@@ -1573,15 +1582,6 @@
         "description": "Trigger actions from CleanShot X",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/short-films/",
-        "icon_url": "https://alfred.app/workflows/vitor/short-films/icon.png",
-        "icon_hash": "8147780c3900694e1c40590ebd47ee61ee95c3bd45794b87f1b34e695c8a42c4",
-        "title": "Short Films",
-        "description": "Stream from a selection of short films",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/short-films/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/memory-pairs/",
