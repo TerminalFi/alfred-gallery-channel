@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/",
+        "icon_url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/icon.png",
+        "icon_hash": "5b33b22aea09d6e4f6df321f56bdcbdfedf412bc0f6a1e37ff836d62658e913b",
+        "title": "Wooshy: Window to the Foreground!",
+        "description": "Bring windows to the foreground",
+        "author": "godbout",
+        "installation_url": "alfred://gallery/workflow/godbout/wooshy-window-to-the-foreground/"
+    },
+    {
+        "url": "https://alfred.app/workflows/yohasebe/fzf/",
+        "icon_url": "https://alfred.app/workflows/yohasebe/fzf/icon.png",
+        "icon_hash": "221fda48e65f2de41375e4717e0165dd00bc414a6d86d713d205d7aa9ba55e94",
+        "title": "FZF",
+        "description": "Fuzzy find files and folders",
+        "author": "yohasebe",
+        "installation_url": "alfred://gallery/workflow/yohasebe/fzf/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/notes/",
         "icon_url": "https://alfred.app/workflows/alfredapp/notes/icon.png",
         "icon_hash": "12d51cd158d2637c78f0258aea0ff48260e9d34719ec3330498f7aba951579a2",
@@ -999,15 +1017,6 @@
         "installation_url": "alfred://gallery/workflow/gingerbeardman/moby-games/"
     },
     {
-        "url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/",
-        "icon_url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/icon.png",
-        "icon_hash": "5b33b22aea09d6e4f6df321f56bdcbdfedf412bc0f6a1e37ff836d62658e913b",
-        "title": "Wooshy: Window to the Foreground!",
-        "description": "Bring windows to the foreground",
-        "author": "godbout",
-        "installation_url": "alfred://gallery/workflow/godbout/wooshy-window-to-the-foreground/"
-    },
-    {
         "url": "https://alfred.app/workflows/spongebink/mute-discord/",
         "icon_url": "https://alfred.app/workflows/spongebink/mute-discord/icon.png",
         "icon_hash": "f5bc06842a44681fd16e650562c41bf1e2767a87d7d2f9d850aa5cb30cdfba78",
@@ -1663,15 +1672,6 @@
         "description": "Suite of tools to interact with Microsoft Outlook",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/outlook-suite/"
-    },
-    {
-        "url": "https://alfred.app/workflows/yohasebe/fzf/",
-        "icon_url": "https://alfred.app/workflows/yohasebe/fzf/icon.png",
-        "icon_hash": "221fda48e65f2de41375e4717e0165dd00bc414a6d86d713d205d7aa9ba55e94",
-        "title": "FZF",
-        "description": "Fuzzy find files and folders",
-        "author": "yohasebe",
-        "installation_url": "alfred://gallery/workflow/yohasebe/fzf/"
     },
     {
         "url": "https://alfred.app/workflows/zqzten/web-search-suggest/",
