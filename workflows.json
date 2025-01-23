@@ -1,12 +1,12 @@
 [
     {
-        "url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/",
-        "icon_url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/icon.png",
-        "icon_hash": "5b33b22aea09d6e4f6df321f56bdcbdfedf412bc0f6a1e37ff836d62658e913b",
-        "title": "Wooshy: Window to the Foreground!",
-        "description": "Bring windows to the foreground",
-        "author": "godbout",
-        "installation_url": "alfred://gallery/workflow/godbout/wooshy-window-to-the-foreground/"
+        "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
+        "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
+        "title": "linkding Bookmarks",
+        "description": "Search linkding bookmarks",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/linkding-bookmarks/"
     },
     {
         "url": "https://alfred.app/workflows/yohasebe/fzf/",
@@ -16,6 +16,15 @@
         "description": "Fuzzy find files and folders",
         "author": "yohasebe",
         "installation_url": "alfred://gallery/workflow/yohasebe/fzf/"
+    },
+    {
+        "url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/",
+        "icon_url": "https://alfred.app/workflows/godbout/wooshy-window-to-the-foreground/icon.png",
+        "icon_hash": "5b33b22aea09d6e4f6df321f56bdcbdfedf412bc0f6a1e37ff836d62658e913b",
+        "title": "Wooshy: Window to the Foreground!",
+        "description": "Bring windows to the foreground",
+        "author": "godbout",
+        "installation_url": "alfred://gallery/workflow/godbout/wooshy-window-to-the-foreground/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/notes/",
@@ -889,15 +898,6 @@
         "description": "Toggle bluetooth and paired device connectivity",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/dente-azul/"
-    },
-    {
-        "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
-        "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
-        "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
-        "title": "linkding Bookmarks",
-        "description": "Search linkding bookmarks",
-        "author": "firefingers21",
-        "installation_url": "alfred://gallery/workflow/firefingers21/linkding-bookmarks/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/mount-disks/",
