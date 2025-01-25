@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
+        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
+        "title": "Shimmering Obsidian",
+        "description": "Interact with Obsidian",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
+    },
+    {
+        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
+        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
+        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
+        "title": "String multitool",
+        "description": "Transform text to various formats",
+        "author": "colomolo",
+        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
+    },
+    {
         "url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/",
         "icon_url": "https://alfred.app/workflows/firefingers21/linkding-bookmarks/icon.png",
         "icon_hash": "7c290904942296452d28934c030dd061b140b00d27bfd6e9264414e39cfdb262",
@@ -70,15 +88,6 @@
         "description": "Search developer documentation sites",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/search-all-the-docs/"
-    },
-    {
-        "url": "https://alfred.app/workflows/colomolo/string-multitool/",
-        "icon_url": "https://alfred.app/workflows/colomolo/string-multitool/icon.png",
-        "icon_hash": "4a2462ef90761bae580369c29be38e349cfc7df27148d5cf88d20e9a18dbbe4c",
-        "title": "String multitool",
-        "description": "Transform text to various formats",
-        "author": "colomolo",
-        "installation_url": "alfred://gallery/workflow/colomolo/string-multitool/"
     },
     {
         "url": "https://alfred.app/workflows/firefingers21/tag-finder/",
@@ -466,15 +475,6 @@
         "description": "Search for emoji",
         "author": "fedecalendino",
         "installation_url": "alfred://gallery/workflow/fedecalendino/emoji-mate/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
-        "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
-        "title": "Shimmering Obsidian",
-        "description": "Interact with Obsidian",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/shimmering-obsidian/"
     },
     {
         "url": "https://alfred.app/workflows/firefingers21/firefox-bookmarks/",
