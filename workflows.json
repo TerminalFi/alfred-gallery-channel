@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/aarblaster/battery-level/",
+        "icon_url": "https://alfred.app/workflows/aarblaster/battery-level/icon.png",
+        "icon_hash": "e03c14f5e7e1799125e03f8106b703a1dda9c53f64f3246a5562635a4e8451cc",
+        "title": "Battery Level",
+        "description": "Show current battery level of your Mac",
+        "author": "aarblaster",
+        "installation_url": "alfred://gallery/workflow/aarblaster/battery-level/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/icon.png",
         "icon_hash": "8183c93b3b8035860d9753a8d76593678c30fe400b2e202f9d5604c32741fd1a",
