@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/firefingers21/resolution-changer/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/resolution-changer/icon.png",
+        "icon_hash": "264a208b3c7bea5049716a1313a15df70751cc513b46c78674a6d504e9200c4d",
+        "title": "Resolution Changer",
+        "description": "Quickly change the resolution of your displays",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/resolution-changer/"
+    },
+    {
         "url": "https://alfred.app/workflows/aarblaster/battery-level/",
         "icon_url": "https://alfred.app/workflows/aarblaster/battery-level/icon.png",
         "icon_hash": "e03c14f5e7e1799125e03f8106b703a1dda9c53f64f3246a5562635a4e8451cc",
