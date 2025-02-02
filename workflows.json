@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/alfredapp/1password/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
+        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
+        "title": "1Password",
+        "description": "Search and open 1Password items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
+    },
+    {
         "url": "https://alfred.app/workflows/firefingers21/resolution-changer/",
         "icon_url": "https://alfred.app/workflows/firefingers21/resolution-changer/icon.png",
         "icon_hash": "264a208b3c7bea5049716a1313a15df70751cc513b46c78674a6d504e9200c4d",
@@ -538,15 +547,6 @@
         "description": "List File Stream contents from Google Drive",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/1password/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
-        "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
-        "title": "1Password",
-        "description": "Search and open 1Password items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/1password/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
