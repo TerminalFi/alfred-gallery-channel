@@ -1,5 +1,32 @@
 [
     {
+        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
+        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
+        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
+        "title": "Chromium Bookmarks and History Search",
+        "description": "Search in Chromium Histories and Bookmarks",
+        "author": "acidham",
+        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alanhe/about-mac/",
+        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
+        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
+        "title": "About Mac",
+        "description": "Show \"About This Mac\" information",
+        "author": "alanhe",
+        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
+    },
+    {
+        "url": "https://alfred.app/workflows/aarblaster/battery-level/",
+        "icon_url": "https://alfred.app/workflows/aarblaster/battery-level/icon.png",
+        "icon_hash": "e03c14f5e7e1799125e03f8106b703a1dda9c53f64f3246a5562635a4e8451cc",
+        "title": "Battery Level",
+        "description": "Show current battery level of your Mac",
+        "author": "aarblaster",
+        "installation_url": "alfred://gallery/workflow/aarblaster/battery-level/"
+    },
+    {
         "url": "https://alfred.app/workflows/alfredapp/1password/",
         "icon_url": "https://alfred.app/workflows/alfredapp/1password/icon.png",
         "icon_hash": "2f467868f04c521419d554b34ec90ac148e9b655f1a9c25cb5fc6975a4ba0d43",
@@ -16,15 +43,6 @@
         "description": "Quickly change the resolution of your displays",
         "author": "firefingers21",
         "installation_url": "alfred://gallery/workflow/firefingers21/resolution-changer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/aarblaster/battery-level/",
-        "icon_url": "https://alfred.app/workflows/aarblaster/battery-level/icon.png",
-        "icon_hash": "e03c14f5e7e1799125e03f8106b703a1dda9c53f64f3246a5562635a4e8451cc",
-        "title": "Battery Level",
-        "description": "Show current battery level of your Mac",
-        "author": "aarblaster",
-        "installation_url": "alfred://gallery/workflow/aarblaster/battery-level/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/",
@@ -232,15 +250,6 @@
         "description": "Save links as markdown to read later",
         "author": "chrisgrieser",
         "installation_url": "alfred://gallery/workflow/chrisgrieser/read-later/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alanhe/about-mac/",
-        "icon_url": "https://alfred.app/workflows/alanhe/about-mac/icon.png",
-        "icon_hash": "bf049178f0ef5fc7ab48c9d7e4f163e87b0fe29e574a9dbb8f3f0f3183676888",
-        "title": "About Mac",
-        "description": "Show \"About This Mac\" information",
-        "author": "alanhe",
-        "installation_url": "alfred://gallery/workflow/alanhe/about-mac/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/delete-configuration/",
@@ -1744,15 +1753,6 @@
         "description": "List, search, and open your Readwise highlights",
         "author": "giovanni",
         "installation_url": "alfred://gallery/workflow/giovanni/readwise/"
-    },
-    {
-        "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
-        "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
-        "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
-        "title": "Chromium Bookmarks and History Search",
-        "description": "Search in Chromium Histories and Bookmarks",
-        "author": "acidham",
-        "installation_url": "alfred://gallery/workflow/acidham/chromium-bookmarks-and-history-search/"
     },
     {
         "url": "https://alfred.app/workflows/alfredapp/share-with-airdrop/",
