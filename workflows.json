@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
+        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
+        "title": "Homebrew Search",
+        "description": "Search, install, or uninstall homebrew packages",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
+        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
+        "title": "Writing Assistant",
+        "description": "Autocorrect , synonym suggestions, and rephrasings",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/simple-to-do-list/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/simple-to-do-list/icon.png",
+        "icon_hash": "e3681159855bea95d2d2df849a7d9654f7fc2133f617fe31a55efb62b0893ac2",
+        "title": "Simple To-Do List",
+        "description": "Add tasks to to-do lists and view them",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/simple-to-do-list/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/cleanshot-x/",
+        "icon_url": "https://alfred.app/workflows/stephenc/cleanshot-x/icon.png",
+        "icon_hash": "411ed2c1b4e7530fdb44aff493281da4405773a0fe4fa3931786147927950b97",
+        "title": "CleanShot X",
+        "description": "Trigger actions from CleanShot X",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
+    },
+    {
         "url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/",
         "icon_url": "https://alfred.app/workflows/acidham/chromium-bookmarks-and-history-search/icon.png",
         "icon_hash": "67b14f30d339f4d19526506964686df387d990d094432dd23b76a442282dc624",
@@ -484,15 +520,6 @@
         "description": "Take a screenshot and copy its text to the clipboard",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/ocr/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
-        "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
-        "title": "Homebrew Search",
-        "description": "Search, install, or uninstall homebrew packages",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/homebrew-search/"
     },
     {
         "url": "https://alfred.app/workflows/zeitlings/set-default-browser/",
@@ -1024,15 +1051,6 @@
         "description": "Compress images via TinyPNG",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/tinypng/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/writing-assistant/icon.png",
-        "icon_hash": "ea7e07d4852b0d8f67ef9e881c2e59ddc9c6854b8c7d57499dc23679741311da",
-        "title": "Writing Assistant",
-        "description": "Autocorrect , synonym suggestions, and rephrasings",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/writing-assistant/"
     },
     {
         "url": "https://alfred.app/workflows/gingerbeardman/moby-games/",
@@ -1609,15 +1627,6 @@
         "description": "Save, view and edit quick notes in a single plain text file",
         "author": "stephenc",
         "installation_url": "alfred://gallery/workflow/stephenc/save-ur-note/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/cleanshot-x/",
-        "icon_url": "https://alfred.app/workflows/stephenc/cleanshot-x/icon.png",
-        "icon_hash": "411ed2c1b4e7530fdb44aff493281da4405773a0fe4fa3931786147927950b97",
-        "title": "CleanShot X",
-        "description": "Trigger actions from CleanShot X",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/cleanshot-x/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/memory-pairs/",
@@ -2446,15 +2455,6 @@
         "description": "Search and open ruby gems on rubygems.org",
         "author": "manewitz",
         "installation_url": "alfred://gallery/workflow/manewitz/rubygems/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/simple-to-do-list/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/simple-to-do-list/icon.png",
-        "icon_hash": "e3681159855bea95d2d2df849a7d9654f7fc2133f617fe31a55efb62b0893ac2",
-        "title": "Simple To-Do List",
-        "description": "Add tasks to to-do lists and view them",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/simple-to-do-list/"
     },
     {
         "url": "https://alfred.app/workflows/rknightuk/get-safari-tabs/",
