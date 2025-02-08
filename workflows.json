@@ -1,5 +1,41 @@
 [
     {
+        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
+        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
+        "title": "atop",
+        "description": "System Monitoring and Process Management",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/icon.png",
+        "icon_hash": "eae540e012feae2d0668428f3592f33db03fb9919dd9123f3ae2d2e7cd7b2d10",
+        "title": "Clean Workflow Data",
+        "description": "Trash Data and Cache folders of uninstalled workflows",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/clean-workflow-data/"
+    },
+    {
+        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
+        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
+        "title": "Emoji Wine",
+        "description": "Find and tag emoji to your liking",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
+    },
+    {
+        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
+        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
+        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
+        "title": "Supercharged Citation Picker",
+        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
+        "author": "chrisgrieser",
+        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/homebrew-search/icon.png",
         "icon_hash": "8b505cb891562d59efb7744001a8f0bd88662c1d75aa148b741aeddbc0425663",
@@ -198,24 +234,6 @@
         "installation_url": "alfred://gallery/workflow/stephenc/word-count/"
     },
     {
-        "url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/supercharged-citation-picker/icon.png",
-        "icon_hash": "8799c54a096c4198384280546af0370d5aede462ca4dcc32fa0aac2cca136e1d",
-        "title": "Supercharged Citation Picker",
-        "description": "BibTeX Citation Picker for Pandoc Citation Syntax",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/supercharged-citation-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/emoji-wine/icon.png",
-        "icon_hash": "0cf914eb64487306c1c0f39251746b94e39238027c500c76d167fdc4d720f7b6",
-        "title": "Emoji Wine",
-        "description": "Find and tag emoji to your liking",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/emoji-wine/"
-    },
-    {
         "url": "https://alfred.app/workflows/caleb531/play-song/",
         "icon_url": "https://alfred.app/workflows/caleb531/play-song/icon.png",
         "icon_hash": "dd13fc7340be2af4507ec8900eb6de5112884c51014a36b515e7afe545b30c8b",
@@ -331,15 +349,6 @@
         "description": "Search and open your JetBrains IDEs projects",
         "author": "artemy",
         "installation_url": "alfred://gallery/workflow/artemy/recent-jetbrains-projects/"
-    },
-    {
-        "url": "https://alfred.app/workflows/chrisgrieser/atop/",
-        "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
-        "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
-        "title": "atop",
-        "description": "System Monitoring and Process Management",
-        "author": "chrisgrieser",
-        "installation_url": "alfred://gallery/workflow/chrisgrieser/atop/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/open-macos-settings-panes/",
@@ -1015,15 +1024,6 @@
         "description": "Open Unix Manual Pages",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/read-the-friendly-manual/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/clean-workflow-data/icon.png",
-        "icon_hash": "eae540e012feae2d0668428f3592f33db03fb9919dd9123f3ae2d2e7cd7b2d10",
-        "title": "Clean Workflow Data",
-        "description": "Trash Data and Cache folders of uninstalled workflows",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/clean-workflow-data/"
     },
     {
         "url": "https://alfred.app/workflows/svenko99/shazam/",
