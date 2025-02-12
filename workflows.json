@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/benjaminoddou/file-explorer/",
+        "icon_url": "https://alfred.app/workflows/benjaminoddou/file-explorer/icon.png",
+        "icon_hash": "4012ff2c4b91108893b947120e2f2dd07aeff21f74510e96c568c7899bd798bb",
+        "title": "File Explorer",
+        "description": "Rename files through a spreadsheet",
+        "author": "benjaminoddou",
+        "installation_url": "alfred://gallery/workflow/benjaminoddou/file-explorer/"
+    },
+    {
         "url": "https://alfred.app/workflows/chrisgrieser/atop/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/atop/icon.png",
         "icon_hash": "e86073bc83f4c8f164b80b9722c2631cdfa3a2fb911dbdc18a4ddc380736dbe1",
@@ -1942,15 +1951,6 @@
         "description": "Download video and audio from web pages",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/download-media/"
-    },
-    {
-        "url": "https://alfred.app/workflows/benjaminoddou/file-explorer/",
-        "icon_url": "https://alfred.app/workflows/benjaminoddou/file-explorer/icon.png",
-        "icon_hash": "4012ff2c4b91108893b947120e2f2dd07aeff21f74510e96c568c7899bd798bb",
-        "title": "File Explorer",
-        "description": "Rename files through a spreadsheet",
-        "author": "benjaminoddou",
-        "installation_url": "alfred://gallery/workflow/benjaminoddou/file-explorer/"
     },
     {
         "url": "https://alfred.app/workflows/stephenc/date-arithemetic/",
