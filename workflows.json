@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/run-command/",
+        "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
+        "icon_hash": "13910ceff26e951a228db14e466341e359883f7037607dbfdf994152e227a632",
+        "title": "Run Command",
+        "description": "Run commands using your shell configuration",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/run-command/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/upload-file/",
         "icon_url": "https://alfred.app/workflows/vitor/upload-file/icon.png",
         "icon_hash": "9030d06593ed7567030373935eb39db19bf94fc06a59bf7b76c2149d08e3a6a9",
@@ -709,15 +718,6 @@
         "description": "A reflexes game for two players",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/turn-shoot/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/run-command/",
-        "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
-        "icon_hash": "13910ceff26e951a228db14e466341e359883f7037607dbfdf994152e227a632",
-        "title": "Run Command",
-        "description": "Run commands using your shell configuration",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/run-command/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/start-recording/",
