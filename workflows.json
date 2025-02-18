@@ -1,5 +1,59 @@
 [
     {
+        "url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/icon.png",
+        "icon_hash": "6ce41d8525a5234ef72606563fd5ceec2bfa546660748302e7a7556e5a1190f7",
+        "title": "Bluetooth Device Battery",
+        "description": "View the battery charge status of connected bluetooth devices",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/bluetooth-device-battery/"
+    },
+    {
+        "url": "https://alfred.app/workflows/spongebink/mute-discord/",
+        "icon_url": "https://alfred.app/workflows/spongebink/mute-discord/icon.png",
+        "icon_hash": "f5bc06842a44681fd16e650562c41bf1e2767a87d7d2f9d850aa5cb30cdfba78",
+        "title": "Mute Discord",
+        "description": "Mute and unmute Discord without Input Monitoring permissions",
+        "author": "spongebink",
+        "installation_url": "alfred://gallery/workflow/spongebink/mute-discord/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vanstrouble/amphetamine-dose/",
+        "icon_url": "https://alfred.app/workflows/vanstrouble/amphetamine-dose/icon.png",
+        "icon_hash": "aff1bebbe6e54485df8adf5f7621e1148ef116dfb0f764fe21d29c9639af5b02",
+        "title": "Amphetamine Dose",
+        "description": "Keep your Mac awake via the Amphetamine app",
+        "author": "vanstrouble",
+        "installation_url": "alfred://gallery/workflow/vanstrouble/amphetamine-dose/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/icon.png",
+        "icon_hash": "d589cc6092684e19b664a3c670d44ea2a7364651a9f5ff13086a12903d6a477b",
+        "title": "Clipboard History Extender",
+        "description": "Backup and view Clipboard History text items",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/clipboard-history-extender/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/wolframalpha/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/wolframalpha/icon.png",
+        "icon_hash": "e582f29f50fad1abf6e11b0cb26e73d177b0511803364d5b606bd28b39afbb29",
+        "title": "WolframAlpha",
+        "description": "Query the WolframAlpha answer engine",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/wolframalpha/"
+    },
+    {
+        "url": "https://alfred.app/workflows/firefingers21/system-settings-explorer/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/system-settings-explorer/icon.png",
+        "icon_hash": "530aa31f6adf3489d7ed376c1baaad46a493b00fa120f09b2a7f15e58e8f1507",
+        "title": "System Settings Explorer",
+        "description": "Navigate System Settings in a Grid",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/system-settings-explorer/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/run-command/",
         "icon_url": "https://alfred.app/workflows/vitor/run-command/icon.png",
         "icon_hash": "13910ceff26e951a228db14e466341e359883f7037607dbfdf994152e227a632",
@@ -313,15 +367,6 @@
         "description": "Browse ZIP archives and extract individual files",
         "author": "odapg",
         "installation_url": "alfred://gallery/workflow/odapg/alzibro/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/wolframalpha/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/wolframalpha/icon.png",
-        "icon_hash": "e582f29f50fad1abf6e11b0cb26e73d177b0511803364d5b606bd28b39afbb29",
-        "title": "WolframAlpha",
-        "description": "Query the WolframAlpha API",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/wolframalpha/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/chromium-extensions-and-pages/",
@@ -765,15 +810,6 @@
         "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
     },
     {
-        "url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/clipboard-history-extender/icon.png",
-        "icon_hash": "d589cc6092684e19b664a3c670d44ea2a7364651a9f5ff13086a12903d6a477b",
-        "title": "Clipboard History Extender",
-        "description": "Backup and view Clipboard History text items",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/clipboard-history-extender/"
-    },
-    {
         "url": "https://alfred.app/workflows/chrisgrieser/pass/",
         "icon_url": "https://alfred.app/workflows/chrisgrieser/pass/icon.png",
         "icon_hash": "0af8c6a78ecce6635fd5316b6435fc325cd0ae42055155beb0ae2d38e1d35c54",
@@ -1071,15 +1107,6 @@
         "installation_url": "alfred://gallery/workflow/gingerbeardman/moby-games/"
     },
     {
-        "url": "https://alfred.app/workflows/spongebink/mute-discord/",
-        "icon_url": "https://alfred.app/workflows/spongebink/mute-discord/icon.png",
-        "icon_hash": "f5bc06842a44681fd16e650562c41bf1e2767a87d7d2f9d850aa5cb30cdfba78",
-        "title": "Mute Discord",
-        "description": "Mute and unmute Discord without Input Monitoring permissions",
-        "author": "spongebink",
-        "installation_url": "alfred://gallery/workflow/spongebink/mute-discord/"
-    },
-    {
         "url": "https://alfred.app/workflows/willfarrell/package-managers/",
         "icon_url": "https://alfred.app/workflows/willfarrell/package-managers/icon.png",
         "icon_hash": "076c7291b7b8808b20f51bf188a0f4d061bea407463894f350efe1a9aaeb6a87",
@@ -1312,15 +1339,6 @@
         "description": "Read and create URL QR Codes",
         "author": "alanhe",
         "installation_url": "alfred://gallery/workflow/alanhe/qr-reader/"
-    },
-    {
-        "url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/",
-        "icon_url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/icon.png",
-        "icon_hash": "6ce41d8525a5234ef72606563fd5ceec2bfa546660748302e7a7556e5a1190f7",
-        "title": "Bluetooth Device Battery",
-        "description": "View the battery charge status of connected bluetooth devices",
-        "author": "zeitlings",
-        "installation_url": "alfred://gallery/workflow/zeitlings/bluetooth-device-battery/"
     },
     {
         "url": "https://alfred.app/workflows/akrabat/date-tools/",
