@@ -1,12 +1,30 @@
 [
     {
-        "url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/",
-        "icon_url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/icon.png",
-        "icon_hash": "6ce41d8525a5234ef72606563fd5ceec2bfa546660748302e7a7556e5a1190f7",
-        "title": "Bluetooth Device Battery",
-        "description": "View the battery charge status of connected bluetooth devices",
-        "author": "zeitlings",
-        "installation_url": "alfred://gallery/workflow/zeitlings/bluetooth-device-battery/"
+        "url": "https://alfred.app/workflows/firefingers21/system-settings-explorer/",
+        "icon_url": "https://alfred.app/workflows/firefingers21/system-settings-explorer/icon.png",
+        "icon_hash": "530aa31f6adf3489d7ed376c1baaad46a493b00fa120f09b2a7f15e58e8f1507",
+        "title": "System Settings Explorer",
+        "description": "Navigate System Settings in a Grid",
+        "author": "firefingers21",
+        "installation_url": "alfred://gallery/workflow/firefingers21/system-settings-explorer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
+        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
+        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
+        "title": "Shutdown Timer",
+        "description": "Turn off macOS on a timer",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
+    },
+    {
+        "url": "https://alfred.app/workflows/stephenc/view-folder-contents/",
+        "icon_url": "https://alfred.app/workflows/stephenc/view-folder-contents/icon.png",
+        "icon_hash": "0c643575884323c545939423f57572cdc90f8a110701bb3a040f358c660e53b5",
+        "title": "View Folder Contents",
+        "description": "Display contents of a folder",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/view-folder-contents/"
     },
     {
         "url": "https://alfred.app/workflows/spongebink/mute-discord/",
@@ -16,6 +34,15 @@
         "description": "Mute and unmute Discord without Input Monitoring permissions",
         "author": "spongebink",
         "installation_url": "alfred://gallery/workflow/spongebink/mute-discord/"
+    },
+    {
+        "url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/",
+        "icon_url": "https://alfred.app/workflows/zeitlings/bluetooth-device-battery/icon.png",
+        "icon_hash": "6ce41d8525a5234ef72606563fd5ceec2bfa546660748302e7a7556e5a1190f7",
+        "title": "Bluetooth Device Battery",
+        "description": "View the battery charge status of connected bluetooth devices",
+        "author": "zeitlings",
+        "installation_url": "alfred://gallery/workflow/zeitlings/bluetooth-device-battery/"
     },
     {
         "url": "https://alfred.app/workflows/vanstrouble/amphetamine-dose/",
@@ -43,15 +70,6 @@
         "description": "Query the WolframAlpha answer engine",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/wolframalpha/"
-    },
-    {
-        "url": "https://alfred.app/workflows/firefingers21/system-settings-explorer/",
-        "icon_url": "https://alfred.app/workflows/firefingers21/system-settings-explorer/icon.png",
-        "icon_hash": "530aa31f6adf3489d7ed376c1baaad46a493b00fa120f09b2a7f15e58e8f1507",
-        "title": "System Settings Explorer",
-        "description": "Navigate System Settings in a Grid",
-        "author": "firefingers21",
-        "installation_url": "alfred://gallery/workflow/firefingers21/system-settings-explorer/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/run-command/",
@@ -664,15 +682,6 @@
         "description": "List File Stream contents from Google Drive",
         "author": "alfredapp",
         "installation_url": "alfred://gallery/workflow/alfredapp/google-drive/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/shutdown-timer/",
-        "icon_url": "https://alfred.app/workflows/vitor/shutdown-timer/icon.png",
-        "icon_hash": "eed99a0b910d3a1badac3547005e77e6736c089820241f49281c5bb1dd21d9ca",
-        "title": "Shutdown Timer",
-        "description": "Turn off macOS on a timer",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/sequential-paste/",
