@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://alfred.app/workflows/vitor/recommendation-nation/",
+        "icon_url": "https://alfred.app/workflows/vitor/recommendation-nation/icon.png",
+        "icon_hash": "a38e694ae2ae59e66ce7d5b5430b519310c38947c513004b6bf79d8f053aa973",
+        "title": "Recommendation Nation",
+        "description": "Track recommendations of media to watch, read, play",
+        "author": "vitor",
+        "installation_url": "alfred://gallery/workflow/vitor/recommendation-nation/"
+    },
+    {
         "url": "https://alfred.app/workflows/firefingers21/system-settings-explorer/",
         "icon_url": "https://alfred.app/workflows/firefingers21/system-settings-explorer/icon.png",
         "icon_hash": "530aa31f6adf3489d7ed376c1baaad46a493b00fa120f09b2a7f15e58e8f1507",
@@ -988,15 +997,6 @@
         "description": "Connect and disconnect your AirPods",
         "author": "acidham",
         "installation_url": "alfred://gallery/workflow/acidham/airpods-connector/"
-    },
-    {
-        "url": "https://alfred.app/workflows/vitor/recommendation-nation/",
-        "icon_url": "https://alfred.app/workflows/vitor/recommendation-nation/icon.png",
-        "icon_hash": "a38e694ae2ae59e66ce7d5b5430b519310c38947c513004b6bf79d8f053aa973",
-        "title": "Recommendation Nation",
-        "description": "Track recommendations of media to watch, read, play",
-        "author": "vitor",
-        "installation_url": "alfred://gallery/workflow/vitor/recommendation-nation/"
     },
     {
         "url": "https://alfred.app/workflows/vitor/app-freeze/",
