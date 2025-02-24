@@ -1,5 +1,23 @@
 [
     {
+        "url": "https://alfred.app/workflows/stephenc/view-folder-contents/",
+        "icon_url": "https://alfred.app/workflows/stephenc/view-folder-contents/icon.png",
+        "icon_hash": "0c643575884323c545939423f57572cdc90f8a110701bb3a040f358c660e53b5",
+        "title": "View Folder Contents",
+        "description": "Display contents of a folder",
+        "author": "stephenc",
+        "installation_url": "alfred://gallery/workflow/stephenc/view-folder-contents/"
+    },
+    {
+        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
+        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
+        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
+        "title": "System Settings",
+        "description": "Open macOS System Settings Panes",
+        "author": "alfredapp",
+        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
+    },
+    {
         "url": "https://alfred.app/workflows/vitor/play-address/",
         "icon_url": "https://alfred.app/workflows/vitor/play-address/icon.png",
         "icon_hash": "f2c070e30442c5cc5859766acc023a28b86551858391748e40af1a13c4c9d667",
@@ -70,15 +88,6 @@
         "description": "Turn off macOS on a timer",
         "author": "vitor",
         "installation_url": "alfred://gallery/workflow/vitor/shutdown-timer/"
-    },
-    {
-        "url": "https://alfred.app/workflows/stephenc/view-folder-contents/",
-        "icon_url": "https://alfred.app/workflows/stephenc/view-folder-contents/icon.png",
-        "icon_hash": "0c643575884323c545939423f57572cdc90f8a110701bb3a040f358c660e53b5",
-        "title": "View Folder Contents",
-        "description": "Display contents of a folder",
-        "author": "stephenc",
-        "installation_url": "alfred://gallery/workflow/stephenc/view-folder-contents/"
     },
     {
         "url": "https://alfred.app/workflows/spongebink/mute-discord/",
@@ -817,15 +826,6 @@
         "description": "Colour picker and previewer",
         "author": "zeitlings",
         "installation_url": "alfred://gallery/workflow/zeitlings/color-picker/"
-    },
-    {
-        "url": "https://alfred.app/workflows/alfredapp/system-settings/",
-        "icon_url": "https://alfred.app/workflows/alfredapp/system-settings/icon.png",
-        "icon_hash": "5ed7adbaa802cbb2a94a3623f7263be96a547bf977b2d17ae521f0e8c1f7577f",
-        "title": "System Settings",
-        "description": "Open macOS System Settings Panes",
-        "author": "alfredapp",
-        "installation_url": "alfred://gallery/workflow/alfredapp/system-settings/"
     },
     {
         "url": "https://alfred.app/workflows/chrisgrieser/pass/",
